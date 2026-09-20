@@ -8,7 +8,7 @@ import math
 import re
 from datetime import datetime, timezone
 
-from .textutil import clickbait_score
+from .textutil import clickbait_score, is_explainer, norm_tokens
 
 # ---- tunables (documented in README) ---------------------------------------------------------
 THRESHOLDS = {
@@ -51,20 +51,20 @@ SIGNALS = [
 ]
 _SIG = [(re.compile(p, re.I), w, t, why) for p, w, t, why in SIGNALS]
 
-FLUFF = re.compile(r"\b(celebrity|kardashian|red carpet|dating|dress|outfit|horoscope|recipe|gossip|influencer|tiktok trend|"
+FLUFF = re.compile(r"\b(royal|harry and meghan|prince|princess|golden retriever|dog|video shows|racetrack|horse racing|viral|celebrity|kardashian|red carpet|dating|dress|outfit|horoscope|recipe|gossip|influencer|tiktok trend|"
                    r"quiz|best deals?|black friday|review:|podcast|newsletter|opinion|column|editorial)\b", re.I)
 OPINION_TITLE = re.compile(r"^\s*(opinion|analysis|editorial|column|letters?|commentary|review)\b\s*[:|-]", re.I)
 OPINION_URL = re.compile(r"/(opinion|opinions|commentisfree|editorial|voices|analysis-opinion|blogs?)/", re.I)
 
 CAT_KEYWORDS = {
-    "usa": r"\b(u\.?s\.?|united states|american|trump|biden|harris|vance|congress|senate|white house|pentagon|supreme court|fbi|doj|federal|washington)\b",
+    "usa": r"\b(united states|american|trump|biden|harris|vance|congress|senate|white house|pentagon|supreme court|fbi|doj|federal|washington)\b",
     "economy": r"\b(econom\w+|inflation|fed|rates?|markets?|stocks?|shares|earnings|gdp|jobs|tariffs?|oil|bank\w*|trade|prices?|dollar|wall street)\b",
     "technology": r"\b(tech\w*|ai|artificial intelligence|software|chip\w*|apple|google|microsoft|meta|nvidia|openai|cyber\w*|app|startup|robot\w*|cloud|outage|internet|websites?|hack\w*|data breach)\b",
     "science": r"\b(scien\w+|researchers?|study|nasa|space|telescope|physics|species|fossil|discover\w+|astronom\w+|quantum)\b",
     "health": r"\b(health|virus|outbreak|disease|vaccine|hospital|cancer|fda|who|cdc|drug|medic\w+|pandemic|measles)\b",
     "security": r"\b(attack\w*|shooting|terror\w*|police|military|troops|missile|war|security|bomb\w*|killed|hostage\w*|crime)\b",
     "climate": r"\b(climate|weather|hurricane|wildfire|flood\w*|storm|earthquake|tsunami|drought|emissions|heat ?wave|environment)\b",
-    "sports": r"\b(sport\w*|nba|nfl|mlb|nhl|fifa|olympic\w*|world cup|match|league|tournament|championship|coach|goal|tennis|golf|f1|formula 1)\b",
+    "sports": r"\b(sport\w*|nba|nfl|mlb|nhl|fifa|olympic\w*|world cup|match|league|tournament|championship|coach|goal|tennis|golf|f1|formula 1|derby|cup|final|quarterback|touchdown|striker|goalkeeper|premier league|la liga|serie a|bundesliga|cricket|rugby|wicket|innings|davis cup|racing|season|playoffs?|beat|ousts?)\b",
     "culture": r"\b(film|movie|music|album|celebrity|festival|oscar\w*|grammy\w*|art|museum|book|tv|series|actor|singer|theatre|nobel)\b",
 }
 _CAT = {k: re.compile(v, re.I) for k, v in CAT_KEYWORDS.items()}
@@ -81,6 +81,9 @@ TAG_KEYWORDS = {
 }
 _TAG = {k: re.compile(v, re.I) for k, v in TAG_KEYWORDS.items()}
 
+US_CS = re.compile(r"\b(U\.S\.|US|USA)\b")
+ANIMAL = re.compile(r"\b(lions?|dogs?|cats?|elephants?|animals?|wildlife|poach\w*|rhinos?|tigers?|birds?|whales?|horses?)\b", re.I)
+HUMAN = re.compile(r"\b(people|residents|civilians|soldiers|militants|children|workers|victims|police|officers|hostages|suspects|passengers|migrants)\b", re.I)
 NUM_CASUALTY = re.compile(r"\b(\d[\d,]*)\s+(?:people\s+)?(?:have been\s+)?(?:killed|dead|deaths|died|injured|displaced|missing|evacuated)", re.I)
 QUAKE_MAG = re.compile(r"magnitude\s+(\d(?:\.\d)?)", re.I)
 
@@ -91,6 +94,7 @@ def classify(cluster: list[dict], text: str, local_keywords: list[str]) -> tuple
         h = HINT_MAP.get(it["category_hint"])
         if h:
             scores[h] = scores.get(h, 0) + 1.5
+    scores["usa"] = scores.get("usa", 0) + len(US_CS.findall(text))       # case-sensitive: "US"/"U.S." not the pronoun "us"
     world_hits = len(re.findall(r"\b(china|russia|ukraine|israel|gaza|iran|india|europe\w*|africa\w*|asia\w*|middle east|"
                                 r"un\b|nato|eu\b|london|paris|beijing|moscow|tehran|brazil|mexico|japan|korea|pakistan)\b", text, re.I))
     scores["world"] = scores.get("world", 0) + world_hits * 0.8
@@ -116,8 +120,11 @@ def classify(cluster: list[dict], text: str, local_keywords: list[str]) -> tuple
 
 def impact_signals(text: str) -> tuple[float, list[tuple[str, float]], float]:
     hits = []
+    animal_only = bool(ANIMAL.search(text)) and not HUMAN.search(text)
     for rx, w, tags, why in _SIG:
         if rx.search(text):
+            if animal_only and why == "loss of life":
+                continue          # animal deaths are not human casualties
             hits.append((why, w))
     hits.sort(key=lambda x: -x[1])
     base = hits[0][1] if hits else 0.15
@@ -163,6 +170,13 @@ def score_story(cluster: list[dict], ver, now: datetime, sources: dict, local_ke
         raw -= 30  # opinion pieces are not "what happened"
     if ver.status == "UNVERIFIED":
         raw -= 12
+    if all(is_explainer(it["title"]) for it in cluster):
+        raw -= 8                              # explainers/features are not "what happened"
+    if not any(it.get("summary") for it in cluster):
+        raw -= 6                              # headline-only coverage: we cannot even summarise it
+    if category in ("sports", "culture"):     # a match result is never as important as war, health or the economy
+        major = any(w in ("major sporting event", "cultural event") for w, _ in hits)
+        raw = min(raw, 55 if major else 45)
     score = round(min(max(raw, 0), 100), 1)
 
     # priority level with explicit, auditable criteria
@@ -186,10 +200,28 @@ def _group(cat: str) -> str:
     return GROUP_OF.get(cat, cat)
 
 
+def _sig(story: dict) -> set:
+    t = " ".join(it["title"] + " " + it.get("summary", "")[:160] for it in story["cluster"])
+    return {w for w in norm_tokens(t) if len(w) > 3}
+
+
+def _dup(a: set, b: set) -> bool:
+    """Same event told by two clusters that clustering could not join (e.g. official bulletin vs news write-up)."""
+    return len(a & b) >= 4 and len(a & b) / max(1, min(len(a), len(b))) >= 0.35
+
+
 def select_top(stories: list[dict], n: int = 10) -> list[dict]:
     """stories: each has ['rank'] dict and ['verification'].status. Returns ordered selection."""
     T = THRESHOLDS
     cands = [s for s in stories if s["rank"]["score"] >= T["min_score"]]
+    cands.sort(key=lambda s: -s["rank"]["score"])
+    kept, sigs = [], []
+    for s in cands:                       # drop the weaker copy of an event that appears twice
+        sg = _sig(s)
+        if any(s["rank"]["category"] == k["rank"]["category"] and _dup(sg, g) for k, g in zip(kept, sigs)):
+            continue
+        kept.append(s); sigs.append(sg)
+    cands = kept
     ok = [s for s in cands if s["verification"]["status"] != "UNVERIFIED"]
     weak = [s for s in cands if s["verification"]["status"] == "UNVERIFIED"]
     ok.sort(key=lambda s: -s["rank"]["score"])
