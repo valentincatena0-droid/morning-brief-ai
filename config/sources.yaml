@@ -344,3 +344,48 @@ sources:
     primary: 1
     feeds:
       - {url: "https://www.science.org/rss/news_current.xml", category: science}
+
+  # --- Official U.S. consumer / health sources (feed the "niche" editions; federal works are generally public domain) ---
+  cfpb:
+    name: Consumer Financial Protection Bureau
+    kind: finance_official
+    owner: cfpb
+    reputation: 0.93
+    accuracy: 0.95
+    corrections: 0.90
+    primary: 1
+    feeds:
+      - {url: "https://www.consumerfinance.gov/about-us/newsroom/feed/", category: economy}
+  ftc:
+    name: Federal Trade Commission
+    kind: official
+    owner: ftc
+    reputation: 0.93
+    accuracy: 0.95
+    corrections: 0.90
+    primary: 1
+    feeds:
+      - {url: "https://www.ftc.gov/feeds/press-release-consumer-protection.xml", category: economy}
+  fda:
+    name: U.S. Food and Drug Administration
+    kind: official
+    owner: fda
+    reputation: 0.94
+    accuracy: 0.95
+    corrections: 0.90
+    primary: 1
+    feeds:
+      - {url: "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/recalls/rss.xml", category: health}
+      - {url: "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/food-safety-recalls/rss.xml", category: health}
+      - {url: "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/medwatch/rss.xml", category: health}
+      - {url: "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml", category: health}
+  cpsc:
+    name: U.S. Consumer Product Safety Commission
+    kind: official
+    owner: cpsc
+    reputation: 0.92
+    accuracy: 0.95
+    corrections: 0.90
+    primary: 1
+    feeds:
+      - {url: "https://www.cpsc.gov/Newsroom/CPSC-RSS-Feed/Recalls-RSS", category: health}
