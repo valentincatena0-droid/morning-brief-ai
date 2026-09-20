@@ -1,0 +1,32 @@
+# User settings. Edit this file (or use the PWA Settings screen, which produces the exact text to paste).
+# No secrets here — secrets live in environment variables / GitHub Actions secrets (see .env.example).
+
+brief:
+  time: "07:00"                 # local time, 24h HH:MM
+  timezone: "America/New_York"  # IANA name. (Servers cannot auto-detect your phone's zone; the PWA warns if they differ.)
+  frequency: every_day          # every_day | weekdays | custom
+  custom_days: [mon, tue, wed, thu, fri]   # used only when frequency = custom
+  max_stories: 10
+  pool_size: 25                 # extra ranked stories shipped so the app can re-rank for interests
+
+local_keywords: []               # e.g. ["Miami", "Florida"] for LOCAL NEWS matching
+
+alerts:
+  enabled: true
+  notify_levels: [BREAKING]      # add URGENT to be interrupted more often
+  max_per_day: 3
+  quiet_hours: {start: "23:00", end: "06:00"}   # only BREAKING may break quiet hours
+
+finance:
+  # Read-only. This system never buys, sells, transfers or pays. (Interests + finance watchlist are personal
+  # preferences stored ON YOUR DEVICE by the app; they re-order/highlight but never hide must-know news.)
+  trading_enabled: false         # hard-locked; setting true makes the pipeline refuse to start (pipeline/guards.py)
+
+notify:
+  provider: ntfy                 # ntfy | none
+  server: "https://ntfy.sh"      # topic comes from env NTFY_TOPIC (secret)
+  app_url: ""                    # your GitHub Pages URL, used as the tap target. Or env APP_URL.
+
+llm:
+  enabled: false                 # optional grounded EXPLAIN/translation via free tier (GEMINI_API_KEY)
+  language: en

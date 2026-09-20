@@ -1,0 +1,346 @@
+# Source registry. Every source has a credibility profile (priors you can edit).
+#
+# trust factors (0..1):
+#   reputation   editorial standards / reputation
+#   accuracy     track record of accuracy (few retractions)
+#   corrections  transparency about corrections
+#   primary      1 if the publisher IS the primary source (government, agency, journal)
+# trust = 0.40*reputation + 0.25*accuracy + 0.10*corrections + 0.25*primary  (see pipeline/verify.py)
+#
+# owner: sources sharing an owner/wire are NOT independent (e.g. an AP story syndicated elsewhere).
+# kind:  news | wire | official | science | finance_official
+# feeds: list of {url, category, region}. First working feed wins per entry; all feeds are polled,
+#        a failing feed is skipped and reported in health.
+# headline_only: true when the feed gives no usable summary (e.g. Google News search RSS).
+
+sources:
+  bbc:
+    name: BBC News
+    kind: news
+    owner: bbc
+    reputation: 0.90
+    accuracy: 0.88
+    corrections: 0.90
+    primary: 0
+    feeds:
+      - {url: "https://feeds.bbci.co.uk/news/world/rss.xml", category: world}
+      - {url: "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml", category: usa}
+      - {url: "https://feeds.bbci.co.uk/news/business/rss.xml", category: economy}
+      - {url: "https://feeds.bbci.co.uk/news/technology/rss.xml", category: technology}
+      - {url: "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", category: science}
+      - {url: "https://feeds.bbci.co.uk/news/health/rss.xml", category: health}
+  npr:
+    name: NPR
+    kind: news
+    owner: npr
+    reputation: 0.88
+    accuracy: 0.88
+    corrections: 0.92
+    primary: 0
+    feeds:
+      - {url: "https://feeds.npr.org/1001/rss.xml", category: general}
+      - {url: "https://feeds.npr.org/1004/rss.xml", category: world}
+      - {url: "https://feeds.npr.org/1006/rss.xml", category: economy}
+      - {url: "https://feeds.npr.org/1019/rss.xml", category: technology}
+      - {url: "https://feeds.npr.org/1007/rss.xml", category: science}
+      - {url: "https://feeds.npr.org/1128/rss.xml", category: health}
+  guardian:
+    name: The Guardian
+    kind: news
+    owner: guardian
+    reputation: 0.85
+    accuracy: 0.84
+    corrections: 0.90
+    primary: 0
+    feeds:
+      - {url: "https://www.theguardian.com/world/rss", category: world}
+      - {url: "https://www.theguardian.com/us-news/rss", category: usa}
+      - {url: "https://www.theguardian.com/business/rss", category: economy}
+      - {url: "https://www.theguardian.com/technology/rss", category: technology}
+      - {url: "https://www.theguardian.com/science/rss", category: science}
+      - {url: "https://www.theguardian.com/environment/rss", category: climate}
+      - {url: "https://www.theguardian.com/sport/rss", category: sports}
+  nyt:
+    name: The New York Times
+    kind: news
+    owner: nyt
+    reputation: 0.88
+    accuracy: 0.86
+    corrections: 0.92
+    primary: 0
+    feeds:
+      - {url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", category: world}
+      - {url: "https://rss.nytimes.com/services/xml/rss/nyt/US.xml", category: usa}
+      - {url: "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", category: economy}
+      - {url: "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", category: technology}
+      - {url: "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml", category: science}
+      - {url: "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml", category: health}
+      - {url: "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml", category: climate}
+  wapo:
+    name: The Washington Post
+    kind: news
+    owner: wapo
+    reputation: 0.84
+    accuracy: 0.82
+    corrections: 0.88
+    primary: 0
+    feeds:
+      - {url: "https://feeds.washingtonpost.com/rss/world", category: world}
+      - {url: "https://feeds.washingtonpost.com/rss/national", category: usa}
+  aljazeera:
+    name: Al Jazeera
+    kind: news
+    owner: aljazeera
+    reputation: 0.76
+    accuracy: 0.74
+    corrections: 0.75
+    primary: 0
+    feeds:
+      - {url: "https://www.aljazeera.com/xml/rss/all.xml", category: world}
+  cnn:
+    name: CNN
+    kind: news
+    owner: cnn
+    reputation: 0.74
+    accuracy: 0.74
+    corrections: 0.80
+    primary: 0
+    feeds:
+      - {url: "http://rss.cnn.com/rss/cnn_topstories.rss", category: general}
+      - {url: "http://rss.cnn.com/rss/cnn_world.rss", category: world}
+  nbc:
+    name: NBC News
+    kind: news
+    owner: nbc
+    reputation: 0.78
+    accuracy: 0.78
+    corrections: 0.82
+    primary: 0
+    feeds:
+      - {url: "https://feeds.nbcnews.com/nbcnews/public/news", category: general}
+  abc:
+    name: ABC News
+    kind: news
+    owner: abc
+    reputation: 0.78
+    accuracy: 0.78
+    corrections: 0.82
+    primary: 0
+    feeds:
+      - {url: "https://abcnews.go.com/abcnews/topstories", category: general}
+      - {url: "https://abcnews.go.com/abcnews/internationalheadlines", category: world}
+  cbs:
+    name: CBS News
+    kind: news
+    owner: cbs
+    reputation: 0.78
+    accuracy: 0.78
+    corrections: 0.82
+    primary: 0
+    feeds:
+      - {url: "https://www.cbsnews.com/latest/rss/main", category: general}
+      - {url: "https://www.cbsnews.com/latest/rss/world", category: world}
+  cnbc:
+    name: CNBC
+    kind: news
+    owner: cnbc
+    reputation: 0.78
+    accuracy: 0.78
+    corrections: 0.80
+    primary: 0
+    feeds:
+      - {url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", category: economy}
+      - {url: "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910", category: technology}
+  politico:
+    name: Politico
+    kind: news
+    owner: politico
+    reputation: 0.76
+    accuracy: 0.76
+    corrections: 0.78
+    primary: 0
+    feeds:
+      - {url: "https://rss.politico.com/politics-news.xml", category: politics}
+  thehill:
+    name: The Hill
+    kind: news
+    owner: thehill
+    reputation: 0.70
+    accuracy: 0.72
+    corrections: 0.75
+    primary: 0
+    feeds:
+      - {url: "https://thehill.com/feed/", category: politics}
+  wsj:
+    name: Wall Street Journal
+    kind: news
+    owner: wsj
+    reputation: 0.88
+    accuracy: 0.86
+    corrections: 0.88
+    primary: 0
+    feeds:
+      - {url: "https://feeds.a.dj.com/rss/RSSWorldNews.xml", category: world}
+      - {url: "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml", category: economy}
+      - {url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", category: economy}
+      - {url: "https://feeds.a.dj.com/rss/RSSWSJD.xml", category: technology}
+
+  # --- Outlets without public RSS: headline+link via Google News RSS search (legit aggregator feed) ---
+  reuters:
+    name: Reuters
+    kind: wire
+    owner: reuters
+    reputation: 0.94
+    accuracy: 0.93
+    corrections: 0.94
+    primary: 0
+    headline_only: true
+    feeds:
+      - {url: "https://news.google.com/rss/search?q=site:reuters.com+when:1d&hl=en-US&gl=US&ceid=US:en", category: general}
+      - {url: "https://news.google.com/rss/search?q=site:reuters.com+business+when:1d&hl=en-US&gl=US&ceid=US:en", category: economy}
+  ap:
+    name: Associated Press
+    kind: wire
+    owner: ap
+    reputation: 0.94
+    accuracy: 0.94
+    corrections: 0.95
+    primary: 0
+    headline_only: true
+    feeds:
+      - {url: "https://news.google.com/rss/search?q=site:apnews.com+when:1d&hl=en-US&gl=US&ceid=US:en", category: general}
+  bloomberg:
+    name: Bloomberg
+    kind: news
+    owner: bloomberg
+    reputation: 0.88
+    accuracy: 0.87
+    corrections: 0.86
+    primary: 0
+    headline_only: true
+    feeds:
+      - {url: "https://news.google.com/rss/search?q=site:bloomberg.com+when:1d&hl=en-US&gl=US&ceid=US:en", category: economy}
+  ft:
+    name: Financial Times
+    kind: news
+    owner: ft
+    reputation: 0.90
+    accuracy: 0.88
+    corrections: 0.88
+    primary: 0
+    headline_only: true
+    feeds:
+      - {url: "https://news.google.com/rss/search?q=site:ft.com+when:1d&hl=en-US&gl=US&ceid=US:en", category: economy}
+
+  # --- Primary / official sources ---
+  usgs:
+    name: USGS (earthquakes)
+    kind: official
+    owner: usgs
+    reputation: 0.97
+    accuracy: 0.97
+    corrections: 0.90
+    primary: 1
+    parser: usgs_geojson
+    feeds:
+      - {url: "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_day.geojson", category: climate}
+  nhc:
+    name: NOAA National Hurricane Center
+    kind: official
+    owner: noaa
+    reputation: 0.97
+    accuracy: 0.96
+    corrections: 0.90
+    primary: 1
+    feeds:
+      - {url: "https://www.nhc.noaa.gov/index-at.xml", category: climate}
+  who:
+    name: World Health Organization
+    kind: official
+    owner: who
+    reputation: 0.85
+    accuracy: 0.85
+    corrections: 0.85
+    primary: 1
+    feeds:
+      - {url: "https://www.who.int/rss-feeds/news-english.xml", category: health}
+  un:
+    name: UN News
+    kind: official
+    owner: un
+    reputation: 0.85
+    accuracy: 0.85
+    corrections: 0.85
+    primary: 1
+    feeds:
+      - {url: "https://news.un.org/feed/subscribe/en/news/all/rss.xml", category: world}
+  nasa:
+    name: NASA
+    kind: official
+    owner: nasa
+    reputation: 0.95
+    accuracy: 0.95
+    corrections: 0.90
+    primary: 1
+    feeds:
+      - {url: "https://www.nasa.gov/rss/dyn/breaking_news.rss", category: science}
+  fed:
+    name: Federal Reserve
+    kind: finance_official
+    owner: fed
+    reputation: 0.97
+    accuracy: 0.97
+    corrections: 0.95
+    primary: 1
+    feeds:
+      - {url: "https://www.federalreserve.gov/feeds/press_all.xml", category: economy}
+  sec:
+    name: U.S. SEC
+    kind: finance_official
+    owner: sec
+    reputation: 0.95
+    accuracy: 0.95
+    corrections: 0.90
+    primary: 1
+    feeds:
+      - {url: "https://www.sec.gov/news/pressreleases.rss", category: economy}
+  ecb:
+    name: European Central Bank
+    kind: finance_official
+    owner: ecb
+    reputation: 0.96
+    accuracy: 0.96
+    corrections: 0.92
+    primary: 1
+    feeds:
+      - {url: "https://www.ecb.europa.eu/rss/press.html", category: economy}
+  bls:
+    name: U.S. Bureau of Labor Statistics
+    kind: finance_official
+    owner: bls
+    reputation: 0.97
+    accuracy: 0.97
+    corrections: 0.95
+    primary: 1
+    feeds:
+      - {url: "https://www.bls.gov/feed/bls_latest.rss", category: economy}
+  nature:
+    name: Nature
+    kind: science
+    owner: nature
+    reputation: 0.95
+    accuracy: 0.93
+    corrections: 0.95
+    primary: 1
+    feeds:
+      - {url: "https://www.nature.com/nature.rss", category: science}
+  science_mag:
+    name: Science (AAAS)
+    kind: science
+    owner: aaas
+    reputation: 0.95
+    accuracy: 0.93
+    corrections: 0.95
+    primary: 1
+    feeds:
+      - {url: "https://www.science.org/rss/news_current.xml", category: science}
