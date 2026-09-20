@@ -28,6 +28,6 @@ notify:
   app_url: ""                    # your GitHub Pages URL, used as the tap target. Or env APP_URL.
 
 llm:
-  enabled: false                 # optional grounded EXPLAIN/translation via free tier (GEMINI_API_KEY)
-  translate: false               # true = also translate headlines/summaries to `language` (needs GEMINI_API_KEY)
-  language: en                   # en | es | pt | fr | de
+  enabled: true                 # optional grounded EXPLAIN/translation via free tier (GEMINI_API_KEY)
+  translate: true               # true = also translate headlines/summaries to `language` (needs GEMINI_API_KEY)
+  language: es                   # en | es | pt | fr | de
