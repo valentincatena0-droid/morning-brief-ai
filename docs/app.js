@@ -109,6 +109,15 @@ function briefView(brief, { list, readonly }) {
   if (tzWarn) frag.append(h("div", { class: "banner info", text: `Brief runs on ${brief.timezone}; your device is on ${Intl.DateTimeFormat().resolvedOptions().timeZone}. Change it in Settings if you travel.` }));
   for (const w of brief.warnings || []) frag.append(h("div", { class: "banner", text: "⚠ " + w }));
   for (const s of list) frag.append(storyCard(s, brief.date, null));
+  const pool = new Map([...brief.stories, ...(brief.pool || [])].map((x) => [x.id, x]));
+  for (const n of brief.niches || []) {
+    const rows = n.story_ids.map((id) => pool.get(id)).filter(Boolean);
+    if (!rows.length) continue;
+    const box = h("div", { class: "card sec" }, h("h3", { text: n.name }), h("p", { class: "meta", text: n.subtitle }));
+    rows.slice(0, 3).forEach((r) => box.append(h("a", { class: "row", href: `#/story/${brief.date}/${r.id}`, text: r.headline })));
+    box.append(h("a", { class: "row", href: `#/niche/${n.id}`, text: `Ver todo: ${n.name} ›` }));
+    frag.append(h("div", { class: "label", text: "Para ti" }), box);
+  }
   const ids = new Set(list.map((s) => s.id));
   const secs = h("div", { class: "card sec" });
   let any = false;
@@ -256,6 +265,18 @@ async function viewSearch() {
   return v;
 }
 
+async function viewNiche(id) {
+  const brief = await getJSON("data/latest.json");
+  const n = (brief.niches || []).find((x) => x.id === id);
+  const v = h("div", null, h("a", { class: "back", href: "#/today", text: "‹ Today" }));
+  if (!n) { v.append(h("div", { class: "empty", text: "Esta edición no está disponible hoy." })); return v; }
+  v.append(h("header", { class: "masthead" }, h("div", { class: "eyebrow", text: "Edición especial" }), h("h1", { text: n.name }), h("div", { class: "sub", text: n.subtitle }), h("div", { class: "rule" })));
+  const pool = new Map([...brief.stories, ...(brief.pool || [])].map((x) => [x.id, x]));
+  n.story_ids.map((i) => pool.get(i)).filter(Boolean).forEach((s) => v.append(storyCard(s, brief.date, null)));
+  v.append(h("p", { class: "meta", text: "Selección de las noticias verificadas de hoy, con prioridad a fuentes oficiales. Es información, no asesoría financiera, médica ni legal." }));
+  return v;
+}
+
 async function viewFinance() {
   const p = prefs();
   const v = h("div", null, h("header", { class: "masthead" }, h("div", { class: "eyebrow", text: "Markets & economy" }), h("h1", { text: "Finance" })));
@@ -386,6 +407,7 @@ async function route() {
     else if (name === "story") view = b ? await viewStory(a, b) : await viewStory("latest", a);
     else if (name === "search") view = await viewSearch();
     else if (name === "finance") view = await viewFinance();
+    else if (name === "niche") view = await viewNiche(a);
     else if (name === "settings") view = await viewSettings();
     else view = await viewToday();
     $app.replaceChildren(view);
