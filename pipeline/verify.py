@@ -58,7 +58,10 @@ def verify_cluster(cluster: list[dict], sources: dict) -> Verification:
     conf = 1 - miss
 
     texts = [it["title"] + ". " + it.get("summary", "") for it in cluster]
-    disputed = any(has_dispute(t) for t in texts)
+    # a denial word in ONE item of a large cluster is normal war/politics coverage; treat as contested only when
+    # several independent outlets carry it, or the cluster is tiny (<=3 items)
+    dispute_owners = {sources[it["source_id"]].get("owner", it["source_id"]) for it, t in zip(cluster, texts) if has_dispute(t)}
+    disputed = len(dispute_owners) >= 2 or (len(cluster) <= 3 and len(dispute_owners) >= 1)
     hedged_flags = [has_hedge(t) for t in texts]
     all_hedged = all(hedged_flags)
     official_confirm = any(has_confirm(t) for t in texts)
