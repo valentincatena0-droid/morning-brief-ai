@@ -34,12 +34,13 @@ def _valid(src: dict, out) -> bool:
 
 def _call(prompt: str, key: str) -> dict | None:
     import requests
-    model = env("GEMINI_MODEL", "gemini-flash-lite-latest")
+    model = env("GEMINI_MODEL", "gemini-3.1-flash-lite")
     r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
                       headers={"x-goog-api-key": key}, timeout=60,
                       json={"contents": [{"parts": [{"text": prompt}]}],
                             "generationConfig": {"temperature": 0.1, "responseMimeType": "application/json"}})
-    r.raise_for_status()
+    if not r.ok:
+        raise RuntimeError(f"HTTP {r.status_code}: {r.text[:300]}")      # the body says WHY (bad key, bad model, quota)
     return json.loads(r.json()["candidates"][0]["content"]["parts"][0]["text"])
 
 
