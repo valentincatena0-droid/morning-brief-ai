@@ -30,6 +30,21 @@ CONFIRM = re.compile(r"\b(confirms?|confirmed|announces?|announced|officials? sa
                      r"(government|ministry|agency|court|police|department|white house|pentagon))\b", re.I)
 
 
+NOISE = re.compile(
+    r"(^about\s|company announcement|press release|^obituar|\betf\b|\(\w{2,5}\.(n|o|oq|l)\)|sponsored|^watch\b|podcast|"
+    r"\bquiz\b|newsletter|crossword|horoscope|\bbest deals?\b|\bpromo code\b|\bstock (pick|alert)s?\b|\bprice target\b|"
+    r"\bmarket (size|research)\b|\bcookie\b|^today's (wordle|nyt)|^the (morning|evening) (briefing|newsletter))", re.I)
+EXPLAINER = re.compile(r"^(why|how|what|inside|the (right|case|problem|truth)|can|is|are|should|do|does)\b", re.I)
+
+
+def is_noise(title: str) -> bool:
+    return bool(NOISE.search(title))
+
+
+def is_explainer(title: str) -> bool:
+    return bool(EXPLAINER.search(title.strip())) or title.strip().endswith("?")
+
+
 def clean_html(s: str | None) -> str:
     if not s:
         return ""
