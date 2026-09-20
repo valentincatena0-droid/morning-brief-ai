@@ -19,6 +19,7 @@ from . import notify, storage
 from .brief import compose, render_text
 from .config import DEFAULT_DOCS, load_settings, load_sources
 from .explain import explain_story
+from .translate import translate_brief
 from .fetch import fetch_all
 from .schedule import should_run
 
@@ -48,6 +49,8 @@ def tick(now: datetime, docs: Path, settings: dict, sources: dict, force=False, 
     if due:
         brief = compose(items, sources, settings, now, health)
         if settings.get("llm", {}).get("enabled"):
+            if settings["llm"].get("translate"):
+                translate_brief(brief, settings["llm"].get("language", "en"))
             for st in brief["stories"]:
                 ex = explain_story(st, settings["llm"].get("language", "en"))
                 if ex:
