@@ -7,6 +7,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 from .cluster import cluster_items
+from .niches import load_niches, pick as pick_niche
 from .rank import score_story, select_top
 from .textutil import is_noise, clickbait_score, has_dispute, has_hedge, sentences, truncate_sentences, norm_tokens
 from .verify import LABELS, source_trust, verify_cluster
@@ -157,7 +158,24 @@ def compose(items, sources, settings, now: datetime, health: dict | None = None)
     for st in pool_st:
         st["in_top"] = False
 
-    allst = top_st + pool_st
+    base_pool = list(pool_st)          # sections and THE BIGGEST STORY are computed without niche extras
+    # niche editions: focused lists over the same verified stories; their stories are added to the pool so every link works
+    niches_out, known = [], {st["id"] for st in top_st + pool_st}
+    by_cluster = {}
+    for niche in load_niches():
+        ids = []
+        for s in pick_niche(analysed, niche):
+            st = by_cluster.get(id(s)) or mk(s)
+            by_cluster[id(s)] = st
+            if st["id"] not in known:
+                st["in_top"] = False
+                pool_st.append(st)
+                known.add(st["id"])
+            ids.append(st["id"])
+        if ids:
+            niches_out.append({"id": niche["id"], "name": niche["name"], "subtitle": niche.get("subtitle", ""), "story_ids": ids})
+
+    allst = top_st + base_pool
     sections = {}
     for cat in SECTION_ORDER:
         refs = sorted([s for s in allst if s["category"] == cat], key=lambda s: -s["score"])[:3]
@@ -191,7 +209,7 @@ def compose(items, sources, settings, now: datetime, health: dict | None = None)
         "date_label_es": f"{local.day} {MONTHS_ES[local.month - 1]} {local.year}",
         "generated_at": now.isoformat(), "timezone": settings["brief"]["timezone"],
         "title": "MORNING BRIEF", "subtitle": f"{len(top_st)} COSAS QUE DEBES SABER HOY",
-        "stories": top_st, "pool": pool_st, "sections": sections, "biggest_story": biggest,
+        "stories": top_st, "pool": pool_st, "niches": niches_out, "sections": sections, "biggest_story": biggest,
         "warnings": warnings,
         "stats": {"items": len(items), "clusters": len(analysed), "feeds_ok": (health or {}).get("feeds_ok"),
                   "feeds_total": (health or {}).get("feeds_total"),
