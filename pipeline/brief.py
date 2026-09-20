@@ -8,7 +8,7 @@ from zoneinfo import ZoneInfo
 
 from .cluster import cluster_items
 from .rank import score_story, select_top
-from .textutil import clickbait_score, has_dispute, has_hedge, sentences, truncate_sentences, norm_tokens
+from .textutil import is_noise, clickbait_score, has_dispute, has_hedge, sentences, truncate_sentences, norm_tokens
 from .verify import LABELS, source_trust, verify_cluster
 
 MONTHS_ES = ["ENERO", "FEBRERO", "MARZO", "ABRIL", "MAYO", "JUNIO", "JULIO", "AGOSTO", "SEPTIEMBRE", "OCTUBRE", "NOVIEMBRE", "DICIEMBRE"]
@@ -125,7 +125,8 @@ def build_story(cluster, ver, rk, sources) -> dict:
 
 
 def analyse(items, sources, now, local_keywords=None):
-    clusters = cluster_items(items)
+    items = [i for i in items if not is_noise(i["title"])]
+    clusters = cluster_items(items, sources)
     stories = []
     for c in clusters:
         ver = verify_cluster(c, sources)
