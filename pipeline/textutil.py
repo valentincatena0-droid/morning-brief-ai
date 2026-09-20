@@ -38,7 +38,7 @@ EXPLAINER = re.compile(r"^(why|how|what|inside|the (right|case|problem|truth)|ca
 
 
 def is_noise(title: str) -> bool:
-    return bool(NOISE.search(title))
+    return bool(NOISE.search(title)) or len(title.split()) < 3       # bare topic-page titles ("Artificial intelligence")
 
 
 def is_explainer(title: str) -> bool:
@@ -58,6 +58,7 @@ def clean_html(s: str | None) -> str:
 
 def strip_source_suffix(title: str) -> str:
     """Google News titles end with ' - Outlet'. Remove it."""
+    title = re.sub(r"\s+[-–—|]\s+[\w-]+(\.[\w-]+)*\.(com|org|net|gov|co\.uk)$", "", title.strip())
     return re.sub(r"\s+[-–—|]\s+[A-Z][\w .&'’]+$", "", title).strip()
 
 
