@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import json
 import logging
+import time
 
 from .config import env
 
@@ -18,6 +19,8 @@ Attributed statements ("X said") must stay attributed. Return strict JSON with E
 
 {payload}
 """
+PAUSE = 4.0        # seconds between calls (free-tier rate limit)
+RETRY_WAIT = 25.0
 LANG_NAMES = {"es": "Spanish", "pt": "Portuguese", "fr": "French", "de": "German"}
 
 
@@ -52,7 +55,13 @@ def translate_story(st: dict, language: str, call=_call) -> bool:
     prompt = PROMPT.format(language_name=LANG_NAMES.get(language, language),
                            payload=json.dumps(src, ensure_ascii=False, indent=1))
     try:
-        out = call(prompt, key)
+        try:
+            out = call(prompt, key)
+        except RuntimeError as e:
+            if "HTTP 429" not in str(e):
+                raise
+            time.sleep(RETRY_WAIT)          # free tier is rate limited: wait once, then retry
+            out = call(prompt, key)
     except Exception as e:  # noqa: BLE001  optional feature must never break the brief
         log.warning("translate failed: %s", e)
         return False
@@ -70,7 +79,11 @@ def translate_story(st: dict, language: str, call=_call) -> bool:
 
 def translate_brief(brief: dict, language: str, call=_call) -> int:
     allst = brief["stories"] + brief.get("pool", [])
-    n = sum(translate_story(st, language, call) for st in allst)
+    n = 0
+    for k, st in enumerate(allst):
+        if k and call is _call:
+            time.sleep(PAUSE)
+        n += translate_story(st, language, call)
     if n:
         by_id = {s["id"]: s for s in allst}
         for rows in brief.get("sections", {}).values():
