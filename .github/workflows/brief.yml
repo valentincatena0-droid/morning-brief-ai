@@ -1,0 +1,53 @@
+name: morning-brief
+
+# GitHub cron is UTC + best-effort. We tick every 30 minutes; pipeline/schedule.py decides whether a brief is due
+# in YOUR timezone (config/settings.yaml) and self-heals if a tick is delayed or skipped.
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Build today's brief now, ignoring the clock"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # commit docs/data/*.json (the only thing this job writes)
+
+concurrency:
+  group: morning-brief
+  cancel-in-progress: false
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Offline self-test (informational; never blocks the news)
+        continue-on-error: true
+        run: python -m unittest discover -s tests
+      - name: Run tick
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          APP_URL: ${{ vars.APP_URL }}
+        run: |
+          if [ "${{ inputs.force }}" = "true" ]; then python -m pipeline.run tick --force; else python -m pipeline.run tick; fi
+      - name: Commit data
+        run: |
+          git config user.name "morning-brief-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then echo "nothing to commit"; else
+            git commit -m "data: update $(date -u +%FT%TZ)"
+            git pull --rebase -q || true
+            git push
+          fi
