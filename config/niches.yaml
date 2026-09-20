@@ -1,0 +1,18 @@
+# Niche editions: extra, focused lists built from the SAME verified pool (nothing is invented or re-written).
+# A story joins a niche when its title/summary matches `keywords` (English, matched before any translation).
+# Official U.S. government sources are listed in sources.yaml (kind: official) and get a small ranking bonus here.
+niches:
+  - id: finanzas
+    name: "Dinero y economía personal"
+    subtitle: "Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo"
+    limit: 6
+    min_score: 15
+    official_bonus: 8
+    keywords: 'inflation|interest rates?|rate (cut|hike)|mortgage|credit (card|score|report)|consumer (price|spending|confidence|protection)|jobs report|unemployment|payrolls|wages?|minimum wage|tax(es)?\b|\bIRS\b|social security|medicare|\bCFPB\b|\bloans?\b|savings|\bbanks?\b|gas prices|\brent\b|housing|student loans?|remittances?|federal reserve|\bthe fed\b|\bCPI\b|tariffs?|scams?|fraud|prices'
+  - id: familia
+    name: "Salud y seguridad de la familia"
+    subtitle: "Retiros de productos, alertas de salud, seguridad alimentaria y desastres"
+    limit: 6
+    min_score: 15
+    official_bonus: 8
+    keywords: 'recalls?|recalled|\bFDA\b|\bCDC\b|outbreak|vaccines?|measles|\bflu\b|covid|food safety|salmonella|listeria|e\. coli|drug|medications?|hospital|heat ?wave|hurricane|tropical storm|evacuat\w+|wildfires?|flood(s|ing)?|earthquake|air quality|poison\w*|contaminat\w+|child(ren)? safety|health alert|\bWHO\b'
