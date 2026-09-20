@@ -29,4 +29,5 @@ notify:
 
 llm:
   enabled: false                 # optional grounded EXPLAIN/translation via free tier (GEMINI_API_KEY)
-  language: en
+  translate: false               # true = also translate headlines/summaries to `language` (needs GEMINI_API_KEY)
+  language: en                   # en | es | pt | fr | de
