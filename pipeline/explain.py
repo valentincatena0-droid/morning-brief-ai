@@ -31,13 +31,14 @@ def explain_story(story: dict, language: str = "en") -> dict | None:
     prompt = PROMPT.format(headline=story["headline"], facts=facts, unknown=unknown)
     if language != "en":
         prompt += f"\nWrite the JSON values in language code '{language}'."
-    model = env("GEMINI_MODEL", "gemini-2.0-flash")
+    model = env("GEMINI_MODEL", "gemini-3.1-flash-lite")
     try:
         r = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
                           headers={"x-goog-api-key": key}, timeout=40,
                           json={"contents": [{"parts": [{"text": prompt}]}],
                                 "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"}})
-        r.raise_for_status()
+        if not r.ok:
+            raise RuntimeError(f"HTTP {r.status_code}: {r.text[:300]}")
         txt = r.json()["candidates"][0]["content"]["parts"][0]["text"]
         d = json.loads(txt)
         if not isinstance(d.get("simple"), str):
