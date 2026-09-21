@@ -55,7 +55,11 @@ def render_text(brief: dict, niche: dict, stories: list[dict], cfg: dict) -> str
     """Plain text for Telegram / WhatsApp / SMS."""
     lines = [f"{cfg['brand']} · {niche['name']} · {brief.get('date_label_es', brief['date'])}", ""]
     for n, st in enumerate(stories, 1):
-        lines += [f"{n}. {st['headline']}"] + ([f"   {_clip(st['summary'])}"] if _clip(st["summary"]) else []) + [f"   [{_label(st)}] Fuentes: {_srcs(st)}", f"   {st['read_original']}", ""]
+        link = st["read_original"]
+        lines += [f"{n}. {st['headline']}"] + ([f"   {_clip(st['summary'])}"] if _clip(st["summary"]) else []) + [f"   [{_label(st)}] Fuentes: {_srcs(st)}"]
+        if link and "news.google." not in link:      # opaque aggregator redirects make ugly, untrustworthy-looking links
+            lines.append(f"   {link}")
+        lines.append("")
     if cfg.get("disclaimer_es"):
         lines.append(cfg["disclaimer_es"])
     if cfg["site_url"]:
