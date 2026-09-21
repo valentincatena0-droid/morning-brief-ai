@@ -20,7 +20,8 @@ from .brief import compose, render_text
 from .config import DEFAULT_DOCS, load_settings, load_sources
 from .explain import explain_story
 from .translate import translate_brief
-from .publish import build_kit
+from .publish import build_kit, load_cfg as load_dist_cfg
+from .telegram import post_editions
 from .fetch import fetch_all
 from .schedule import should_run
 
@@ -62,6 +63,7 @@ def tick(now: datetime, docs: Path, settings: dict, sources: dict, force=False, 
             storage.write_brief(docs, brief)
             try:
                 build_kit(brief, docs)      # free distribution kit; failure must never block the brief
+                result["telegram"] = post_editions(brief, docs, load_dist_cfg(), settings, dry_run=dry_run or bool(fixtures))
             except Exception as exc:  # noqa: BLE001
                 result["notes"].append(f"distribution kit skipped: {exc}")
             result["brief"] = {"date": brief["date"], "stories": len(brief["stories"]), "warnings": brief["warnings"]}
