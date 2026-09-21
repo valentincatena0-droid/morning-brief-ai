@@ -1,0 +1,11 @@
+# Free distribution kit. Cost: $0. Nothing here publishes anything by itself.
+# The pipeline only WRITES ready-to-send files (docs/data/out/*.txt|md|html) and RSS feeds (docs/data/feeds/*.xml) next to the app.
+# You decide if/when to post them. Leave the links empty until you have created the (free) accounts yourself.
+site_url: "https://valentincatena0-droid.github.io/morning-brief-ai"
+brand: "Morning Brief"
+tagline: "Noticias verificadas, con fuentes y sin adornos"
+channels:
+  telegram_url: ""       # e.g. https://t.me/your_channel   (free)
+  newsletter_url: ""     # e.g. your free Substack / Buttondown page (free tier)
+  support_url: ""        # optional free tip jar (Ko-fi / Buy Me a Coffee); leave empty = no button shown
+disclaimer_es: "Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original."
