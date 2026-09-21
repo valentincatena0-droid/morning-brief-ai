@@ -65,13 +65,14 @@ def strip_source_suffix(title: str) -> str:
 # tiny synonym map so differently-worded reports of one event can match
 SYN = {"quake": "earthquake", "temblor": "earthquake", "lowers": "cut", "lowered": "cut", "lower": "cut", "cuts": "cut",
        "reduces": "cut", "reduced": "cut", "slashes": "cut", "dead": "kill", "deaths": "kill", "death": "kill", "died": "kill",
-       "dies": "kill", "killed": "kill", "kills": "kill", "toll": "kill", "federal": "fed", "reserve": "fed", "fomc": "fed",
+       "dies": "kill", "killed": "kill", "kills": "kill", "toll": "kill", "fomc": "fed",
        "rates": "rate", "hikes": "hike", "raises": "hike", "lawmakers": "senate", "beat": "win", "defeat": "win", "defeats": "win",
        "wins": "win", "clinch": "win", "outage": "outage", "outages": "outage", "sues": "lawsuit", "sued": "lawsuit"}
 
 
 def norm_tokens(text: str) -> list[str]:
     text = unicodedata.normalize("NFKD", text.lower())
+    text = text.replace("federal reserve", "fed")       # bigram only: "federal" alone (e.g. federal recall) must not become "fed"
     text = "".join(c for c in text if not unicodedata.combining(c))
     words = re.findall(r"[a-z0-9][a-z0-9'-]*", text)
     out = []
