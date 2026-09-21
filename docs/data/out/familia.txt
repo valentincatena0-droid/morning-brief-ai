@@ -10,8 +10,8 @@ Morning Brief · Salud y seguridad de la familia · 20 SEPTIEMBRE 2026
    [Probable] Fuentes: USGS (earthquakes)
    https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiqc
 
-3. ZMC Group amplía la retirada de juguetes infantiles con luz debido al riesgo de lesiones graves o muerte por ingestión de baterías; violan la norma obligatoria para juguetes
-   Los juguetes con luz retirados violan la norma de seguridad obligatoria para juguetes infantiles porque contienen baterías de botón a las que los niños pueden acceder fácilmente. Si se ingieren baterías de botón o de moneda, las baterías…
+3. ZMC Group amplía la retirada de juguetes infantiles con luz debido al riesgo de lesiones graves o muerte por ingestión de pilas; infringen la norma obligatoria para juguetes
+   Los juguetes con luz retirados infringen la norma de seguridad obligatoria para juguetes infantiles porque contienen pilas de botón a las que los niños pueden acceder fácilmente. Si se ingieren pilas de botón o de moneda, las pilas…
    [Probable] Fuentes: U.S. Consumer Product Safety Commission
    https://www.cpsc.gov/Recalls/2026/ZMC-Group-Expands-Recall-of-Light-Up-Childrens-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys
 
@@ -20,10 +20,10 @@ Morning Brief · Salud y seguridad de la familia · 20 SEPTIEMBRE 2026
    [Probable] Fuentes: U.S. Consumer Product Safety Commission
    https://www.cpsc.gov/Recalls/2026/Sauna360-Expands-Recall-of-Tylo-Halmstad-and-Kiruna-Hybrid-Saunas-Due-to-Fall-Hazard-New-Remedy-Provided
 
-5. Discusión sobre el pronóstico de la tormenta tropical Fay número 6
-   Emitido a las 900 PM GMT dom 20 sep 2026 000 WTNT41 KNHC 202035 TCDAT1 Tropical Storm Fay Discussion Number 6 NWS National Hurricane Center Miami FL AL062026 900 PM GMT dom 20 sep 2026 Unos cuantos estallidos convectivos más han ocurrido…
+5. Discusión sobre el pronóstico de la tormenta tropical Fay número 7
+   Emitido a las 300 AM GMT Mon Sep 21 2026 000 WTNT41 KNHC 210240 TCDAT1 Tropical Storm Fay Discussion Number 7 NWS National Hurricane Center Miami FL AL062026 300 AM GMT Mon Sep 21 2026 Fay está comenzando a sentir los efectos de una…
    [Probable] Fuentes: NOAA National Hurricane Center
-   https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/202035.shtml
+   https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/210240.shtml
 
 6. MONDRAKER USA retira del mercado bicicletas de montaña equipadas con manillares de carbono ONOFF S9 MTB debido al riesgo de lesiones graves o muerte por peligro de caída
    Los manillares afectados pueden agrietarse o fracturarse durante su uso, lo que puede provocar la pérdida de control, planteando un riesgo de lesiones graves o muerte por peligro de caída.
