@@ -9,3 +9,8 @@ channels:
   newsletter_url: ""     # e.g. your free Substack / Buttondown page (free tier)
   support_url: ""        # optional free tip jar (Ko-fi / Buy Me a Coffee); leave empty = no button shown
 disclaimer_es: "Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original."
+telegram:
+  enabled: true              # posts only when the secret TELEGRAM_BOT_TOKEN exists; otherwise does nothing
+  chat_id: "@morningbrief11" # your public channel (a secret TELEGRAM_CHAT_ID overrides this)
+  niches: [finanzas]         # which editions to post automatically (familia can be added later)
+  max_items: 5
