@@ -5,7 +5,7 @@ site_url: "https://valentincatena0-droid.github.io/morning-brief-ai"
 brand: "Morning Brief"
 tagline: "Noticias verificadas, con fuentes y sin adornos"
 channels:
-  telegram_url: ""       # e.g. https://t.me/your_channel   (free)
+  telegram_url: "https://t.me/morningbrief11"  # e.g. https://t.me/your_channel   (free)
   newsletter_url: ""     # e.g. your free Substack / Buttondown page (free tier)
   support_url: ""        # optional free tip jar (Ko-fi / Buy Me a Coffee); leave empty = no button shown
 disclaimer_es: "Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original."
