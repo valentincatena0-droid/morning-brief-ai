@@ -5,6 +5,7 @@ Nothing is invented, nothing is posted anywhere: it writes files under docs/data
 from __future__ import annotations
 
 import json
+import re
 from datetime import datetime, timezone
 from email.utils import format_datetime
 from html import escape
@@ -15,6 +16,7 @@ import yaml
 DEFAULT_CFG = Path(__file__).resolve().parent.parent / "config" / "distribution.yaml"
 LABEL_ES = {"CONFIRMED": "Confirmado", "LIKELY": "Probable", "DEVELOPING": "En desarrollo", "UNVERIFIED": "Sin confirmar"}
 SUM_MAX = 240
+FILLER = re.compile(r"no publicaron|published no summary|no summary text", re.I)   # placeholder written when outlets gave no text
 
 
 def load_cfg(path: Path | None = None) -> dict:
@@ -31,6 +33,8 @@ def load_cfg(path: Path | None = None) -> dict:
 
 def _clip(s: str, n: int = SUM_MAX) -> str:
     s = " ".join((s or "").split())
+    if FILLER.search(s):
+        return ""
     return s if len(s) <= n else s[: n - 1].rsplit(" ", 1)[0] + "…"
 
 
@@ -51,7 +55,7 @@ def render_text(brief: dict, niche: dict, stories: list[dict], cfg: dict) -> str
     """Plain text for Telegram / WhatsApp / SMS."""
     lines = [f"{cfg['brand']} · {niche['name']} · {brief.get('date_label_es', brief['date'])}", ""]
     for n, st in enumerate(stories, 1):
-        lines += [f"{n}. {st['headline']}", f"   {_clip(st['summary'])}", f"   [{_label(st)}] Fuentes: {_srcs(st)}", f"   {st['read_original']}", ""]
+        lines += [f"{n}. {st['headline']}"] + ([f"   {_clip(st['summary'])}"] if _clip(st["summary"]) else []) + [f"   [{_label(st)}] Fuentes: {_srcs(st)}", f"   {st['read_original']}", ""]
     if cfg.get("disclaimer_es"):
         lines.append(cfg["disclaimer_es"])
     if cfg["site_url"]:
