@@ -9,7 +9,7 @@ niches:
     min_score: 15
     official_bonus: 8
     exclude: 'deals?|lowest price|discount|coupon|black friday|sale\b|best buy'
-    keywords: 'inflation|interest rates?|rate (cut|hike)|mortgage|credit (card|score|report)|consumer (price|spending|confidence|protection)|jobs report|unemployment|payrolls|wages?|minimum wage|tax(es)?\b|\bIRS\b|social security|medicare|\bCFPB\b|\bloans?\b|savings|\bbanks?\b|gas prices|price (increase|hike|cap|gouging)|prices? (rise|rises|fall|falls|jump|surge|soar|drop)|\brent\b|housing|student loans?|remittances?|federal reserve|\bthe fed\b|\bCPI\b|tariffs?|scams?|fraud'
+    keywords: 'inflation|interest rates?|rate (cut|hike)|mortgage|credit (card|score|report)|consumer (price|spending|confidence|protection)|jobs report|unemployment|payrolls|wages?|minimum wage|tax(es)?\b|\bIRS\b|social security|medicare|\bCFPB\b|\bloans?\b|savings|(?<!west )\bbanks?\b|gas prices|price (increase|hike|cap|gouging)|prices? (rise|rises|fall|falls|jump|surge|soar|drop)|\brent\b|housing (market|prices|costs|crisis)|home (prices|sales)|student loans?|remittances?|federal reserve|\bthe fed\b|\bCPI\b|tariffs?|scams?|fraud'
   - id: familia
     name: "Salud y seguridad de la familia"
     subtitle: "Retiros de productos, alertas de salud, seguridad alimentaria y desastres"
