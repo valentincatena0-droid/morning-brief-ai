@@ -1,28 +1,26 @@
-Morning Brief · Dinero y economía personal · 20 SEPTIEMBRE 2026
+Morning Brief · Dinero y economía personal · 22 SEPTIEMBRE 2026
 
-1. Los aranceles, la inflación y las guerras comerciales afectan a los agricultores estadounidenses
-   Los agricultores de Estados Unidos enfrentan una cosecha difícil este año, con las guerras comerciales, los aranceles y la inflación causando estragos. El costo del diésel alcanzó un nuevo récord, con un promedio de $6.50 por galón, casi…
-   [Probable] Fuentes: CBS News, CNBC, Al Jazeera
-   https://www.cbsnews.com/video/tariffs-inflation-trade-wars-taking-toll-american-farmers/
+1. Arabia Saudita reinicia el oleoducto Este-Oeste, según fuentes
+   Los precios del petróleo cayeron bruscamente por quinta sesión consecutiva, alcanzando un mínimo de dos semanas ante las esperanzas de un renovado impulso diplomático para poner fin a la guerra de Irán y el optimismo por la reapertura de…
+   [Confirmado] Fuentes: Reuters, Financial Times, Bloomberg
+   https://www.nbcnews.com/business/business-news/oil-prices-fall-saudi-pipeline-iran-hormuz-trump-talks-rcna599166
 
-2. Ed Davey pide un recorte inmediato de 10 peniques al impuesto sobre el combustible
-   Sir Ed culpó a la guerra de Donald Trump con Irán de dañar la economía del Reino Unido y de hacer subir los precios del combustible.
-   [Probable] Fuentes: BBC News, Bloomberg
-   https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss
+2. Las acciones suben por el optimismo en la IA y el petróleo por debajo de los $100
+   Los inversores anticiparon que un oleoducto saudí dañado podría estar cerca de reabrirse, permitiendo que más petróleo de la región llegue a los mercados mundiales.
+   [Probable] Fuentes: Reuters, Financial Times, The New York Times
+   https://www.nytimes.com/2026/09/22/business/saudi-oil-pipeline-hormuz.html
 
-3. La subida de tipos de la Reserva Federal refleja un nuevo mundo de inflación persistente y crecimiento más rápido
-   [En desarrollo] Fuentes: Associated Press, Bloomberg
+3. Los bancos advierten que los bots de compras con IA aumentan los riesgos de estafas, fraude y privacidad de datos
+   [Probable] Fuentes: Reuters, Financial Times, Bloomberg
 
-4. Kashkari de la Fed dice que la inflación sigue siendo demasiado alta en 'todos los aspectos' de la economía de EE. UU., en una entrevista con Fox News
+4. Goolsbee de la Fed dice que la fuerte demanda podría estar contribuyendo a la inflación en EE. UU.
    [En desarrollo] Fuentes: Reuters, Bloomberg
 
-5. El multimillonario propietario del Man United pierde su superioridad moral tras exiliarse por impuestos, dice el presidente del Partido Laborista
-   El empresario multimillonario dijo a la BBC que ha perdido la confianza en el Reino Unido debido a una combinación de altos impuestos y alta inmigración.
-   [Probable] Fuentes: BBC News, Financial Times
-   https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&at_campaign=rss
+5. EXCLUSIVA: Musalem de la Fed dice que probablemente se necesiten más subidas de tipos para frenar la inflación
+   [En desarrollo] Fuentes: Reuters, Bloomberg
 
-6. Economía de IB escolar: El yen cae después de que el Banco de Japón subiera los tipos al nivel más alto desde 1995
-   [En desarrollo] Fuentes: Financial Times, Bloomberg
+6. El oro cae mientras los funcionarios de la Fed señalan subidas de tipos
+   [En desarrollo] Fuentes: Reuters, Bloomberg
 
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
 Edición completa: https://valentincatena0-droid.github.io/morning-brief-ai/#/niche/finanzas

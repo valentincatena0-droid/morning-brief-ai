@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 20 SEPTIEMBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 22 SEPTIEMBRE 2026
 
-## Los aranceles, la inflación y las guerras comerciales afectan a los agricultores estadounidenses
-Los agricultores de Estados Unidos enfrentan una cosecha difícil este año, con las guerras comerciales, los aranceles y la inflación causando estragos. El costo del diésel alcanzó un nuevo récord, con un promedio de $6.50 por galón, casi…
+## Arabia Saudita reinicia el oleoducto Este-Oeste, según fuentes
+Los precios del petróleo cayeron bruscamente por quinta sesión consecutiva, alcanzando un mínimo de dos semanas ante las esperanzas de un renovado impulso diplomático para poner fin a la guerra de Irán y el optimismo por la reapertura de…
 
-**Probable** · Fuentes: CBS News, CNBC, Al Jazeera · [Leer la fuente](https://www.cbsnews.com/video/tariffs-inflation-trade-wars-taking-toll-american-farmers/)
+**Confirmado** · Fuentes: Reuters, Financial Times, Bloomberg · [Leer la fuente](https://www.nbcnews.com/business/business-news/oil-prices-fall-saudi-pipeline-iran-hormuz-trump-talks-rcna599166)
 
-## Ed Davey pide un recorte inmediato de 10 peniques al impuesto sobre el combustible
-Sir Ed culpó a la guerra de Donald Trump con Irán de dañar la economía del Reino Unido y de hacer subir los precios del combustible.
+## Las acciones suben por el optimismo en la IA y el petróleo por debajo de los $100
+Los inversores anticiparon que un oleoducto saudí dañado podría estar cerca de reabrirse, permitiendo que más petróleo de la región llegue a los mercados mundiales.
 
-**Probable** · Fuentes: BBC News, Bloomberg · [Leer la fuente](https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss)
+**Probable** · Fuentes: Reuters, Financial Times, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/09/22/business/saudi-oil-pipeline-hormuz.html)
 
-## La subida de tipos de la Reserva Federal refleja un nuevo mundo de inflación persistente y crecimiento más rápido
-
-
-**En desarrollo** · Fuentes: Associated Press, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUxpb0hhaEY4MGl0T21yM2ZObndRRlBrc0owTWxDM1FKMlFrWmF5Q21aNGFXdFh2QW5RRTJMMkVZSnJkdnpJMEdTWEFzTjFLQ2RCUWNqWXdlVVJoalBTLUxTMFJHN3pQVlAyLTdGLXBDdnlWbFlzMEJRTlowcklrY2NOaXEyOUE0cG4zQS1oRkxFR1JORWFBNHdJUXRnSGpILWc?oc=5)
-
-## Kashkari de la Fed dice que la inflación sigue siendo demasiado alta en 'todos los aspectos' de la economía de EE. UU., en una entrevista con Fox News
+## Los bancos advierten que los bots de compras con IA aumentan los riesgos de estafas, fraude y privacidad de datos
 
 
-**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hVd3hZZmFPOEVudnRhdFpDczA0Qkg4TmxpeDFYN1NuWnFkYVNSLTdrRU42dGdXV21YcmlsM1RVREw1amRxQWV5aWVZZTRPRy1paTNiT2o3M0syblIxdkMtR2xKLVgzUEstZ01CcXRKd0dNbUpLZUxkV1hhS0cwcDZYRXdmYjJrTTc4RERBQWNyeXdHb0ZoVjhPMkQzVDJodDBoc3c0RTc4ckFJeGJ6WDlLTDVzM05rN3k5VWNXVVFlTWM?oc=5)
+**Probable** · Fuentes: Reuters, Financial Times, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDlYaXB6UFVtWndZUGJsNy1FQzRrM203TUc1RDA0VTZ5Y0FaZ0JHVnV0dzVKMHJkSGowOUFYVUs5N1Y2QWJibzhJZEJpbk8xUmxja1o2ME9tY0hfZjRCOGFGWjVVcmVza2F2VGdvNzJjRnVlY2tzeTdIWWUxREVrNkJYRWRPazhzcG00b0NNYzJDRjlQRmhFV3JlQWNZS2lJWFZfeV9VMmdrdmJiZ0xWNlVkblM2Qk0?oc=5)
 
-## El multimillonario propietario del Man United pierde su superioridad moral tras exiliarse por impuestos, dice el presidente del Partido Laborista
-El empresario multimillonario dijo a la BBC que ha perdido la confianza en el Reino Unido debido a una combinación de altos impuestos y alta inmigración.
-
-**Probable** · Fuentes: BBC News, Financial Times · [Leer la fuente](https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&at_campaign=rss)
-
-## Economía de IB escolar: El yen cae después de que el Banco de Japón subiera los tipos al nivel más alto desde 1995
+## Goolsbee de la Fed dice que la fuerte demanda podría estar contribuyendo a la inflación en EE. UU.
 
 
-**En desarrollo** · Fuentes: Financial Times, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMicEFVX3lxTE04dmV4T0c0bVpqdzVCZFRLRjlqMDZuQng4ZjRsSlJVZlNmNDN4NnJWYnF6TU40Um1sTlotbks5czhxa3NuT2h6UG50dFNpc0Y2dTZWS1RqR3RLdFRmVURvaV9sRGdud2poc3QzSTM5TGo?oc=5)
+**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0hYN2ZsV3h2enhYZkdSaVlTUFRLQnFaNnRmYVJ6LTZxdGN1SGowVDdHUUNRR3pCdXExRG9MdGFRN0dlWEdnWTVfd0NaWnRDRFo5T0pZSnZmRnJWdWxqdEljUVV3LUItRjdjbF9uUzBucjNUeWNBdlZXMDdWbE42elpySFJ6eURzTm02S0xqQWQ3bVFrVU4xLUp4MlpicnN6c19Qc1JTQzVUc1ZBVkVYV2wwS3BwRHNyZXZsZw?oc=5)
+
+## EXCLUSIVA: Musalem de la Fed dice que probablemente se necesiten más subidas de tipos para frenar la inflación
+
+
+**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVjJsZS0wTVZyNThsTkszYWk2c2xqN19RbzlWSnpqQ3cwZ0xCLWFTT0xaVkpkWkE5MmhDZFg1bHZzUW9EYlBuQVpUOVIydEJoVmR6OVl0ME5WNllZZTRVWXFMYy0yX19mNG9nYU5GbFpMdXdaeTA3ZDFiOXlTTlBGNDBmZ2VxR0I3UzE4M25hVGNZcDZXU0pXSFdXV1FIRVQ3dEh4XzRnLUZDN3do?oc=5)
+
+## El oro cae mientras los funcionarios de la Fed señalan subidas de tipos
+
+
+**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVA2UjFJM3dkZnhldzYxTHFKc3JKUndzZmw3LUZhR1dUOUQxYWRQanA0bHVPOEhuMk9XWk1uSXFyQXdvWnVXU2Q0ZUtjUktnb2tnLWhCa1ZRS3Vqemt3cFNEMXRqbTU3TnFUM0loWUJxUTc3Z0NOb0tHc09zOVZMOUFEOElkVUVrS3lzdHRib1g2YTJOdjZqYTVWWFk?oc=5)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
