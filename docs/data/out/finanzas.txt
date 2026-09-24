@@ -1,31 +1,34 @@
-Morning Brief · Dinero y economía personal · 23 SEPTIEMBRE 2026
+Morning Brief · Dinero y economía personal · 24 SEPTIEMBRE 2026
 
-1. Fed's Barkin says economy may be firming, inflation not limited to energy, tariff shocks
-   There is "an increased likelihood" of inflation staying "notably" above the Federal Reserve's 2% target, Boston Federal Reserve President Susan Collins said.
+1. Oil extends gains on little sign of progress in US-Iran talks
+   Oil rose Thursday, as traders assess a report that Asia is on track to import its highest volume of crude oil since the start of the US-Iran war.
    [Probable] Fuentes: Reuters, Bloomberg, CNBC
-   https://www.cnbc.com/2026/09/23/federal-reserve-inflation-interest-rates-ecb.html
+   https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html
 
-2. US halts Obamacare enrollment for over 760,000 enrollees, claiming fraud
-   Citing widespread fraud, JD Vance and Dr. Mehmet Oz announced 760,000 Americans had been kicked off health insurance purchased in the federal ACA marketplace. The move raises lots of questions.
-   [Confirmado] Fuentes: Reuters, NPR, The New York Times
-   https://www.npr.org/2026/09/23/nx-s1-5978044/trump-administration-drops-760-000-americans-from-aca-coverage-citing-fraud
+2. Trump to host China's Xi at White House with AI and tariffs on the agenda
+   President Trump will host Chinese President Xi Jinping for meetings and a state dinner on Thursday, as the world's two most powerful countries try to extend a tariff truce and grapple with a rivalry on advanced AI.
+   [En desarrollo] Fuentes: CBS News, NBC News
+   https://www.cbsnews.com/live-updates/trump-china-xi-jinping-state-visit-dinner-tariffs-ai/
 
-3. Federal Reserve Board announces approval of application by BancFirst Corporation
-   [Probable] Fuentes: Federal Reserve
-   https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm
+3. La tasa hipotecaria a 30 años en EE. UU. supera el 7%, alcanzando un máximo de 2 años
+   La hipoteca de tasa fija a 30 años en EE. UU. ha superado el 7% por primera vez desde mayo de 2024. El colaborador de negocios de CBS News, Javier David, analiza qué está impulsando el aumento.
+   [En desarrollo] Fuentes: Reuters, CBS News
+   https://www.cbsnews.com/video/mortgage-rates-surpass-7-for-first-time-in-2-years/
 
-4. New EU industry rules would damage UK, warns Burnham
-   The prime minister met the European Commission President during his visit to the United Nations General Assembly.
-   [Probable] Fuentes: BBC News, Bloomberg, The Hill
-   https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss
+4. Fed rate hike cycles have a history of denting US stock prices
+   John Williams was speaking at the London Macro Policy Forum on Thursday.
+   [En desarrollo] Fuentes: Reuters, CNBC
+   https://www.cnbc.com/2026/09/24/feds-williams-another-rate-hike-by-year-end.html
 
-5. There's a reason Trump is the only one talking about 1% interest rates
-   [En desarrollo] Fuentes: Reuters, Financial Times
+5. Turkey arrests founder of brokerage at centre of $18bn alleged Ponzi scheme
+   The Securities and Exchange Commission today charged CMI Capital LLC and its founder and manager, Michael D. Williams, for an alleged fraudulent investment scheme that raised approximately $860,000 from at least 18 investors, many of whom…
+   [En desarrollo] Fuentes: U.S. SEC, Financial Times
+   https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement
 
-6. US Senate Democrats seek sanctions over Israeli settlements, bill says
-   MPs send out letter as Israeli government seeks bids for construction of large E1 settlement in West Bank British banks and financial institutions are receiving written warnings from MPs that they should not invest in Israel’s E1…
-   [Probable] Fuentes: Reuters, The Guardian
-   https://www.theguardian.com/politics/2026/sep/22/mps-uk-banks-investment-israeli-settlement-trade-ban
+6. Fed’s Barr says future interest rate hikes ‘likely’ needed to tame inflation
+   Federal Reserve Governor Michael Barr said Wednesday the central bank will “likely” raise interest rates again to counter persistent inflation, after it did so last week for the first time in three-plus years. Barr, a member of the…
+   [En desarrollo] Fuentes: Bloomberg, The Hill
+   https://thehill.com/business/6107670-fed-governor-barr-rate-hike/
 
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
 Edición completa: https://valentincatena0-droid.github.io/morning-brief-ai/#/niche/finanzas
