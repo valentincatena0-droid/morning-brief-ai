@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 24 SEPTIEMBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 25 SEPTIEMBRE 2026
 
-## Oil extends gains on little sign of progress in US-Iran talks
-Oil rose Thursday, as traders assess a report that Asia is on track to import its highest volume of crude oil since the start of the US-Iran war.
+## La Reserva Federal de EE. UU. propone nuevas reglas para las stablecoins
 
-**Probable** · Fuentes: Reuters, Bloomberg, CNBC · [Leer la fuente](https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html)
 
-## Trump to host China's Xi at White House with AI and tariffs on the agenda
-President Trump will host Chinese President Xi Jinping for meetings and a state dinner on Thursday, as the world's two most powerful countries try to extend a tariff truce and grapple with a rivalry on advanced AI.
+**Confirmado** · Fuentes: Federal Reserve, Reuters, Bloomberg · [Leer la fuente](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm)
 
-**En desarrollo** · Fuentes: CBS News, NBC News · [Leer la fuente](https://www.cbsnews.com/live-updates/trump-china-xi-jinping-state-visit-dinner-tariffs-ai/)
+## ‘Love Me’ Ad Promotes Trump With Public Money Ahead of the Midterms
+Un descargo de responsabilidad dice que el anuncio fue pagado por el gobierno de los EE. UU., lo cual podría violar la ley federal.
 
-## La tasa hipotecaria a 30 años en EE. UU. supera el 7%, alcanzando un máximo de 2 años
-La hipoteca de tasa fija a 30 años en EE. UU. ha superado el 7% por primera vez desde mayo de 2024. El colaborador de negocios de CBS News, Javier David, analiza qué está impulsando el aumento.
+**Confirmado** · Fuentes: Federal Trade Commission, The New York Times · [Leer la fuente](https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-seeks-public-comment-whether-update-rule-impersonation-government-businesses-address-platforms)
 
-**En desarrollo** · Fuentes: Reuters, CBS News · [Leer la fuente](https://www.cbsnews.com/video/mortgage-rates-surpass-7-for-first-time-in-2-years/)
+## El Senado rechaza la resolución para detener la guerra con Irán mientras los precios de la gasolina alteran las elecciones de mitad de mandato
+Lisa Murkowski, Susan Collins, Rand Paul y Thom Tillis se unieron a todos los demócratas menos uno, el Sen. John Fetterman, para votar a favor de la resolución.
 
-## Fed rate hike cycles have a history of denting US stock prices
-John Williams was speaking at the London Macro Policy Forum on Thursday.
+**En desarrollo** · Fuentes: Associated Press, Reuters, Bloomberg · [Leer la fuente](https://abcnews.com/Politics/senate-fails-adopt-iran-war-powers-resolution-despite/story?id=136722629)
 
-**En desarrollo** · Fuentes: Reuters, CNBC · [Leer la fuente](https://www.cnbc.com/2026/09/24/feds-williams-another-rate-hike-by-year-end.html)
+## Empresas del Reino Unido utilizarán datos del campo de batalla de Ucrania para el desarrollo de enjambres de drones con IA
+El daño económico de los ataques rusos, que resulta en pérdida de ventas, interrupción de jornadas laborales y problemas logísticos, asciende a miles de millones de dólares.
 
-## Turkey arrests founder of brokerage at centre of $18bn alleged Ponzi scheme
-The Securities and Exchange Commission today charged CMI Capital LLC and its founder and manager, Michael D. Williams, for an alleged fraudulent investment scheme that raised approximately $860,000 from at least 18 investors, many of whom…
+**Probable** · Fuentes: Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/09/25/world/europe/ukraine-russia-economy.html)
 
-**En desarrollo** · Fuentes: U.S. SEC, Financial Times · [Leer la fuente](https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement)
+## PepsiCo to raise some chip prices as input costs bite
+Accounts raise tantalizing questions about what happens inside a brain afflicted by dementia and whether cognitive abilities could possibly be restored.
 
-## Fed’s Barr says future interest rate hikes ‘likely’ needed to tame inflation
-Federal Reserve Governor Michael Barr said Wednesday the central bank will “likely” raise interest rates again to counter persistent inflation, after it did so last week for the first time in three-plus years. Barr, a member of the…
+**Probable** · Fuentes: Reuters, Bloomberg, The Washington Post · [Leer la fuente](https://www.washingtonpost.com/health/2026/09/25/some-dementia-patients-grow-lucid-near-end-scientists-hope-its-clue/)
 
-**En desarrollo** · Fuentes: Bloomberg, The Hill · [Leer la fuente](https://thehill.com/business/6107670-fed-governor-barr-rate-hike/)
+## La Junta de la Reserva Federal emite una medida de ejecución contra un ex empleado de Sandy Spring Bank
+
+
+**Probable** · Fuentes: Federal Reserve · [Leer la fuente](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.

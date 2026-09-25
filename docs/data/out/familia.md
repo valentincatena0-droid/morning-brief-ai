@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 24 SEPTIEMBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 25 SEPTIEMBRE 2026
 
-## El Congo se está quedando sin trabajadores de la salud mientras el ébola sigue fuera de control, dice la OMS
-Tras más de 130 días del último brote de ébola en la República Democrática del Congo (RDC), los expertos en salud dijeron el miércoles que los esfuerzos de respuesta se han intensificado significativamente y que ahora se están viendo “las…
+## La guerra civil de Yemen regresa y abruma a los hospitales con 'una situación muy peligrosa'
+Los combates se intensifican después de que los rebeldes de Tigray formaran una nueva coalición con el objetivo de derrocar al gobierno de Abiy Ahmed. Existen crecientes temores de un retorno a la guerra civil en Etiopía tras una ofensiva…
 
-**Confirmado** · Fuentes: UN News, Associated Press, ABC News · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/09/1168407)
+**Probable** · Fuentes: Associated Press, The Guardian, The Washington Post · [Leer la fuente](https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army)
 
-## En la Semana del Clima, Elmo recuerda una tormenta en Sesame Street: ‘El coraje es cuando todavía ayudas a los demás’
-Los ojos negros pueden desprenderse del mordedor retirado si se congelan, lo que supone un riesgo de lesiones graves o muerte por peligro de asfixia.
+## El poderoso huracán Polo empapa la costa de México mientras Nolo apunta a Hawái
+El huracán Polo recuperó la categoría 5 a medida que su intensidad fluctuaba entre la categoría 4 y la categoría 5 —la más fuerte en la escala de huracanes— frente a la costa suroeste de México.
 
-**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, The Guardian · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Skip-Hop-Recalls-Baby-Sesame-Street-Elmo-Silicone-Teethers-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard)
+**Confirmado** · Fuentes: Associated Press, Reuters, Financial Times · [Leer la fuente](https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico)
 
-## El huracán Polo en alta mar envía lluvia a la costa de México mientras Nolo se acerca a Hawái
-La gran tormenta en el océano Pacífico está siendo impulsada por aguas cálidas causadas por el fenómeno meteorológico de El Niño.
+## Hombre que recibió un disparo durante el mitin de campaña de Trump de 2024 en Butler, Pensilvania, ha fallecido
+James Copenhaver, de 76 años, fue alcanzado en el brazo y el abdomen en el tiroteo en Butler, Pensilvania.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: Associated Press, The New York Times, The Guardian · [Leer la fuente](https://www.nytimes.com/2026/09/24/us/trump-butler-assassination-attempt-victim-dies.html)
 
-## FJTJBSI Recalls Six-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units
-The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as…
+## La candidata a la FDA dice que las vacunas son seguras a pesar de los esfuerzos de Trump por reformar las vacunas infantiles
+Heidi Overton ha sido nominada para ser la nueva comisionada de la FDA. El comité HELP del Senado la presionó sobre vacunas, mifepristona, seguridad alimentaria y si puede decirle al presidente que está equivocado.
 
-**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, UN News · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/FJTJBSI-Recalls-Six-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units)
+**Confirmado** · Fuentes: Associated Press, NPR, The New York Times · [Leer la fuente](https://www.npr.org/2026/09/24/nx-s1-5980057/president-trumps-fda-commissioner-nom-dr-heidi-overton-faces-senators-questions)
 
-## Rastreador de la tormenta tropical Nolo: Mapa y trayectoria proyectada de la tormenta
-Emitido a las 900 AM GMT Thu Sep 24 2026 000 WTNT41 KNHC 240835 TCDAT1 Tropical Storm Fay Discussion Number 17 NWS National Hurricane Center Miami FL AL062026 900 AM GMT Thu Sep 24 2026 La convección ha continuado estallando en bandas…
+## Toyworld168 retira del mercado los juguetes Rainbow Mystery Squishy Bun debido al riesgo de lesiones graves o muerte por ingestión de perlas de agua; violan la norma obligatoria para juguetes
+Los juguetes squishy bun violan la norma de seguridad obligatoria para juguetes porque las perlas de agua dentro de las bolitas se expanden más de lo permitido, lo que representa un peligro de ingestión mortal. Si se ingiere una perla de…
 
-**Confirmado** · Fuentes: NOAA National Hurricane Center, The Washington Post · [Leer la fuente](https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/240835.shtml)
+**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Toyworld168-Recalls-Rainbow-Mystery-Squishy-Bun-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys)
 
-## Senators to question FDA nominee about her views on abortion pill and vaccines
-Heidi Overton has called mifepristone “dangerous to women.” As a White House aide, she worked to reduce the number of vaccines recommended for children.
+## Sauna360 amplía el retiro del mercado de los saunas híbridos Tylö Halmstad y Kiruna debido a riesgo de caída; se ofrece un nuevo remedio
+Los saunas contienen un banco que puede colapsar, lo que representa un riesgo de caída para los consumidores. La reparación del retiro anterior fue ineficaz; ahora se ofrece una nueva reparación.
 
-**Probable** · Fuentes: Associated Press, The New York Times, NBC News · [Leer la fuente](https://www.nytimes.com/2026/09/24/us/heidi-overton-fda.html)
+**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Sauna360-Expands-Recall-of-Tylo-Halmstad-and-Kiruna-Hybrid-Saunas-Due-to-Fall-Hazard-New-Remedy-Provided)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
