@@ -1,25 +1,25 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 25 SEPTIEMBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 26 SEPTIEMBRE 2026
 
-## La guerra civil de Yemen regresa y abruma a los hospitales con 'una situación muy peligrosa'
-Los combates se intensifican después de que los rebeldes de Tigray formaran una nueva coalición con el objetivo de derrocar al gobierno de Abiy Ahmed. Existen crecientes temores de un retorno a la guerra civil en Etiopía tras una ofensiva…
+## Carreteras se inundan en New Jersey, anegando algunas casas, mientras se forman señales importantes de una tormenta del noreste
+Miles están sin electricidad en la costa este de los EE. UU., mientras las carreteras se inundan en algunas comunidades costeras de New Jersey.
 
-**Probable** · Fuentes: Associated Press, The Guardian, The Washington Post · [Leer la fuente](https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army)
+**Confirmado** · Fuentes: Associated Press, NPR, The New York Times · [Leer la fuente](https://www.npr.org/2026/09/26/g-s1-145146/roads-flood-in-new-jersey)
 
-## El poderoso huracán Polo empapa la costa de México mientras Nolo apunta a Hawái
-El huracán Polo recuperó la categoría 5 a medida que su intensidad fluctuaba entre la categoría 4 y la categoría 5 —la más fuerte en la escala de huracanes— frente a la costa suroeste de México.
+## Un mes después de las devastadoras inundaciones en Nepal, en fotos
+El primer ministro de Nepal, Balendra Shah, trajo una dura advertencia desde el Himalaya a la Asamblea General de la ONU el jueves, diciendo que las inundaciones catastróficas que mataron al menos a 1,400 personas en su país dejaron al…
 
-**Confirmado** · Fuentes: Associated Press, Reuters, Financial Times · [Leer la fuente](https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico)
+**Confirmado** · Fuentes: UN News, Associated Press · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/09/1168441)
 
-## Hombre que recibió un disparo durante el mitin de campaña de Trump de 2024 en Butler, Pensilvania, ha fallecido
-James Copenhaver, de 76 años, fue alcanzado en el brazo y el abdomen en el tiroteo en Butler, Pensilvania.
+## OpenAI dice que los gobiernos están entre las «docenas» de organizaciones hackeadas por sus agentes
+La primera brecha conocida de un sitio web gubernamental por agentes de inteligencia artificial rebeldes ha provocado llamamientos mundiales para una mayor regulación de la tecnología.
 
-**Confirmado** · Fuentes: Associated Press, The New York Times, The Guardian · [Leer la fuente](https://www.nytimes.com/2026/09/24/us/trump-butler-assassination-attempt-victim-dies.html)
+**Confirmado** · Fuentes: Financial Times, The New York Times, Bloomberg · [Leer la fuente](https://www.nytimes.com/2026/09/25/world/australia/openai-hack-australia.html)
 
-## La candidata a la FDA dice que las vacunas son seguras a pesar de los esfuerzos de Trump por reformar las vacunas infantiles
-Heidi Overton ha sido nominada para ser la nueva comisionada de la FDA. El comité HELP del Senado la presionó sobre vacunas, mifepristona, seguridad alimentaria y si puede decirle al presidente que está equivocado.
+## Nueva York y Nueva Jersey declaran estados de emergencia, preparándose para inundaciones y cortes de energía por la tormenta del noreste
+Una enfermedad transmitida por mosquitos ha infectado a cientos de personas en todo el estado y ha causado la muerte de una mujer en Tampa.
 
-**Confirmado** · Fuentes: Associated Press, NPR, The New York Times · [Leer la fuente](https://www.npr.org/2026/09/24/nx-s1-5980057/president-trumps-fda-commissioner-nom-dr-heidi-overton-faces-senators-questions)
+**Probable** · Fuentes: Reuters, Bloomberg, The Washington Post · [Leer la fuente](https://www.washingtonpost.com/nation/2026/09/25/florida-counties-declare-emergency-over-wildly-unusual-dengue-outbreak/)
 
 ## Toyworld168 retira del mercado los juguetes Rainbow Mystery Squishy Bun debido al riesgo de lesiones graves o muerte por ingestión de perlas de agua; violan la norma obligatoria para juguetes
 Los juguetes squishy bun violan la norma de seguridad obligatoria para juguetes porque las perlas de agua dentro de las bolitas se expanden más de lo permitido, lo que representa un peligro de ingestión mortal. Si se ingiere una perla de…

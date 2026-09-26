@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 25 SEPTIEMBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 26 SEPTIEMBRE 2026
 
-## La Reserva Federal de EE. UU. propone nuevas reglas para las stablecoins
+## Un respiro ante el aumento de los precios del petróleo ayuda a las acciones estadounidenses a terminar la semana al alza
+Grupos de la industria ganadera en Texas, Oklahoma y Kansas y dos senadores republicanos dijeron que las acciones de aplicación de la ley de inmigración de la administración Trump estaban perjudicando las operaciones.
 
+**Confirmado** · Fuentes: Associated Press, The New York Times, Bloomberg · [Leer la fuente](https://www.nytimes.com/2026/09/25/us/politics/ice-raids-kansas-texas-oklahoma-beef-prices.html)
 
-**Confirmado** · Fuentes: Federal Reserve, Reuters, Bloomberg · [Leer la fuente](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm)
+## China y EE. UU. acuerdan establecer un nuevo canal de seguridad de IA, y seguir hablando sobre comercio y asuntos militares
+China y EE. UU. han acordado establecer un canal para gestionar incidentes relacionados con la IA y acelerar el trabajo en las comunicaciones de crisis militares
 
-## ‘Love Me’ Ad Promotes Trump With Public Money Ahead of the Midterms
-Un descargo de responsabilidad dice que el anuncio fue pagado por el gobierno de los EE. UU., lo cual podría violar la ley federal.
+**Probable** · Fuentes: Associated Press, Reuters, ABC News · [Leer la fuente](https://abcnews.com/International/wireStory/china-us-agree-set-new-ai-safety-channel-136777768)
 
-**Confirmado** · Fuentes: Federal Trade Commission, The New York Times · [Leer la fuente](https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-seeks-public-comment-whether-update-rule-impersonation-government-businesses-address-platforms)
+## Semana en Wall Street: confianza del consumidor, inflación, actualizaciones de empleo
+El sentimiento del consumidor en EE. UU. cayó a un mínimo de cuatro meses en septiembre en medio de tasas de inflación crecientes y crecientes preocupaciones sobre el costo de vida, según los resultados de la encuesta publicados el…
 
-## El Senado rechaza la resolución para detener la guerra con Irán mientras los precios de la gasolina alteran las elecciones de mitad de mandato
-Lisa Murkowski, Susan Collins, Rand Paul y Thom Tillis se unieron a todos los demócratas menos uno, el Sen. John Fetterman, para votar a favor de la resolución.
+**Probable** · Fuentes: Associated Press, Reuters, The Hill · [Leer la fuente](https://thehill.com/business/6112272-us-consumer-sentiment-drops-inflation-gas/)
 
-**En desarrollo** · Fuentes: Associated Press, Reuters, Bloomberg · [Leer la fuente](https://abcnews.com/Politics/senate-fails-adopt-iran-war-powers-resolution-despite/story?id=136722629)
-
-## Empresas del Reino Unido utilizarán datos del campo de batalla de Ucrania para el desarrollo de enjambres de drones con IA
-El daño económico de los ataques rusos, que resulta en pérdida de ventas, interrupción de jornadas laborales y problemas logísticos, asciende a miles de millones de dólares.
-
-**Probable** · Fuentes: Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/09/25/world/europe/ukraine-russia-economy.html)
-
-## PepsiCo to raise some chip prices as input costs bite
-Accounts raise tantalizing questions about what happens inside a brain afflicted by dementia and whether cognitive abilities could possibly be restored.
-
-**Probable** · Fuentes: Reuters, Bloomberg, The Washington Post · [Leer la fuente](https://www.washingtonpost.com/health/2026/09/25/some-dementia-patients-grow-lucid-near-end-scientists-hope-its-clue/)
-
-## La Junta de la Reserva Federal emite una medida de ejecución contra un ex empleado de Sandy Spring Bank
+## La Junta de la Reserva Federal anuncia la aprobación de la solicitud de Peoples Bancorp Inc.
 
 
-**Probable** · Fuentes: Federal Reserve · [Leer la fuente](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm)
+**Probable** · Fuentes: Federal Reserve · [Leer la fuente](https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm)
+
+## Trump asistirá a un gran partido de fútbol americano universitario, y los entrenadores están preocupados por las interrupciones
+El presidente Trump asistirá al partido de fútbol americano entre la University of Texas y la University of Tennessee en Knoxville al mediodía del sábado, una aparición que se produce antes de la última oportunidad de los senadores para…
+
+**En desarrollo** · Fuentes: Associated Press, The Hill · [Leer la fuente](https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/)
+
+## Hammack de la Fed preocupado de que las expectativas de inflación puedan deteriorarse
+
+
+**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSWE0MWtmVVUxc09heVZ5Qkc0UWdCLVZneTRFdnJqMnNPQkJYMlg5Z01jMUdTeFI1b1U0c3NJekxKUVBoeXVXLTQxUGtGMjdMQUlQZVUxQUpNS3VaWjhicXZ3Tm5ObVhUaU5sTFRleVlxWGtJSTBXM19XMEEzeklXNHZWNU5yMjFDcWFLSm9rRF90V3RSemhyWmlwRjcweVgxelRhZnlreDhkdw?oc=5)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
