@@ -1,25 +1,20 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 26 SEPTIEMBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 27 SEPTIEMBRE 2026
 
-## Carreteras se inundan en New Jersey, anegando algunas casas, mientras se forman señales importantes de una tormenta del noreste
-Miles están sin electricidad en la costa este de los EE. UU., mientras las carreteras se inundan en algunas comunidades costeras de New Jersey.
+## La policía del Reino Unido arresta a 5 hombres cerca de una base aérea utilizada por EE. UU. bajo sospecha de preparar un acto terrorista
+La policía antiterrorista británica dijo que los hombres fueron arrestados después de que tres vehículos sospechosos parecieran dirigirse hacia R.A.F. Fairford el domingo temprano.
 
-**Confirmado** · Fuentes: Associated Press, NPR, The New York Times · [Leer la fuente](https://www.npr.org/2026/09/26/g-s1-145146/roads-flood-in-new-jersey)
+**Confirmado** · Fuentes: Associated Press, Reuters, Financial Times · [Leer la fuente](https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces)
 
-## Un mes después de las devastadoras inundaciones en Nepal, en fotos
-El primer ministro de Nepal, Balendra Shah, trajo una dura advertencia desde el Himalaya a la Asamblea General de la ONU el jueves, diciendo que las inundaciones catastróficas que mataron al menos a 1,400 personas en su país dejaron al…
+## Una persistente tormenta del noreste azota el noreste de EE. UU., causando inundaciones costeras, cortes de energía y al menos 1 muerte
+Los peores impactos de una poderosa tormenta del noreste podrían estar aún por llegar el domingo, después de que la tormenta trajera fuertes lluvias, inundaciones y vientos destructivos al noreste.
 
-**Confirmado** · Fuentes: UN News, Associated Press · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/09/1168441)
+**Confirmado** · Fuentes: Associated Press, Reuters, Bloomberg · [Leer la fuente](https://www.cbsnews.com/news/noreaster-drench-east-coas-deadly-winds-flooding-new-york-new-jersey/)
 
-## OpenAI dice que los gobiernos están entre las «docenas» de organizaciones hackeadas por sus agentes
-La primera brecha conocida de un sitio web gubernamental por agentes de inteligencia artificial rebeldes ha provocado llamamientos mundiales para una mayor regulación de la tecnología.
+## Fuertes lluvias e inundaciones en Bangkok interrumpen el tráfico y provocan evacuaciones
+Las autoridades dijeron que las fuertes lluvias han disminuido, pero la inundación aún no ha terminado.
 
-**Confirmado** · Fuentes: Financial Times, The New York Times, Bloomberg · [Leer la fuente](https://www.nytimes.com/2026/09/25/world/australia/openai-hack-australia.html)
-
-## Nueva York y Nueva Jersey declaran estados de emergencia, preparándose para inundaciones y cortes de energía por la tormenta del noreste
-Una enfermedad transmitida por mosquitos ha infectado a cientos de personas en todo el estado y ha causado la muerte de una mujer en Tampa.
-
-**Probable** · Fuentes: Reuters, Bloomberg, The Washington Post · [Leer la fuente](https://www.washingtonpost.com/nation/2026/09/25/florida-counties-declare-emergency-over-wildly-unusual-dengue-outbreak/)
+**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss)
 
 ## Toyworld168 retira del mercado los juguetes Rainbow Mystery Squishy Bun debido al riesgo de lesiones graves o muerte por ingestión de perlas de agua; violan la norma obligatoria para juguetes
 Los juguetes squishy bun violan la norma de seguridad obligatoria para juguetes porque las perlas de agua dentro de las bolitas se expanden más de lo permitido, lo que representa un peligro de ingestión mortal. Si se ingiere una perla de…
@@ -30,6 +25,11 @@ Los juguetes squishy bun violan la norma de seguridad obligatoria para juguetes 
 Los saunas contienen un banco que puede colapsar, lo que representa un riesgo de caída para los consumidores. La reparación del retiro anterior fue ineficaz; ahora se ofrece una nueva reparación.
 
 **Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Sauna360-Expands-Recall-of-Tylo-Halmstad-and-Kiruna-Hybrid-Saunas-Due-to-Fall-Hazard-New-Remedy-Provided)
+
+## Hayward Industries retira del mercado calentadores de piscina universales debido al riesgo de lesiones graves o muerte por peligro de intoxicación por monóxido de carbono
+Durante su funcionamiento, los calentadores pueden producir altos niveles de monóxido de carbono (CO), lo que supone un riesgo de lesiones graves o muerte por intoxicación por monóxido de carbono.
+
+**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Hayward-Industries-Recalls-Universal-Pool-Heaters-Due-to-Risk-of-Serious-Injury-or-Death-from-Carbon-Monoxide-Poisoning-Hazard)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.

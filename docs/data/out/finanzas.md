@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 26 SEPTIEMBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 27 SEPTIEMBRE 2026
 
-## Un respiro ante el aumento de los precios del petróleo ayuda a las acciones estadounidenses a terminar la semana al alza
-Grupos de la industria ganadera en Texas, Oklahoma y Kansas y dos senadores republicanos dijeron que las acciones de aplicación de la ley de inmigración de la administración Trump estaban perjudicando las operaciones.
+## Burnham del Reino Unido promete ofrecer una reforma de la atención social en las próximas elecciones
+Andy Burnham dijo que el servicio de atención propuesto se detallaría y se incluiría en la boleta electoral en las próximas elecciones generales.
 
-**Confirmado** · Fuentes: Associated Press, The New York Times, Bloomberg · [Leer la fuente](https://www.nytimes.com/2026/09/25/us/politics/ice-raids-kansas-texas-oklahoma-beef-prices.html)
+**Confirmado** · Fuentes: Reuters, BBC News, Financial Times · [Leer la fuente](https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss)
 
-## China y EE. UU. acuerdan establecer un nuevo canal de seguridad de IA, y seguir hablando sobre comercio y asuntos militares
-China y EE. UU. han acordado establecer un canal para gestionar incidentes relacionados con la IA y acelerar el trabajo en las comunicaciones de crisis militares
+## China y EE. UU. acuerdan diálogo sobre IA y recortes arancelarios de 30.000 millones de dólares en bienes durante la visita de Xi
+El Vaticano estimó que 800.000 personas asistieron a la misa.
 
-**Probable** · Fuentes: Associated Press, Reuters, ABC News · [Leer la fuente](https://abcnews.com/International/wireStory/china-us-agree-set-new-ai-safety-channel-136777768)
+**Probable** · Fuentes: Reuters, CBS News, CNBC · [Leer la fuente](https://www.cbsnews.com/news/pope-leo-france-visit-paris-mass/)
 
-## Semana en Wall Street: confianza del consumidor, inflación, actualizaciones de empleo
-El sentimiento del consumidor en EE. UU. cayó a un mínimo de cuatro meses en septiembre en medio de tasas de inflación crecientes y crecientes preocupaciones sobre el costo de vida, según los resultados de la encuesta publicados el…
-
-**Probable** · Fuentes: Associated Press, Reuters, The Hill · [Leer la fuente](https://thehill.com/business/6112272-us-consumer-sentiment-drops-inflation-gas/)
-
-## La Junta de la Reserva Federal anuncia la aprobación de la solicitud de Peoples Bancorp Inc.
+## ¿Añadirán los datos de empleo de EE. UU. presión a los responsables de la Fed?
 
 
-**Probable** · Fuentes: Federal Reserve · [Leer la fuente](https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm)
+**En desarrollo** · Fuentes: Financial Times, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFFNUlR4Rk5lQWxWYkJvcnAzWUNMVnRCRmZ4OHozcXExU0tBTG9ZSXl4cUczeUVpanRlamlSTnY1N1FPZVY1bGRveGExTXJ5OUVlVjZ0Y2J6WWZETkZPWmZsLWpHenFzUWE3ellKSDhwQVZwenQ4Wl9idWkzZVltS0RCNjQ?oc=5)
 
-## Trump asistirá a un gran partido de fútbol americano universitario, y los entrenadores están preocupados por las interrupciones
-El presidente Trump asistirá al partido de fútbol americano entre la University of Texas y la University of Tennessee en Knoxville al mediodía del sábado, una aparición que se produce antes de la última oportunidad de los senadores para…
+## La gran final de la AFL bate récords de audiencia televisiva: tal como sucedió
+Este blog ya está cerrado. Reciba nuestro correo electrónico de noticias de última hora, nuestra aplicación gratuita o nuestro podcast diario de noticias. Las muertes en el sistema de protección infantil de Queensland alcanzan un máximo…
 
-**En desarrollo** · Fuentes: Associated Press, The Hill · [Leer la fuente](https://thehill.com/homenews/6112836-live-updates-trump-college-football-gop/)
+**Probable** · Fuentes: The Guardian, CNBC · [Leer la fuente](https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb)
 
-## Hammack de la Fed preocupado de que las expectativas de inflación puedan deteriorarse
+## Kean regresó al Congreso después de una ausencia inexplicable. Ahora es el momento de su primer y único debate
 
 
-**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSWE0MWtmVVUxc09heVZ5Qkc0UWdCLVZneTRFdnJqMnNPQkJYMlg5Z01jMUdTeFI1b1U0c3NJekxKUVBoeXVXLTQxUGtGMjdMQUlQZVUxQUpNS3VaWjhicXZ3Tm5ObVhUaU5sTFRleVlxWGtJSTBXM19XMEEzeklXNHZWNU5yMjFDcWFLSm9rRF90V3RSemhyWmlwRjcweVgxelRhZnlreDhkdw?oc=5)
+**En desarrollo** · Fuentes: Associated Press, CNN · [Leer la fuente](https://www.fool.com/the-ascent/credit-cards/landing/citi-simplicity-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-citisimp2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn)
+
+## Las subastas de viviendas en Australia alcanzan su nivel más bajo en 10 semanas ante la inminente subida de tipos
+El resultado de las reuniones del Reserve Bank el lunes y el martes afectará a las tasas hipotecarias australianas, los presupuestos familiares y los precios de la vivienda. Reciba nuestro correo electrónico de noticias de última hora,…
+
+**En desarrollo** · Fuentes: Bloomberg, The Guardian · [Leer la fuente](https://www.theguardian.com/australia-news/2026/sep/28/rba-expected-to-hike-cash-rate-to-46-its-highest-level-since-2011)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
