@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 27 SEPTIEMBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 28 SEPTIEMBRE 2026
 
-## La policía del Reino Unido arresta a 5 hombres cerca de una base aérea utilizada por EE. UU. bajo sospecha de preparar un acto terrorista
-La policía antiterrorista británica dijo que los hombres fueron arrestados después de que tres vehículos sospechosos parecieran dirigirse hacia R.A.F. Fairford el domingo temprano.
+## Nor’easter storm batters US east coast with heavy winds and power outages
+Issued at 1500 UTC MON SEP 28 2026 000 FONT13 KNHC 281500 PWSAT3 TROPICAL STORM HANNA WIND SPEED PROBABILITIES NUMBER 1 NWS NATIONAL HURRICANE CENTER MIAMI FL AL082026 1500 UTC MON SEP 28 2026 AT 1500Z THE CENTER OF TROPICAL STORM HANNA…
 
-**Confirmado** · Fuentes: Associated Press, Reuters, Financial Times · [Leer la fuente](https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces)
+**Confirmado** · Fuentes: NOAA National Hurricane Center, The Guardian, NBC News · [Leer la fuente](https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/281500.shtml)
 
-## Una persistente tormenta del noreste azota el noreste de EE. UU., causando inundaciones costeras, cortes de energía y al menos 1 muerte
-Los peores impactos de una poderosa tormenta del noreste podrían estar aún por llegar el domingo, después de que la tormenta trajera fuertes lluvias, inundaciones y vientos destructivos al noreste.
+## Congo’s Ebola outbreak tops 8,000 confirmed cases as disease remains out of control
+State health officials said 55 new cases had been reported since Wednesday. In all, 890 measles cases have been reported across 39 counties so far this year.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, Bloomberg · [Leer la fuente](https://www.cbsnews.com/news/noreaster-drench-east-coas-deadly-winds-flooding-new-york-new-jersey/)
+**Confirmado** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/09/27/us/pennsylvania-measles-outbreak-cases.html)
 
-## Fuertes lluvias e inundaciones en Bangkok interrumpen el tráfico y provocan evacuaciones
-Las autoridades dijeron que las fuertes lluvias han disminuido, pero la inundación aún no ha terminado.
+## Shipwreck uncovered on Nantucket island during nor'easter storm
+The so-called nor'easter storm has washed up what may be a shipwreck from the 19th century in Massachusetts, local media says.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: BBC News, The Guardian, CBS News · [Leer la fuente](https://www.bbc.co.uk/news/videos/cmg497x0p4x3o?at_medium=RSS&at_campaign=rss)
 
-## Toyworld168 retira del mercado los juguetes Rainbow Mystery Squishy Bun debido al riesgo de lesiones graves o muerte por ingestión de perlas de agua; violan la norma obligatoria para juguetes
-Los juguetes squishy bun violan la norma de seguridad obligatoria para juguetes porque las perlas de agua dentro de las bolitas se expanden más de lo permitido, lo que representa un peligro de ingestión mortal. Si se ingiere una perla de…
+## Getting river pollution investigated like 'pulling teeth'
+The recalled teething toys violate the mandatory safety standard for toys because the silicone strings are smaller and longer than permitted. The silicone strings can reach the back of the throat and become lodged, posing a risk of…
+
+**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, BBC News · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Pull-and-Chew-Montessori-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Mandatory-Standard-for-Toys)
+
+## Toyworld168 Recalls Rainbow Mystery Squishy Bun Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys
+The squishy bun toys violate the mandatory safety standard for toys because the water beads inside the dumplings expand larger than permitted, posing a deadly ingestion hazard. If a water bead is ingested, it can pose ingestion, choking…
 
 **Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Toyworld168-Recalls-Rainbow-Mystery-Squishy-Bun-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys)
 
-## Sauna360 amplía el retiro del mercado de los saunas híbridos Tylö Halmstad y Kiruna debido a riesgo de caída; se ofrece un nuevo remedio
-Los saunas contienen un banco que puede colapsar, lo que representa un riesgo de caída para los consumidores. La reparación del retiro anterior fue ineficaz; ahora se ofrece una nueva reparación.
+## El Papa Leo insta a hacer concesiones por la paz mientras la guerra en Ucrania se prolonga
+A medida que su panorama de mitad de mandato se oscurece y los precios de la gasolina y el diésel se disparan, algunos republicanos que apoyaron la guerra durante meses están cambiando ahora su postura.
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Sauna360-Expands-Recall-of-Tylo-Halmstad-and-Kiruna-Hybrid-Saunas-Due-to-Fall-Hazard-New-Remedy-Provided)
-
-## Hayward Industries retira del mercado calentadores de piscina universales debido al riesgo de lesiones graves o muerte por peligro de intoxicación por monóxido de carbono
-Durante su funcionamiento, los calentadores pueden producir altos niveles de monóxido de carbono (CO), lo que supone un riesgo de lesiones graves o muerte por intoxicación por monóxido de carbono.
-
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Hayward-Industries-Recalls-Universal-Pool-Heaters-Due-to-Risk-of-Serious-Injury-or-Death-from-Carbon-Monoxide-Poisoning-Hazard)
+**Probable** · Fuentes: Reuters, The New York Times, The Washington Post · [Leer la fuente](https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.

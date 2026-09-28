@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 27 SEPTIEMBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 28 SEPTIEMBRE 2026
 
-## Burnham del Reino Unido promete ofrecer una reforma de la atención social en las próximas elecciones
-Andy Burnham dijo que el servicio de atención propuesto se detallaría y se incluiría en la boleta electoral en las próximas elecciones generales.
+## China, US agree to tariff cuts on $60 billion of goods including agriculture, household items
+The two countries unveiled separate lists covering thousands of products as they seek to ease trade tensions and stabilize relations ahead of further negotiations.
 
-**Confirmado** · Fuentes: Reuters, BBC News, Financial Times · [Leer la fuente](https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: Reuters, Financial Times, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/09/28/business/china-us-summit-tariffs.html)
 
-## China y EE. UU. acuerdan diálogo sobre IA y recortes arancelarios de 30.000 millones de dólares en bienes durante la visita de Xi
-El Vaticano estimó que 800.000 personas asistieron a la misa.
+## 8 infantes de marina heridos en un ataque iraní previamente no reportado en Ormuz
+Tres funcionarios estadounidenses le dijeron a NBC News que ocho infantes de marina estadounidenses resultaron heridos hace dos semanas en un ataque iraní previamente no reportado en el que un misil de crucero impactó su embarcación en el…
 
-**Probable** · Fuentes: Reuters, CBS News, CNBC · [Leer la fuente](https://www.cbsnews.com/news/pope-leo-france-visit-paris-mass/)
+**En desarrollo** · Fuentes: NBC News, CNBC, Al Jazeera · [Leer la fuente](https://www.today.com/video/8-marines-injured-in-previously-unreported-iranian-attack-on-hormuz-270643269962)
 
-## ¿Añadirán los datos de empleo de EE. UU. presión a los responsables de la Fed?
+## Stocks fall; bond market flips to 'higher for longer' mode
+Treasury yields edged higher on Monday as investors look ahead to fresh economic data releases this week.
 
+**Probable** · Fuentes: Reuters, Bloomberg, CNBC · [Leer la fuente](https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html)
 
-**En desarrollo** · Fuentes: Financial Times, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMihAFBVV95cUxNdFFNUlR4Rk5lQWxWYkJvcnAzWUNMVnRCRmZ4OHozcXExU0tBTG9ZSXl4cUczeUVpanRlamlSTnY1N1FPZVY1bGRveGExTXJ5OUVlVjZ0Y2J6WWZETkZPWmZsLWpHenFzUWE3ellKSDhwQVZwenQ4Wl9idWkzZVltS0RCNjQ?oc=5)
-
-## La gran final de la AFL bate récords de audiencia televisiva: tal como sucedió
-Este blog ya está cerrado. Reciba nuestro correo electrónico de noticias de última hora, nuestra aplicación gratuita o nuestro podcast diario de noticias. Las muertes en el sistema de protección infantil de Queensland alcanzan un máximo…
-
-**Probable** · Fuentes: The Guardian, CNBC · [Leer la fuente](https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb)
-
-## Kean regresó al Congreso después de una ausencia inexplicable. Ahora es el momento de su primer y único debate
+## Gold hits seven-week low as oil surge fuels rate hike bets
 
 
-**En desarrollo** · Fuentes: Associated Press, CNN · [Leer la fuente](https://www.fool.com/the-ascent/credit-cards/landing/citi-simplicity-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-citisimp2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn)
+**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5)
 
-## Las subastas de viviendas en Australia alcanzan su nivel más bajo en 10 semanas ante la inminente subida de tipos
-El resultado de las reuniones del Reserve Bank el lunes y el martes afectará a las tasas hipotecarias australianas, los presupuestos familiares y los precios de la vivienda. Reciba nuestro correo electrónico de noticias de última hora,…
+## Las acciones europeas suben mientras el repunte de las constructoras británicas compensa las presiones del petróleo y los bonos
 
-**En desarrollo** · Fuentes: Bloomberg, The Guardian · [Leer la fuente](https://www.theguardian.com/australia-news/2026/sep/28/rba-expected-to-hike-cash-rate-to-46-its-highest-level-since-2011)
+
+**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnJjQ0NlWFRaRUdoeDhfTHh5T3k0ejVfaDBvbFYtZFJmS1ExLUpKNWdOVGtfTktKS2U1Ykdob0pLUWFGLUtEZ2pDMU5nZkwzaXJwVU9ZQnFwdlhDMEx4LWJ6cG1INE90OUhhRVdCT1h6YVJtZktwOF9Td0x6MFZxNENFZUxfQi01eUFPS3kyMFNvRHBUWHE3U2J6MUxVckREc2NzVlhXbUxnWG1vbHJOTkNHNA?oc=5)
+
+## TotalEnergies aumenta las recompras y los dividendos a medida que los precios del petróleo se disparan
+
+
+**En desarrollo** · Fuentes: Financial Times, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFJSOE1oQ19IVEJ1c2FmMXY2VEF6STJ1RjBpZkhpSXQ3YkUwVkNBNzNGaUxMZ2FHcjJ4OUFqSzN5c3d3Y1dBWXFNbHZ3N1RtNG5zRFE0di1GZWV6bTVsRmZ2TG5mNFRRengtR18xOVh2YlJ1LThVWWlHVEc2Z1h4ZlUxT2I?oc=5)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
