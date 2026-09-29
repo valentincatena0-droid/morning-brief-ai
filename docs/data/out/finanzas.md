@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 28 SEPTIEMBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 29 SEPTIEMBRE 2026
 
-## China, US agree to tariff cuts on $60 billion of goods including agriculture, household items
-The two countries unveiled separate lists covering thousands of products as they seek to ease trade tensions and stabilize relations ahead of further negotiations.
+## Los migrantes que están siendo enviados de regreso a una zona de guerra
+Malasia dice que está repatriando a migrantes indocumentados de Myanmar que desean regresar. Los críticos dicen que está poniendo sus vidas en riesgo.
 
-**Confirmado** · Fuentes: Reuters, Financial Times, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/09/28/business/china-us-summit-tariffs.html)
+**Probable** · Fuentes: The New York Times, The Guardian, The Washington Post · [Leer la fuente](https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html)
 
-## 8 infantes de marina heridos en un ataque iraní previamente no reportado en Ormuz
-Tres funcionarios estadounidenses le dijeron a NBC News que ocho infantes de marina estadounidenses resultaron heridos hace dos semanas en un ataque iraní previamente no reportado en el que un misil de crucero impactó su embarcación en el…
+## EE. UU. y China publican listas de productos no sensibles por valor de 60.000 millones de dólares para reducir aranceles tras la reunión Trump-Xi
+Los dos países revelaron listas separadas que cubren miles de productos mientras buscaban aliviar las tensiones comerciales y estabilizar las relaciones antes de futuras negociaciones.
 
-**En desarrollo** · Fuentes: NBC News, CNBC, Al Jazeera · [Leer la fuente](https://www.today.com/video/8-marines-injured-in-previously-unreported-iranian-attack-on-hormuz-270643269962)
+**Probable** · Fuentes: Associated Press, The New York Times, Bloomberg · [Leer la fuente](https://www.nytimes.com/2026/09/28/business/china-us-summit-tariffs.html)
 
-## Stocks fall; bond market flips to 'higher for longer' mode
-Treasury yields edged higher on Monday as investors look ahead to fresh economic data releases this week.
+## España anuncia nuevas medidas de vivienda tras las protestas por el desahucio de una mujer de 87 años
+Las medidas incluyen una propuesta de prohibición de desahucios hasta 2030 y la renovación automática de los contratos de alquiler.
 
-**Probable** · Fuentes: Reuters, Bloomberg, CNBC · [Leer la fuente](https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html)
+**Confirmado** · Fuentes: BBC News, The New York Times, The Guardian · [Leer la fuente](https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss)
 
-## Gold hits seven-week low as oil surge fuels rate hike bets
-
-
-**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5)
-
-## Las acciones europeas suben mientras el repunte de las constructoras británicas compensa las presiones del petróleo y los bonos
+## Australia's central bank raises cash rate to 15-year peak
 
 
-**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMiswFBVV95cUxQTnJjQ0NlWFRaRUdoeDhfTHh5T3k0ejVfaDBvbFYtZFJmS1ExLUpKNWdOVGtfTktKS2U1Ykdob0pLUWFGLUtEZ2pDMU5nZkwzaXJwVU9ZQnFwdlhDMEx4LWJ6cG1INE90OUhhRVdCT1h6YVJtZktwOF9Td0x6MFZxNENFZUxfQi01eUFPS3kyMFNvRHBUWHE3U2J6MUxVckREc2NzVlhXbUxnWG1vbHJOTkNHNA?oc=5)
+**Probable** · Fuentes: Reuters, Financial Times, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMirAFBVV95cUxOckVNRnlXalMxWTNVWW54b21qd1NLU1pidGVKUHpBbERDSm84ZjJ4ZXRCZnRzSkdobzF2T3RjSWpVYjhlbFYwa0ZFS2hUWXRQZVRpX2F2TEZiUTdZREZ4dC1vS3NjTzRQUGE4ZkJXajZxRTF0T2YyZjdiUDBMSjR2TDdSUmRGYjUxS0ltVWNVc0xsT3VVbFNlcU1ERkJadDZnR3BRREwyMlU4VG96?oc=5)
 
-## TotalEnergies aumenta las recompras y los dividendos a medida que los precios del petróleo se disparan
+## Fed's Cook sees further inflationary pressures ahead
+Federal Reserve board of governors member Lisa Cook said Monday that rising demand for artificial intelligence is leading to “broadening” inflationary impacts, with implications for the entire economy. During a keynote speech at the…
+
+**En desarrollo** · Fuentes: Reuters, The Hill · [Leer la fuente](https://thehill.com/business/6115963-cook-warns-ai-price-pressures/)
+
+## China presenta recortes de tipos y subsidios hipotecarios para estimular el crecimiento
 
 
-**En desarrollo** · Fuentes: Financial Times, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFJSOE1oQ19IVEJ1c2FmMXY2VEF6STJ1RjBpZkhpSXQ3YkUwVkNBNzNGaUxMZ2FHcjJ4OUFqSzN5c3d3Y1dBWXFNbHZ3N1RtNG5zRFE0di1GZWV6bTVsRmZ2TG5mNFRRengtR18xOVh2YlJ1LThVWWlHVEc2Z1h4ZlUxT2I?oc=5)
+**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGZMSndvRHFuSzN1ZnJCbHNuYmlzalpvVTc3Y3JTU3lCYjc4X1I1VHdnVmQzUUV4M2JwSEdvMGF3TnFFTVp1NHFaTkJ3a01XY1lSWTNkaVRhZHBDajZkN1VZOGEyN3lsT3JiV1BibE9wSG5taEZPUjVLR0djeTJGcGtORWYtd1FZaUZMQ215RkhLekVDUkJ1U3BEQ3BmTWc5TF9ubUZoNXNWRGFa?oc=5)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.

@@ -1,28 +1,30 @@
-Morning Brief · Dinero y economía personal · 28 SEPTIEMBRE 2026
+Morning Brief · Dinero y economía personal · 29 SEPTIEMBRE 2026
 
-1. China, US agree to tariff cuts on $60 billion of goods including agriculture, household items
-   The two countries unveiled separate lists covering thousands of products as they seek to ease trade tensions and stabilize relations ahead of further negotiations.
-   [Confirmado] Fuentes: Reuters, Financial Times, The New York Times
+1. Los migrantes que están siendo enviados de regreso a una zona de guerra
+   Malasia dice que está repatriando a migrantes indocumentados de Myanmar que desean regresar. Los críticos dicen que está poniendo sus vidas en riesgo.
+   [Probable] Fuentes: The New York Times, The Guardian, The Washington Post
+   https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html
+
+2. EE. UU. y China publican listas de productos no sensibles por valor de 60.000 millones de dólares para reducir aranceles tras la reunión Trump-Xi
+   Los dos países revelaron listas separadas que cubren miles de productos mientras buscaban aliviar las tensiones comerciales y estabilizar las relaciones antes de futuras negociaciones.
+   [Probable] Fuentes: Associated Press, The New York Times, Bloomberg
    https://www.nytimes.com/2026/09/28/business/china-us-summit-tariffs.html
 
-2. 8 infantes de marina heridos en un ataque iraní previamente no reportado en Ormuz
-   Tres funcionarios estadounidenses le dijeron a NBC News que ocho infantes de marina estadounidenses resultaron heridos hace dos semanas en un ataque iraní previamente no reportado en el que un misil de crucero impactó su embarcación en el…
-   [En desarrollo] Fuentes: NBC News, CNBC, Al Jazeera
-   https://www.today.com/video/8-marines-injured-in-previously-unreported-iranian-attack-on-hormuz-270643269962
+3. España anuncia nuevas medidas de vivienda tras las protestas por el desahucio de una mujer de 87 años
+   Las medidas incluyen una propuesta de prohibición de desahucios hasta 2030 y la renovación automática de los contratos de alquiler.
+   [Confirmado] Fuentes: BBC News, The New York Times, The Guardian
+   https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss
 
-3. Stocks fall; bond market flips to 'higher for longer' mode
-   Treasury yields edged higher on Monday as investors look ahead to fresh economic data releases this week.
-   [Probable] Fuentes: Reuters, Bloomberg, CNBC
-   https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html
+4. Australia's central bank raises cash rate to 15-year peak
+   [Probable] Fuentes: Reuters, Financial Times, Bloomberg
 
-4. Gold hits seven-week low as oil surge fuels rate hike bets
+5. Fed's Cook sees further inflationary pressures ahead
+   Federal Reserve board of governors member Lisa Cook said Monday that rising demand for artificial intelligence is leading to “broadening” inflationary impacts, with implications for the entire economy. During a keynote speech at the…
+   [En desarrollo] Fuentes: Reuters, The Hill
+   https://thehill.com/business/6115963-cook-warns-ai-price-pressures/
+
+6. China presenta recortes de tipos y subsidios hipotecarios para estimular el crecimiento
    [En desarrollo] Fuentes: Reuters, Bloomberg
-
-5. Las acciones europeas suben mientras el repunte de las constructoras británicas compensa las presiones del petróleo y los bonos
-   [En desarrollo] Fuentes: Reuters, Bloomberg
-
-6. TotalEnergies aumenta las recompras y los dividendos a medida que los precios del petróleo se disparan
-   [En desarrollo] Fuentes: Financial Times, Bloomberg
 
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
 Edición completa: https://valentincatena0-droid.github.io/morning-brief-ai/#/niche/finanzas
