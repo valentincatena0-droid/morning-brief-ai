@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 29 SEPTIEMBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 30 SEPTIEMBRE 2026
 
-## Congo’s Ebola outbreak tops 8,000 confirmed cases as disease remains out of control
-Aid teams trying to keep deadly Ebola disease from spreading in the Democratic Republic of the Congo (DRC) are increasingly concerned about ongoing fighting and violence that has forced thousands of people to flee a displacement camp in…
+## El gobierno de Tailandia aprueba fondos de emergencia tras las inundaciones mortales que afectaron a millones
+Malasia dice que está repatriando a migrantes indocumentados de Myanmar que desean regresar. Los críticos dicen que está poniendo sus vidas en riesgo.
 
-**Confirmado** · Fuentes: UN News, Associated Press, The Guardian · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/09/1168465)
-
-## El Papa Leo concluye su viaje a Francia instando a Europa a frenar el 'deseo de dominación' que impulsa las guerras actuales
-Los combates entre la milicia hutí respaldada por Irán y las fuerzas gubernamentales apoyadas por Arabia Saudita han exacerbado una de las peores crisis humanitarias del mundo, dijo la Organización Mundial de la Salud.
-
-**Confirmado** · Fuentes: Associated Press, The New York Times, The Washington Post · [Leer la fuente](https://www.nytimes.com/2026/09/28/world/middleeast/yemen-war-800-dead.html)
-
-## La Academia de Ciencias de Kyiv atacada, 10 muertos tras ataques de drones a reacción rusos en toda Ucrania
-Paul Adams de la BBC informa desde el lugar del ataque a la Academia Nacional de Ciencias de Ucrania.
-
-**Confirmado** · Fuentes: Reuters, BBC News, Financial Times · [Leer la fuente](https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss)
-
-## El viento azota la costa del Pacífico norte de México y algunas calles se inundan mientras el huracán Polo se acerca
-La tormenta tocó tierra en la península de Baja California, que es un destino turístico popular.
-
-**Probable** · Fuentes: Associated Press, BBC News, The Guardian · [Leer la fuente](https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss)
-
-## La tormenta tropical Hanna se forma en el océano Atlántico y no amenaza tierra
-000 ABNT20 KNHC 291123 TWOAT Tropical Weather Outlook NWS National Hurricane Center Miami FL 800 AM EDT Tue Sep 29 2026 For the North Atlantic...Caribbean Sea and the Gulf of America: Active Systems: The National Hurricane Center is…
-
-**Confirmado** · Fuentes: NOAA National Hurricane Center, Associated Press · [Leer la fuente](https://www.nhc.noaa.gov/gtwo.php?basin=atlc)
+**Confirmado** · Fuentes: UN News, Associated Press, The New York Times · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/09/1168488)
 
 ## Toyworld168 retira del mercado los juguetes Rainbow Mystery Squishy Bun debido al riesgo de lesiones graves o muerte por ingestión de perlas de agua; violan la norma obligatoria para juguetes
 Los juguetes squishy bun violan la norma de seguridad obligatoria para juguetes porque las perlas de agua dentro de las bolitas se expanden más de lo permitido, lo que representa un peligro de ingestión mortal. Si se ingiere una perla de…
 
 **Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Toyworld168-Recalls-Rainbow-Mystery-Squishy-Bun-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys)
+
+## Sauna360 amplía el retiro del mercado de los saunas híbridos Tylö Halmstad y Kiruna debido a riesgo de caída; se ofrece un nuevo remedio
+Los saunas contienen un banco que puede colapsar, lo que representa un riesgo de caída para los consumidores. La reparación del retiro anterior fue ineficaz; ahora se ofrece una nueva reparación.
+
+**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Sauna360-Expands-Recall-of-Tylo-Halmstad-and-Kiruna-Hybrid-Saunas-Due-to-Fall-Hazard-New-Remedy-Provided)
+
+## Discusión sobre el pronóstico de la tormenta tropical Hanna número 8
+Emitido a las 900 AM GMT mié 30 sep 2026 000 WTNT43 KNHC 300843 TCDAT3 Discusión sobre la tormenta tropical Hanna número 8 NWS National Hurricane Center Miami FL AL082026 900 AM GMT mié 30 sep 2026 La presentación satelital convencional…
+
+**Probable** · Fuentes: NOAA National Hurricane Center · [Leer la fuente](https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/300843.shtml)
+
+## El viento azota la costa del Pacífico norte de México y algunas calles se inundan mientras el huracán Polo se acerca
+La tormenta tocó tierra en la península de Baja California, que es un destino turístico popular.
+
+**Probable** · Fuentes: Associated Press, BBC News, CBS News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss)
+
+## Hayward Industries retira del mercado calentadores de piscina universales debido al riesgo de lesiones graves o muerte por peligro de intoxicación por monóxido de carbono
+Durante su funcionamiento, los calentadores pueden producir altos niveles de monóxido de carbono (CO), lo que supone un riesgo de lesiones graves o muerte por intoxicación por monóxido de carbono.
+
+**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Hayward-Industries-Recalls-Universal-Pool-Heaters-Due-to-Risk-of-Serious-Injury-or-Death-from-Carbon-Monoxide-Poisoning-Hazard)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.

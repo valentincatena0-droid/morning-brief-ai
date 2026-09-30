@@ -1,30 +1,32 @@
-Morning Brief · Dinero y economía personal · 29 SEPTIEMBRE 2026
+Morning Brief · Dinero y economía personal · 30 SEPTIEMBRE 2026
 
-1. Los migrantes que están siendo enviados de regreso a una zona de guerra
-   Malasia dice que está repatriando a migrantes indocumentados de Myanmar que desean regresar. Los críticos dicen que está poniendo sus vidas en riesgo.
-   [Probable] Fuentes: The New York Times, The Guardian, The Washington Post
-   https://www.nytimes.com/2026/09/29/world/asia/malaysia-repatriation-myanmar-migrants-asylum.html
+1. Fed's Barr says more rate hikes likely to be needed to curb inflation
+   Data is expected to show ongoing price pressures and consumers who nevertheless continue to spend.
+   [Probable] Fuentes: Reuters, Bloomberg, CNBC
+   https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html
 
-2. EE. UU. y China publican listas de productos no sensibles por valor de 60.000 millones de dólares para reducir aranceles tras la reunión Trump-Xi
-   Los dos países revelaron listas separadas que cubren miles de productos mientras buscaban aliviar las tensiones comerciales y estabilizar las relaciones antes de futuras negociaciones.
-   [Probable] Fuentes: Associated Press, The New York Times, Bloomberg
-   https://www.nytimes.com/2026/09/28/business/china-us-summit-tariffs.html
-
-3. España anuncia nuevas medidas de vivienda tras las protestas por el desahucio de una mujer de 87 años
-   Las medidas incluyen una propuesta de prohibición de desahucios hasta 2030 y la renovación automática de los contratos de alquiler.
-   [Confirmado] Fuentes: BBC News, The New York Times, The Guardian
-   https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss
-
-4. Australia's central bank raises cash rate to 15-year peak
+2. China presenta recortes de tipos y subsidios hipotecarios para estimular el crecimiento
    [Probable] Fuentes: Reuters, Financial Times, Bloomberg
 
-5. Fed's Cook sees further inflationary pressures ahead
-   Federal Reserve board of governors member Lisa Cook said Monday that rising demand for artificial intelligence is leading to “broadening” inflationary impacts, with implications for the entire economy. During a keynote speech at the…
-   [En desarrollo] Fuentes: Reuters, The Hill
-   https://thehill.com/business/6115963-cook-warns-ai-price-pressures/
+3. Fed's Williams sees no urgency for next rate hike
+   Jim Chalmers says ‘higher global oil prices flowing through to oil prices in Australia’ are to blame for inflation rising from 3.5% Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily…
+   [Probable] Fuentes: Reuters, Bloomberg, The Guardian
+   https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas
 
-6. China presenta recortes de tipos y subsidios hipotecarios para estimular el crecimiento
-   [En desarrollo] Fuentes: Reuters, Bloomberg
+4. Americans' view of the economy sinks to the lowest level since 2014, Conference Board survey says
+   Analyst Geoff Meacham downgraded the biotech name to sell.
+   [Probable] Fuentes: Associated Press, Bloomberg, CNBC
+   https://www.cnbc.com/2026/09/30/moderna-has-been-on-a-tear-since-mid-august-citi-now-sees-it-plunging-60percent.html
+
+5. La SEC acusa a múltiples entidades en esquemas de fraude que suman al menos $15 millones y que utilizaron WhatsApp y otras plataformas para atraer inversores
+   La Securities and Exchange Commission acusó hoy a múltiples entidades que probablemente son operadas por individuos ubicados en el extranjero por defraudar a cientos de inversores minoristas, incluidos muchos en los EE. UU., a través de…
+   [Probable] Fuentes: U.S. SEC
+   https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms
+
+6. Las acciones caen en Wall Street a medida que el aumento de los rendimientos del Tesoro presiona al mercado
+   Aquí hay cinco cosas clave que los inversores necesitan saber para comenzar la jornada bursátil.
+   [Probable] Fuentes: Associated Press, Bloomberg, CNBC
+   https://www.cnbc.com/2026/09/29/5-things-to-know-before-the-stock-market-opens.html
 
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
 Edición completa: https://valentincatena0-droid.github.io/morning-brief-ai/#/niche/finanzas
