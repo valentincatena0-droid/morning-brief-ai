@@ -1,33 +1,34 @@
-Morning Brief · Dinero y economía personal · 2 OCTUBRE 2026
+Morning Brief · Dinero y economía personal · 3 OCTUBRE 2026
 
-1. Mínimos históricos de despidos apuntalan el mercado laboral de EE. UU.; aumentan las presiones sobre los precios a puerta de fábrica
-   El informe final de empleo antes de las elecciones de mitad de mandato también muestra que la tasa de desempleo de EE. UU. aumentó ligeramente al 4.2%. Los empleadores estadounidenses añadieron solo 29,000 empleos en septiembre, una…
-   [Confirmado] Fuentes: Reuters, The Guardian, The Washington Post
-   https://www.theguardian.com/business/2026/oct/02/september-jobs-report
+1. Las naciones del G7 liberarán 100 millones de barriles de petróleo y combustible diésel tras el aumento de los precios
+   La liberación coordinada tiene como objetivo evitar mayores picos de precios y evitar una prohibición de las exportaciones de diésel de EE. UU.
+   [Confirmado] Fuentes: Associated Press, Reuters, BBC News
+   https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss
 
-2. Decisiones tomadas por el Consejo de Gobierno del BCE (además de las decisiones sobre los tipos de interés)
-   [Probable] Fuentes: European Central Bank
-   https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html
+2. La contratación en EE. UU. se desacelera y el desempleo aumenta ligeramente a un mes de que los estadounidenses acudan a las urnas
+   Los empleadores de EE. UU. añadieron 29,000 empleos en septiembre, mientras que la tasa de desempleo subió ligeramente al 4.2%. Las ganancias de empleo de julio y agosto fueron revisadas a la baja por un total de 60,000 empleos,…
+   [Confirmado] Fuentes: Associated Press, Reuters, NPR
+   https://www.npr.org/2026/10/02/nx-s1-5989140/jobs-labor-wages-federal-reserve
 
-3. La inflación de la eurozona alcanza un máximo de tres años del 3,8%
-   La inflación anual de la eurozona alcanzó el 3,8% el mes pasado, su nivel más alto desde septiembre de 2023.
-   [Probable] Fuentes: Financial Times, Bloomberg, CNBC
-   https://www.cnbc.com/2026/10/02/eurozone-inflation-ecb.html
+3. Trump dice que no 'se precipitó' en el anuncio de inversión de GNL de Corea del Sur en Alaska
+   Este blog en vivo está ahora cerrado. Regístrese para recibir el correo electrónico de Breaking News US. Envíenos sus preguntas sobre cómo la guerra de Irán afectará a los votantes estadounidenses en las elecciones de mitad de período. Y…
+   [Probable] Fuentes: Reuters, Bloomberg, The Guardian
+   https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates
 
-4. Rehn del BCE dice que el aumento de los rendimientos podría frenar el impacto inflacionario de la energía cara
-   China ha comenzado a limitar nuevamente las exportaciones de productos refinados a medida que sus propios inventarios de petróleo crudo y productos refinados han disminuido.
-   [Probable] Fuentes: Reuters, The New York Times
-   https://www.nytimes.com/2026/10/02/business/china-exports-diesel-energy.html
+4. La Fed podría saltarse octubre pero activar la subida de tipos en diciembre
+   Las probabilidades de un cambio en los tipos de interés en la reunión de la Reserva Federal a finales de octubre han disminuido tras un informe de empleo más débil y las claras señales de los funcionarios del banco.
+   [Probable] Fuentes: Reuters, The New York Times, Bloomberg
+   https://www.nytimes.com/2026/10/02/business/economy/jobs-report-fed-interest-rates.html
 
-5. Nike recortará empleos al pronosticar una disminución de ingresos para el próximo año
-   El presidente Trump celebrará un mitin de mitad de mandato en Mobile, Ala., el viernes por la noche después de realizar apariciones similares en Oklahoma y Texas justo el día anterior. Es la última parada en la gira de campaña de varios…
-   [En desarrollo] Fuentes: Financial Times, The Hill
-   https://thehill.com/homenews/administration/6124876-live-updates-trump-alabama-rally-jobs-report-cornell-case/
+5. Un documento de la Casa Blanca afirma que el presidente tiene autoridad para prohibir medios de comunicación
+   La administración Trump defendió nuevamente la decisión de prohibir a CNN, MS NOW y Politico el acceso a la Casa Blanca y de excluir a periodistas del grupo que cubre al presidente en espacios reducidos.
+   [Probable] Fuentes: The New York Times, The Guardian, ABC News
+   https://www.nytimes.com/2026/10/02/business/trump-white-house-ban-cnn-politico-ms-now.html
 
-6. Las acciones suben mientras prevalece la calma antes de las nóminas: Resumen de los mercados
-   Las acciones de software se recuperaron de su venta masiva impulsada por la IA, mientras que las acciones de chips se enfriaron tras una enorme racha en el primer semestre.
-   [En desarrollo] Fuentes: Bloomberg, CNBC
-   https://www.cnbc.com/2026/10/01/jim-cramer-software-stocks-q3.html
+6. Manifestantes en toda España exigen medidas ante la crisis de la vivienda
+   Gobiernos, entidades de la ONU, la sociedad civil, los medios de comunicación, el mundo académico y el sector privado han pedido una mayor cooperación y medidas prácticas para responder a un panorama informativo mundial que cambia…
+   [Confirmado] Fuentes: UN News, BBC News
+   https://news.un.org/feed/view/en/story/2026/10/1168512
 
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
 Edición completa: https://valentincatena0-droid.github.io/morning-brief-ai/#/niche/finanzas
