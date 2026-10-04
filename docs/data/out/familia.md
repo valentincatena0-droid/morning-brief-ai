@@ -1,25 +1,15 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 3 OCTUBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 4 OCTUBRE 2026
 
-## Un centro de tratamiento de ébola fue incendiado mientras el número de muertos en el Congo supera los 4,000
-El brote de ébola en el Congo ha registrado ya más de 4,000 muertes, dijeron las autoridades, en lo que se ha convertido en el brote de ébola de más rápido crecimiento en la historia.
+## La Guardia Costera de EE. UU. encuentra restos de una aeronave médica desaparecida frente a Nantucket
+La aeronave perdió comunicación con los controladores de vuelo después de descender significativamente en altitud, según los datos de vuelo.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, CBS News · [Leer la fuente](https://www.cbsnews.com/news/ebola-deaths-congo-4000-fastest-growing-outbreak-history/)
+**Confirmado** · Fuentes: Reuters, BBC News, NPR · [Leer la fuente](https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss)
 
-## Mientras EE. UU. debate los riesgos de la IA, China exige formación universal para los estudiantes
-Durante su funcionamiento, los calentadores pueden producir altos niveles de monóxido de carbono (CO), lo que supone un riesgo de lesiones graves o muerte por intoxicación por monóxido de carbono.
+## La Corte Suprema escuchará un importante caso de cambio climático relacionado con un devastador incendio forestal en Colorado
+Los jueces están a punto de escuchar una demanda que podría determinar si la industria petrolera enfrenta miles de millones de dólares en responsabilidad por los daños causados por el calentamiento global.
 
-**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, The Washington Post · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Hayward-Industries-Recalls-Universal-Pool-Heaters-Due-to-Risk-of-Serious-Injury-or-Death-from-Carbon-Monoxide-Poisoning-Hazard)
-
-## Copiloto de Flydubai atacó al piloto con un hacha en un intento de 'ataque terrorista', dice EAU
-El hombre acusado de intentar tomar el control del avión con destino a Israel es identificado como Hamam al-Hammami por varios medios de comunicación.
-
-**Confirmado** · Fuentes: Reuters, BBC News, Financial Times · [Leer la fuente](https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss)
-
-## Cyclospora encontrada en granja mexicana vinculada al brote de lechuga, dice la FDA
-El descubrimiento añade pruebas sólidas de que el brote que enfermó a miles durante el verano se originó en el campo de un productor o en una instalación de procesamiento.
-
-**Confirmado** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html)
+**Probable** · Fuentes: Associated Press, The New York Times, The Washington Post · [Leer la fuente](https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html)
 
 ## Agrish vuelve a anunciar y amplía el retiro del mercado de barandillas de cama portátiles para adultos debido al riesgo de lesiones graves o muerte por atrapamiento y asfixia; violan la norma obligatoria para barandillas de cama portátiles para adultos; se añaden unidades adicionales
 Las barandillas de cama retiradas violan la norma obligatoria para barandillas de cama portátiles para adultos porque, cuando las barandillas están fijadas a una cama, los usuarios pueden quedar atrapados dentro de la barandilla o entre…
@@ -30,6 +20,16 @@ Las barandillas de cama retiradas violan la norma obligatoria para barandillas d
 Los saunas contienen un banco que puede colapsar, lo que representa un riesgo de caída para los consumidores. La reparación del retiro anterior fue ineficaz; ahora se ofrece una nueva reparación.
 
 **Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Sauna360-Expands-Recall-of-Tylo-Halmstad-and-Kiruna-Hybrid-Saunas-Due-to-Fall-Hazard-New-Remedy-Provided)
+
+## Lo que sabemos del video del ataque 'terrorista' a flydubai
+El violento asalto en pleno vuelo a un avión de FlyDubai con destino a Tel Aviv ha profundizado las preocupaciones sobre la seguridad de los israelíes que viajan al extranjero.
+
+**Confirmado** · Fuentes: Reuters, The New York Times, Bloomberg · [Leer la fuente](https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html)
+
+## Hayward Industries retira del mercado calentadores de piscina universales debido al riesgo de lesiones graves o muerte por peligro de intoxicación por monóxido de carbono
+Durante su funcionamiento, los calentadores pueden producir altos niveles de monóxido de carbono (CO), lo que supone un riesgo de lesiones graves o muerte por intoxicación por monóxido de carbono.
+
+**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Hayward-Industries-Recalls-Universal-Pool-Heaters-Due-to-Risk-of-Serious-Injury-or-Death-from-Carbon-Monoxide-Poisoning-Hazard)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.

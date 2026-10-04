@@ -1,35 +1,30 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 3 OCTUBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 4 OCTUBRE 2026
 
-## Las naciones del G7 liberarán 100 millones de barriles de petróleo y combustible diésel tras el aumento de los precios
-La liberación coordinada tiene como objetivo evitar mayores picos de precios y evitar una prohibición de las exportaciones de diésel de EE. UU.
+## Decenas de miles protestan en toda España por la crisis de la vivienda
+Guy Hedgecoe de la BBC está en Madrid, donde se han programado una serie de marchas, después de que el Congreso de España rechazara las medidas destinadas a abordar la crisis de la vivienda en el país.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss)
+**Probable** · Fuentes: Reuters, BBC News, CNBC · [Leer la fuente](https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss)
 
-## La contratación en EE. UU. se desacelera y el desempleo aumenta ligeramente a un mes de que los estadounidenses acudan a las urnas
-Los empleadores de EE. UU. añadieron 29,000 empleos en septiembre, mientras que la tasa de desempleo subió ligeramente al 4.2%. Las ganancias de empleo de julio y agosto fueron revisadas a la baja por un total de 60,000 empleos,…
+## Trump publica el número de teléfono celular del senador de Arkansas Tom Cotton en una disputa sobre el horario de verano
+El presidente instó a la gente a llamar al senador Tom Cotton de Arkansas y lo acusó de bloquear un proyecto de ley para consolidar el horario de verano.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, NPR · [Leer la fuente](https://www.npr.org/2026/10/02/nx-s1-5989140/jobs-labor-wages-federal-reserve)
+**Confirmado** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/03/us/trump-tom-cotton-cellphone-number.html)
 
-## Trump dice que no 'se precipitó' en el anuncio de inversión de GNL de Corea del Sur en Alaska
-Este blog en vivo está ahora cerrado. Regístrese para recibir el correo electrónico de Breaking News US. Envíenos sus preguntas sobre cómo la guerra de Irán afectará a los votantes estadounidenses en las elecciones de mitad de período. Y…
+## Trump anuncia pagos de $90 para personas mayores en Medicare antes de las elecciones de mitad de período para los costos de las primas
+El presidente dice que los pagos, que se enviarán a principios de octubre, están destinados a compensar el costo de las primas mensuales de seguro. Donald Trump ha dicho que el gobierno de EE. UU. enviará un pago único de $90 a más de 20…
 
-**Probable** · Fuentes: Reuters, Bloomberg, The Guardian · [Leer la fuente](https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates)
+**Confirmado** · Fuentes: Associated Press, The Guardian, NBC News · [Leer la fuente](https://www.theguardian.com/us-news/2026/oct/03/trump-payment-seniors-medicare)
 
-## La Fed podría saltarse octubre pero activar la subida de tipos en diciembre
-Las probabilidades de un cambio en los tipos de interés en la reunión de la Reserva Federal a finales de octubre han disminuido tras un informe de empleo más débil y las claras señales de los funcionarios del banco.
+## Semana en Wall Street: actas de la Fed, datos de desempleo, actualización del sentimiento del consumidor
 
-**Probable** · Fuentes: Reuters, The New York Times, Bloomberg · [Leer la fuente](https://www.nytimes.com/2026/10/02/business/economy/jobs-report-fed-interest-rates.html)
 
-## Un documento de la Casa Blanca afirma que el presidente tiene autoridad para prohibir medios de comunicación
-La administración Trump defendió nuevamente la decisión de prohibir a CNN, MS NOW y Politico el acceso a la Casa Blanca y de excluir a periodistas del grupo que cubre al presidente en espacios reducidos.
+**Probable** · Fuentes: Associated Press, Financial Times, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2kxY1pvX3dDdmpxWEZuVW1tajhZNHlWUlBfalJBVEY0cVFmNWdZOWQtWG5rX0JYSk9VTWlwSzFsWk43NmxaREw1QVdwU1Fmam1VUTJ4ZFpPZkxPZkstSVJTY2hLX1V1dmJ5UFg0RVNFUzdwamN1YzBUS1B4bThMOGhxUVZseVRfdm5wRkMwQVRBM2N4SG1SRUd2LW9hUlV5VnlzeVF3?oc=5)
 
-**Probable** · Fuentes: The New York Times, The Guardian, ABC News · [Leer la fuente](https://www.nytimes.com/2026/10/02/business/trump-white-house-ban-cnn-politico-ms-now.html)
+## America In Focus: La tasa de desempleo aumenta, la tasa hipotecaria alcanza un máximo de casi 3 años
+Los propietarios de viviendas están atrapados en casas que podrían haber dejado a estas alturas debido a las bajas tasas hipotecarias del pasado, y ni siquiera pueden remodelar con HELOCs demasiado costosos de aprovechar.
 
-## Manifestantes en toda España exigen medidas ante la crisis de la vivienda
-Gobiernos, entidades de la ONU, la sociedad civil, los medios de comunicación, el mundo académico y el sector privado han pedido una mayor cooperación y medidas prácticas para responder a un panorama informativo mundial que cambia…
-
-**Confirmado** · Fuentes: UN News, BBC News · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/10/1168512)
+**En desarrollo** · Fuentes: Associated Press, CNBC · [Leer la fuente](https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
