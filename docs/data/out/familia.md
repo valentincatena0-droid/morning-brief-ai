@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 4 OCTUBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 7 OCTUBRE 2026
 
-## La Guardia Costera de EE. UU. encuentra restos de una aeronave médica desaparecida frente a Nantucket
-La aeronave perdió comunicación con los controladores de vuelo después de descender significativamente en altitud, según los datos de vuelo.
+## Se forma la tormenta tropical Isaias, se pronostica que se convierta en huracán y toque la costa del Golfo de EE. UU. esta semana
+000 ABNT20 KNHC 071136 TWOAT Tropical Weather Outlook NWS National Hurricane Center Miami FL 800 AM EDT Wed Oct 7 2026 Para el Atlántico Norte...el Mar Caribe y el Golfo de América: Sistemas activos: El Centro Nacional de Huracanes está…
 
-**Confirmado** · Fuentes: Reuters, BBC News, NPR · [Leer la fuente](https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: NOAA National Hurricane Center, Associated Press, Reuters · [Leer la fuente](https://www.nhc.noaa.gov/gtwo.php?basin=atlc)
 
-## La Corte Suprema escuchará un importante caso de cambio climático relacionado con un devastador incendio forestal en Colorado
-Los jueces están a punto de escuchar una demanda que podría determinar si la industria petrolera enfrenta miles de millones de dólares en responsabilidad por los daños causados por el calentamiento global.
+## La OMS respalda cambios en el estilo de vida sobre los medicamentos GLP-1 en la lucha contra la obesidad infantil
+La obesidad infantil y adolescente se ha cuadruplicado desde 1990, pasando del dos por ciento a alrededor del ocho por ciento de los jóvenes en el grupo de edad de cinco a 19 años, según la Organización Mundial de la Salud (OMS) de la ONU.
 
-**Probable** · Fuentes: Associated Press, The New York Times, The Washington Post · [Leer la fuente](https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html)
+**Confirmado** · Fuentes: UN News, Reuters, BBC News · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/10/1168536)
 
-## Agrish vuelve a anunciar y amplía el retiro del mercado de barandillas de cama portátiles para adultos debido al riesgo de lesiones graves o muerte por atrapamiento y asfixia; violan la norma obligatoria para barandillas de cama portátiles para adultos; se añaden unidades adicionales
-Las barandillas de cama retiradas violan la norma obligatoria para barandillas de cama portátiles para adultos porque, cuando las barandillas están fijadas a una cama, los usuarios pueden quedar atrapados dentro de la barandilla o entre…
+## Kenia confirma su primer caso y muerte por ébola en un hombre que viajó desde el Congo
+Las autoridades dijeron que el virus había sido diagnosticado en un hombre que llegaba de la República Democrática del Congo y que estaban tomando medidas para prevenir cualquier propagación.
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Agrish-Reannounces-and-Expands-Recall-of-Adult-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Additional-Units-Added)
+**Confirmado** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html)
 
-## Sauna360 amplía el retiro del mercado de los saunas híbridos Tylö Halmstad y Kiruna debido a riesgo de caída; se ofrece un nuevo remedio
-Los saunas contienen un banco que puede colapsar, lo que representa un riesgo de caída para los consumidores. La reparación del retiro anterior fue ineficaz; ahora se ofrece una nueva reparación.
+## Christa Pike está consciente y hablando después de que la ejecución en Tennessee fallara, dicen sus abogados
+Sarah Smith de la BBC detalla las lesiones sufridas por la reclusa del corredor de la muerte de EE. UU. después de dos inyecciones letales fallidas, y qué sucederá a continuación.
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Sauna360-Expands-Recall-of-Tylo-Halmstad-and-Kiruna-Hybrid-Saunas-Due-to-Fall-Hazard-New-Remedy-Provided)
+**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss)
 
-## Lo que sabemos del video del ataque 'terrorista' a flydubai
-El violento asalto en pleno vuelo a un avión de FlyDubai con destino a Tel Aviv ha profundizado las preocupaciones sobre la seguridad de los israelíes que viajan al extranjero.
+## Funcionarios de I.A. evaden preguntas sobre los riesgos de la tecnología
+La patilla izquierda de las gafas inteligentes retiradas del mercado puede sobrecalentarse durante un uso prolongado, lo que supone un riesgo de lesiones graves o muerte debido al peligro de quemaduras.
 
-**Confirmado** · Fuentes: Reuters, The New York Times, Bloomberg · [Leer la fuente](https://www.nytimes.com/2026/10/03/world/middleeast/flydubai-ax-cockpit.html)
+**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, The New York Times · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/INMO-International-Technology-Limited-Recalls-INMO-Air3-Smart-Glasses-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard)
 
-## Hayward Industries retira del mercado calentadores de piscina universales debido al riesgo de lesiones graves o muerte por peligro de intoxicación por monóxido de carbono
-Durante su funcionamiento, los calentadores pueden producir altos niveles de monóxido de carbono (CO), lo que supone un riesgo de lesiones graves o muerte por intoxicación por monóxido de carbono.
+## Un terremoto de magnitud 5.5 sacude Aleneva, Alaska, dice el USGS
+El USGS registró un terremoto de magnitud 5.5, a 92 km al NNO de Aleneva, Alaska.
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Hayward-Industries-Recalls-Universal-Pool-Heaters-Due-to-Risk-of-Serious-Injury-or-Death-from-Carbon-Monoxide-Poisoning-Hazard)
+**Confirmado** · Fuentes: USGS (earthquakes), Reuters · [Leer la fuente](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tuxgky)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.

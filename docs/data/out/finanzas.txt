@@ -1,27 +1,34 @@
-Morning Brief · Dinero y economía personal · 4 OCTUBRE 2026
+Morning Brief · Dinero y economía personal · 7 OCTUBRE 2026
 
-1. Decenas de miles protestan en toda España por la crisis de la vivienda
-   Guy Hedgecoe de la BBC está en Madrid, donde se han programado una serie de marchas, después de que el Congreso de España rechazara las medidas destinadas a abordar la crisis de la vivienda en el país.
-   [Probable] Fuentes: Reuters, BBC News, CNBC
-   https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss
+1. Por qué la esposa distanciada de Ken Paxton está defendiendo su campaña al Senado
+   La Comisión de Bolsa y Valores (SEC) solicitó hoy la entrada de una sentencia final por consentimiento contra Stephen Kenneth Leech II, ex codirector de inversiones del asesor de inversiones registrado Western Asset Management Company…
+   [Confirmado] Fuentes: U.S. SEC, The New York Times, The Guardian
+   https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case
 
-2. Trump publica el número de teléfono celular del senador de Arkansas Tom Cotton en una disputa sobre el horario de verano
-   El presidente instó a la gente a llamar al senador Tom Cotton de Arkansas y lo acusó de bloquear un proyecto de ley para consolidar el horario de verano.
-   [Confirmado] Fuentes: Associated Press, Reuters, The New York Times
-   https://www.nytimes.com/2026/10/03/us/trump-tom-cotton-cellphone-number.html
+2. La balanza comercial de EE. UU. se hunde más en números rojos mientras las importaciones alcanzan un récord a pesar de los aranceles
+   Las importaciones y el déficit comercial se han disparado en los últimos meses, desafiando los esfuerzos de la administración Trump para reducirlos mediante aranceles.
+   [Probable] Fuentes: Reuters, The New York Times, CBS News
+   https://www.nytimes.com/2026/10/06/business/economy/us-trade-deficit.html
 
-3. Trump anuncia pagos de $90 para personas mayores en Medicare antes de las elecciones de mitad de período para los costos de las primas
-   El presidente dice que los pagos, que se enviarán a principios de octubre, están destinados a compensar el costo de las primas mensuales de seguro. Donald Trump ha dicho que el gobierno de EE. UU. enviará un pago único de $90 a más de 20…
-   [Confirmado] Fuentes: Associated Press, The Guardian, NBC News
-   https://www.theguardian.com/us-news/2026/oct/03/trump-payment-seniors-medicare
+3. Francia no necesita la ayuda del BCE en este momento, dice el jefe del Banco de Francia
+   HSBC y Goldman Sachs esperan que el RBI también aumente las tasas de interés en diciembre.
+   [Probable] Fuentes: Reuters, Financial Times, Bloomberg
+   https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html
 
-4. Semana en Wall Street: actas de la Fed, datos de desempleo, actualización del sentimiento del consumidor
-   [Probable] Fuentes: Associated Press, Financial Times, Bloomberg
+4. Yorkshire Water admite que el plan de aguas residuales no cumple las expectativas
+   La empresa afirma que el plan para reducir los vertidos por desbordamiento de tormentas no ha funcionado como se esperaba.
+   [Probable] Fuentes: BBC News, The Guardian
+   https://www.bbc.co.uk/news/articles/cqvg070l39yro?at_medium=RSS&at_campaign=rss
 
-5. America In Focus: La tasa de desempleo aumenta, la tasa hipotecaria alcanza un máximo de casi 3 años
-   Los propietarios de viviendas están atrapados en casas que podrían haber dejado a estas alturas debido a las bajas tasas hipotecarias del pasado, y ni siquiera pueden remodelar con HELOCs demasiado costosos de aprovechar.
-   [En desarrollo] Fuentes: Associated Press, CNBC
-   https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html
+5. El CIO de Temasek dice que la IA y la inflación representan los mayores riesgos de mercado en 2027
+   La reversión del comercio de inteligencia artificial representa el mayor riesgo para los mercados, según el gigante de inversión estatal de Singapur, Temasek.
+   [En desarrollo] Fuentes: Bloomberg, CNBC
+   https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html
+
+6. How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder
+   The Can-Am Spyder has a devoted fan base across the United States. Now it’s a casualty in the trade war with Canada.
+   [En desarrollo] Fuentes: The New York Times, Bloomberg
+   https://www.nytimes.com/2026/10/06/business/canada-tariffs-can-am-spyder.html
 
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
 Edición completa: https://valentincatena0-droid.github.io/morning-brief-ai/#/niche/finanzas

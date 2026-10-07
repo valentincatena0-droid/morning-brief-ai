@@ -1,30 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 4 OCTUBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 7 OCTUBRE 2026
 
-## Decenas de miles protestan en toda España por la crisis de la vivienda
-Guy Hedgecoe de la BBC está en Madrid, donde se han programado una serie de marchas, después de que el Congreso de España rechazara las medidas destinadas a abordar la crisis de la vivienda en el país.
+## Por qué la esposa distanciada de Ken Paxton está defendiendo su campaña al Senado
+La Comisión de Bolsa y Valores (SEC) solicitó hoy la entrada de una sentencia final por consentimiento contra Stephen Kenneth Leech II, ex codirector de inversiones del asesor de inversiones registrado Western Asset Management Company…
 
-**Probable** · Fuentes: Reuters, BBC News, CNBC · [Leer la fuente](https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: U.S. SEC, The New York Times, The Guardian · [Leer la fuente](https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case)
 
-## Trump publica el número de teléfono celular del senador de Arkansas Tom Cotton en una disputa sobre el horario de verano
-El presidente instó a la gente a llamar al senador Tom Cotton de Arkansas y lo acusó de bloquear un proyecto de ley para consolidar el horario de verano.
+## La balanza comercial de EE. UU. se hunde más en números rojos mientras las importaciones alcanzan un récord a pesar de los aranceles
+Las importaciones y el déficit comercial se han disparado en los últimos meses, desafiando los esfuerzos de la administración Trump para reducirlos mediante aranceles.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/03/us/trump-tom-cotton-cellphone-number.html)
+**Probable** · Fuentes: Reuters, The New York Times, CBS News · [Leer la fuente](https://www.nytimes.com/2026/10/06/business/economy/us-trade-deficit.html)
 
-## Trump anuncia pagos de $90 para personas mayores en Medicare antes de las elecciones de mitad de período para los costos de las primas
-El presidente dice que los pagos, que se enviarán a principios de octubre, están destinados a compensar el costo de las primas mensuales de seguro. Donald Trump ha dicho que el gobierno de EE. UU. enviará un pago único de $90 a más de 20…
+## Francia no necesita la ayuda del BCE en este momento, dice el jefe del Banco de Francia
+HSBC y Goldman Sachs esperan que el RBI también aumente las tasas de interés en diciembre.
 
-**Confirmado** · Fuentes: Associated Press, The Guardian, NBC News · [Leer la fuente](https://www.theguardian.com/us-news/2026/oct/03/trump-payment-seniors-medicare)
+**Probable** · Fuentes: Reuters, Financial Times, Bloomberg · [Leer la fuente](https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html)
 
-## Semana en Wall Street: actas de la Fed, datos de desempleo, actualización del sentimiento del consumidor
+## Yorkshire Water admite que el plan de aguas residuales no cumple las expectativas
+La empresa afirma que el plan para reducir los vertidos por desbordamiento de tormentas no ha funcionado como se esperaba.
 
+**Probable** · Fuentes: BBC News, The Guardian · [Leer la fuente](https://www.bbc.co.uk/news/articles/cqvg070l39yro?at_medium=RSS&at_campaign=rss)
 
-**Probable** · Fuentes: Associated Press, Financial Times, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2kxY1pvX3dDdmpxWEZuVW1tajhZNHlWUlBfalJBVEY0cVFmNWdZOWQtWG5rX0JYSk9VTWlwSzFsWk43NmxaREw1QVdwU1Fmam1VUTJ4ZFpPZkxPZkstSVJTY2hLX1V1dmJ5UFg0RVNFUzdwamN1YzBUS1B4bThMOGhxUVZseVRfdm5wRkMwQVRBM2N4SG1SRUd2LW9hUlV5VnlzeVF3?oc=5)
+## El CIO de Temasek dice que la IA y la inflación representan los mayores riesgos de mercado en 2027
+La reversión del comercio de inteligencia artificial representa el mayor riesgo para los mercados, según el gigante de inversión estatal de Singapur, Temasek.
 
-## America In Focus: La tasa de desempleo aumenta, la tasa hipotecaria alcanza un máximo de casi 3 años
-Los propietarios de viviendas están atrapados en casas que podrían haber dejado a estas alturas debido a las bajas tasas hipotecarias del pasado, y ni siquiera pueden remodelar con HELOCs demasiado costosos de aprovechar.
+**En desarrollo** · Fuentes: Bloomberg, CNBC · [Leer la fuente](https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html)
 
-**En desarrollo** · Fuentes: Associated Press, CNBC · [Leer la fuente](https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html)
+## How Trump’s Tariff War With Canada Ensnared the Can-Am Spyder
+The Can-Am Spyder has a devoted fan base across the United States. Now it’s a casualty in the trade war with Canada.
+
+**En desarrollo** · Fuentes: The New York Times, Bloomberg · [Leer la fuente](https://www.nytimes.com/2026/10/06/business/canada-tariffs-can-am-spyder.html)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
