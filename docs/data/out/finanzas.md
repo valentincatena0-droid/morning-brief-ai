@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 8 OCTUBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 9 OCTUBRE 2026
 
-## Oil jumps as Middle East supply concerns persist amid shipping attacks
-Brent crude tops $105 a barrel amid attacks on tankers and squeeze on US oil output in Gulf of Mexico as storm Isaias approaches Here’s our wrap of the moves in markets: The sell-off in bond markets has put the euro under pressure,…
+## Trump establece un comité para investigar a Lisa Cook de la Reserva Federal en su último esfuerzo por despedirla
+El presidente Donald Trump estableció un comité para investigar a la gobernadora de la Fed, Lisa Cook, en su último intento por despedirla.
 
-**Confirmado** · Fuentes: Reuters, Bloomberg, The Guardian · [Leer la fuente](https://www.theguardian.com/business/live/2026/oct/08/oil-prices-rise-shipping-attacks-rate-rise-uk-housing-market-bank-england-latest-live-updates)
+**Confirmado** · Fuentes: Associated Press, The New York Times, Bloomberg · [Leer la fuente](https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html)
 
-## 5 traders jailed for rigging key interest rates have their convictions quashed
-Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal.
+## La administración Trump suspende a Microsoft de un programa de tarjetas de residencia, alegando fraude
+Un programa internacional de visas ha permitido durante años que las empresas tecnológicas estadounidenses contraten a trabajadores altamente cualificados del extranjero.
 
-**Probable** · Fuentes: Associated Press, BBC News, CNBC · [Leer la fuente](https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss)
 
-## Meloni de Italia impone una nueva ley electoral antes de la votación, la oposición protesta
-La primera ministra Giorgia Meloni dice que la medida brindará un gobierno más estable, pero los partidos de oposición dicen que su objetivo es mantenerse en el poder.
+## American Express multada con $350 millones por un programa insuficiente contra el lavado de dinero
 
-**Probable** · Fuentes: Reuters, BBC News, Financial Times · [Leer la fuente](https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss)
 
-## En la carrera al Senado de Maine, el aumento de los costos del combustible para calefacción pone a Susan Collins a la defensiva
-La mitad de los hogares en Maine dependen del combustible para calefacción. Los costos crecientes, impulsados por la guerra del presidente Trump con Irán, se han convertido en un tema central de la carrera al Senado del estado.
+**Confirmado** · Fuentes: Federal Reserve, Reuters, Financial Times · [Leer la fuente](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm)
 
-**Probable** · Fuentes: The New York Times, ABC News, The Hill · [Leer la fuente](https://www.nytimes.com/2026/10/08/us/maine-senate-collins-jackson-oil.html)
+## Los candidatos se enfrentan en debates; Kimberly Guilfoyle bajo escrutinio
+El donante de Trump y empresario Eric Deters habló con Weijia Jiang de CBS News sobre sus acusaciones que involucran a Kimberly Guilfoyle. Deters dice que ella pidió $100,000 para pagar su factura de American Express a cambio de su ayuda…
 
-## Las acciones estadounidenses se alejan aún más de su récord a medida que suben los precios del petróleo
-La Reserva Federal está preparada para subir aún más las tasas de interés mientras busca controlar la inflación, pero es poco probable que eso suceda hasta finales de año.
+**Probable** · Fuentes: NBC News, CBS News, ABC News · [Leer la fuente](https://www.today.com/video/candidates-face-off-in-debates-kimberly-guilfoyle-under-scrutiny-271320645719)
 
-**Probable** · Fuentes: Associated Press, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/08/business/federal-reserve-christopher-waller-rates.html)
+## La tasa hipotecaria promedio a largo plazo en EE. UU. alcanza su nivel más alto en casi 3 años tras la séptima subida semanal consecutiva
+La tasa hipotecaria fija promedio a 30 años subió al 7.4 por ciento, ejerciendo más presión sobre los estadounidenses que luchan por poder comprar una vivienda.
 
-## Mirando hacia atrás 3 años después del 7 de octubre de 2023: "Había un miedo constante"
-El miércoles se cumplen tres años desde que los terroristas de Hamás mataron a más de 1,200 israelíes, incluyendo docenas de estadounidenses, y tomaron a 250 personas como rehenes. Holly Williams informa desde Tel Aviv.
+**Confirmado** · Fuentes: Associated Press, Reuters, Financial Times · [Leer la fuente](https://www.nytimes.com/2026/10/08/business/mortgage-rates-housing-prices.html)
 
-**En desarrollo** · Fuentes: CBS News, CNN · [Leer la fuente](https://www.cbsnews.com/video/looking-back-3-years-oct-7-2023-constant-fear/)
+## La Junta de la Reserva Federal publica los resultados de la Encuesta de Finanzas del Consumidor de 2025, que proporciona al público y a los responsables políticos información detallada sobre la situación económica de las familias estadounidenses
+
+
+**Probable** · Fuentes: Federal Reserve · [Leer la fuente](https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
