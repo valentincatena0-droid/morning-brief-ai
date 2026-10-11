@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 10 OCTUBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 11 OCTUBRE 2026
 
-## Un terremoto de magnitud 7.7 sacude Panamá, provocando evacuaciones
-El USGS registró un terremoto de magnitud 6.6, 14 km al oeste de Río Grande, Panamá. Una alerta de tsunami estuvo asociada con este evento.
-
-**Confirmado** · Fuentes: USGS (earthquakes), Associated Press, Reuters · [Leer la fuente](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w)
-
-## El huracán Simon se fortalece a una tormenta de categoría 2, dice el Centro Nacional de Huracanes
-El Niño ha llevado a una temporada tranquila hasta ahora, pero el primer huracán del Atlántico del año está listo para tocar tierra más tarde el viernes hasta el sábado a lo largo de la costa del Golfo de EE. UU.
-
-**Probable** · Fuentes: Associated Press, BBC News, Bloomberg · [Leer la fuente](https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss)
-
-## Una persona muere, otra en estado grave tras un incidente en una refinería griega
-El panel de control dentro del motor de los aires acondicionados retirados del mercado puede fallar, lo que representa un riesgo de lesiones graves o muerte por peligro de incendio y quemaduras.
-
-**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, Reuters · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Friedrich-Air-Conditioning-Recalls-K%25C3%259CHL-Window-Air-Conditioners-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards)
-
-## Las preocupaciones sobre la privacidad ponen a las gafas inteligentes bajo escrutinio mientras Noruega busca una prohibición temporal
+## Necesito gafas inteligentes. ¿De qué otra forma puedo monetizar cada segundo de mi vida? | Dave Schilling
 La patilla izquierda de las gafas inteligentes retiradas del mercado puede sobrecalentarse durante un uso prolongado, lo que supone un riesgo de lesiones graves o muerte debido al peligro de quemaduras.
 
-**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, Associated Press · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/INMO-International-Technology-Limited-Recalls-INMO-Air3-Smart-Glasses-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard)
+**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, The Guardian, CNBC · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/INMO-International-Technology-Limited-Recalls-INMO-Air3-Smart-Glasses-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard)
 
-## Isaias toca tierra como huracán, azotando la Costa del Golfo de EE. UU. con vientos potentes e inundaciones peligrosas
-El primer huracán del Atlántico de la temporada 2026 toca tierra en EE. UU. Historia completa: El huracán Isaias azota la costa del Golfo. Regístrese para recibir el correo electrónico de noticias de última hora de EE. UU. El gobernador…
+## 5 encontrados muertos en un apartamento de Utah que tenía niveles altos de monóxido de carbono
+Durante su funcionamiento, los calentadores pueden producir niveles altos de monóxido de carbono (CO), lo que supone un riesgo de lesiones graves o muerte por intoxicación por monóxido de carbono.
 
-**Confirmado** · Fuentes: Associated Press, The Guardian, CBS News · [Leer la fuente](https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates)
+**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, The New York Times · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Hayward-Industries-Recalls-Universal-Pool-Heaters-Due-to-Risk-of-Serious-Injury-or-Death-from-Carbon-Monoxide-Poisoning-Hazard)
+
+## Pueblos evacuados tras una inundación repentina del río Budhi Gandaki en el norte de Nepal
+Una inundación repentina en el río Budhi Gandaki ha arrasado varios edificios y puentes, dos meses después de que inundaciones catastróficas azotaran el país.
+
+**Probable** · Fuentes: Associated Press, BBC News, ABC News · [Leer la fuente](https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss)
 
 ## Agrish vuelve a anunciar y amplía el retiro del mercado de barandillas portátiles para camas de adultos debido al riesgo de lesiones graves o muerte por atrapamiento y asfixia; violan la norma obligatoria para barandillas portátiles para camas de adultos; se añaden unidades adicionales
 Las barandillas de cama retiradas violan la norma obligatoria para barandillas portátiles para camas de adultos porque, cuando las barandillas están fijadas a una cama, los usuarios pueden quedar atrapados dentro de la barandilla o entre…
 
 **Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Agrish-Reannounces-and-Expands-Recall-of-Adult-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Additional-Units-Added)
+
+## Cuatro muertos y miles sin electricidad después de que el huracán Isaias azotara EE. UU.
+Los techos fueron arrancados de los edificios después de que Isaias irrumpiera en EE. UU. el viernes por la noche, antes de debilitarse a ciclón postropical.
+
+**Probable** · Fuentes: BBC News, The Guardian, CBS News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss)
+
+## Un tigre mata a un hombre que entró en el recinto de los grandes felinos en un parque de vida silvestre inglés
+El hombre se encontró cara a cara con un tigre de Amur dentro del hábitat del animal en el Yorkshire Wildlife Park en Inglaterra. El parque fue evacuado y cerrado al público.
+
+**Confirmado** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/10/world/europe/tiger-attack-wildlife-park-man-dead.html)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
