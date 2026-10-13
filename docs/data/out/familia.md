@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 11 OCTUBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 13 OCTUBRE 2026
 
-## Necesito gafas inteligentes. ¿De qué otra forma puedo monetizar cada segundo de mi vida? | Dave Schilling
-La patilla izquierda de las gafas inteligentes retiradas del mercado puede sobrecalentarse durante un uso prolongado, lo que supone un riesgo de lesiones graves o muerte debido al peligro de quemaduras.
+## A 6.1 earthquake jolts southern Panama after Friday’s destructive tremors
+USGS recorded a magnitude 6.8 earthquake, central Mid-Atlantic Ridge. A tsunami warning was associated with this event.
 
-**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, The Guardian, CNBC · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/INMO-International-Technology-Limited-Recalls-INMO-Air3-Smart-Glasses-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard)
+**Confirmado** · Fuentes: USGS (earthquakes), Associated Press, Reuters · [Leer la fuente](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214)
 
-## 5 encontrados muertos en un apartamento de Utah que tenía niveles altos de monóxido de carbono
-Durante su funcionamiento, los calentadores pueden producir niveles altos de monóxido de carbono (CO), lo que supone un riesgo de lesiones graves o muerte por intoxicación por monóxido de carbono.
+## 2 American economists win Nobel for work on managing economic shocks
+Prices can get sticky. That helps explain why recessions hurt so much — and what policymakers can do about them.
 
-**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, The New York Times · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Hayward-Industries-Recalls-Universal-Pool-Heaters-Due-to-Risk-of-Serious-Injury-or-Death-from-Carbon-Monoxide-Poisoning-Hazard)
+**Confirmado** · Fuentes: Associated Press, Financial Times, NPR · [Leer la fuente](https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics)
 
-## Pueblos evacuados tras una inundación repentina del río Budhi Gandaki en el norte de Nepal
-Una inundación repentina en el río Budhi Gandaki ha arrasado varios edificios y puentes, dos meses después de que inundaciones catastróficas azotaran el país.
+## La región de huracanes del Pacífico establece un récord de tormentas grandes y duraderas gracias a El Niño
+El Niño ha seguido fortaleciéndose, con varias medidas clave ahora en territorio récord. Simon King explora cómo se compara con eventos anteriores.
 
-**Probable** · Fuentes: Associated Press, BBC News, ABC News · [Leer la fuente](https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: Associated Press, BBC News, The Guardian · [Leer la fuente](https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss)
 
-## Agrish vuelve a anunciar y amplía el retiro del mercado de barandillas portátiles para camas de adultos debido al riesgo de lesiones graves o muerte por atrapamiento y asfixia; violan la norma obligatoria para barandillas portátiles para camas de adultos; se añaden unidades adicionales
-Las barandillas de cama retiradas violan la norma obligatoria para barandillas portátiles para camas de adultos porque, cuando las barandillas están fijadas a una cama, los usuarios pueden quedar atrapados dentro de la barandilla o entre…
+## Threat of AI share crash puts world financial stability at risk, says IMF
+The recalled bicycles’ front lock nut can loosen during use, causing the front wheel to dislodge or loosen over time, posing a crash hazard.
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Agrish-Reannounces-and-Expands-Recall-of-Adult-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Additional-Units-Added)
+**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, The Guardian · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Decathlon-America-Recalls-Van-Rysel-GRVL-AF-Bicycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard)
 
-## Cuatro muertos y miles sin electricidad después de que el huracán Isaias azotara EE. UU.
-Los techos fueron arrancados de los edificios después de que Isaias irrumpiera en EE. UU. el viernes por la noche, antes de debilitarse a ciclón postropical.
+## Pennsylvania coroner reports measles death, toll rises to six
+Latest fatality is unvaccinated woman, 39, with ‘underlying conditions’ but CDC still lists only two deaths nationwide A sixth death has been announced in Pennsylvania ’s measles outbreak, as new figures show cases in the state have risen…
 
-**Probable** · Fuentes: BBC News, The Guardian, CBS News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: Reuters, The Guardian, The Washington Post · [Leer la fuente](https://www.theguardian.com/us-news/2026/oct/13/pennsylvania-measles-sixth-death)
 
-## Un tigre mata a un hombre que entró en el recinto de los grandes felinos en un parque de vida silvestre inglés
-El hombre se encontró cara a cara con un tigre de Amur dentro del hábitat del animal en el Yorkshire Wildlife Park en Inglaterra. El parque fue evacuado y cerrado al público.
+## Storm Rachel batters Southern California, brings flooding to Las Vegas
+Large waves from the post-tropical cyclone battered homes in Long Beach, and brought flooding to parts of Las Vegas near the famed Strip.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/10/world/europe/tiger-attack-wildlife-park-man-dead.html)
+**Confirmado** · Fuentes: BBC News, The Guardian, The Washington Post · [Leer la fuente](https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
