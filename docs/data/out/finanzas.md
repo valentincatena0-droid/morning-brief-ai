@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 13 OCTUBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 14 OCTUBRE 2026
 
-## 2 American economists win Nobel for work on managing economic shocks
-Prices can get sticky. That helps explain why recessions hurt so much — and what policymakers can do about them.
+## EE. UU. impone una multa de 1.200 millones de dólares a Bank of America, alegando que violó leyes contra el lavado de dinero y sanciones
+El banco marcó de manera inadecuada transacciones vinculadas a posibles redes chinas de lavado de dinero, dijo el Tesoro.
 
-**Confirmado** · Fuentes: Associated Press, Financial Times, NPR · [Leer la fuente](https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics)
+**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss)
 
-## US inflation expectations are well anchored, Fed's Waller says
-Rolling coverage of the latest economic and financial news UK government bonds are rallying this morning, after the IMF said it had increased its growth forecast for the country this year. Yields (which fall when bond prices rise) are…
+## Trump dice que los hutíes intentan aumentar los precios del petróleo antes de las elecciones de mitad de mandato en EE. UU.
+Encuestas recientes muestran que los votantes estadounidenses de todo el espectro político están profundamente insatisfechos con la administración Trump, y las próximas elecciones de mitad de mandato les brindarán la oportunidad de…
 
-**Probable** · Fuentes: Reuters, Bloomberg, The Guardian · [Leer la fuente](https://www.theguardian.com/business/live/2026/oct/13/imf-uk-economy-growth-boost-chancellor-john-healey-oil-prices-inflation-business-live-news)
+**Probable** · Fuentes: Reuters, Financial Times, The Guardian · [Leer la fuente](https://www.theguardian.com/us-news/video/2026/oct/14/what-will-drive-american-voters-to-the-polls-in-the-midterm-elections-video-explainer)
 
-## Las ventas de viviendas en EE. UU. aumentaron en septiembre, pero se desaceleraron respecto al año anterior debido al aumento de las tasas hipotecarias y los precios
-Las hipotecas de tasa ajustable con tasas de interés introductorias bajas se enfrentan a su primer ajuste en un momento en que las tasas son mucho más altas, según nuevos datos.
+## Se espera que los altos precios de la gasolina impulsen la inflación al consumidor en EE. UU. en septiembre
+Los economistas esperan que el índice de precios al consumidor de septiembre aumente un 0.6% mensual y un 3.6% interanual.
 
-**Probable** · Fuentes: Associated Press, Reuters, Bloomberg · [Leer la fuente](https://www.cnbc.com/2026/10/13/arm-mortgage-borrowers-rate-adjustment.html)
+**En desarrollo** · Fuentes: Reuters, CNBC · [Leer la fuente](https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html)
 
-## Visa wins approval to prepare a bank card clearing business in China
-The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.
+## La CFPB anuncia una nueva iniciativa para abordar la exclusión bancaria no cubierta por la OCC por parte de los grandes bancos
+Hoy, la Oficina para la Protección Financiera del Consumidor (CFPB) anunció el siguiente paso en su trabajo para promover la lucha del presidente Trump contra la exclusión bancaria de empresas e individuos sobre la base de sus derechos…
 
-**Confirmado** · Fuentes: Associated Press, Reuters, Financial Times · [Leer la fuente](https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html)
+**Probable** · Fuentes: Consumer Financial Protection Bureau · [Leer la fuente](https://www.consumerfinance.gov/about-us/newsroom/cfpb-announces-new-initiative-to-address-occ-uncovered-debanking-by-large-banks/)
 
-## Indian police detain 'cockroach' movement leaders demanding election chief stand down
-Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.
+## Herramienta y objetivo: las fuerzas del orden de EE. UU. lidian con el terrorismo habilitado por IA y el extremismo antitecnológico
+Desde el FBI hasta los departamentos de policía locales, las autoridades estadounidenses advierten cada vez más sobre aspirantes a terroristas que utilizan chatbots para planificar ataques y amenazas extremistas contra la IA. En mayo de…
 
-**Probable** · Fuentes: Reuters, BBC News, CNBC · [Leer la fuente](https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss)
+**Probable** · Fuentes: The Guardian, The Hill · [Leer la fuente](https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism)
 
-## Hammack de la Fed: Espera enfriar la demanda, y la inflación, sin dolor en el mercado laboral
+## Los fondos de cobertura son una gran atracción en Asia a medida que los inversores miran más allá de los bonos
+Los TIPS parecen atractivos, pero no son la única forma de obtener protección contra la inflación.
 
-
-**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnpPOF8zbF9Ja0ZiR2lhdU5wUjR0SUhoS01ZU1d4SjVOeTZDZVBjdGs1RjBqaWhPcENod0Nja1J3bjIzQkdyN3dZcW5MNzhCZ2V2YVJKWnJwVXNabi1KOTIwLWwxVGF4dFRIbFRZM1VtNmpDNmRWd0t4THRhT0xuYUhnRzZwUlMzN2hmX2MydWtkcFZkQ0xQUUQ5cVVCWWdhaTQ5TmhheXlyOU92?oc=5)
+**En desarrollo** · Fuentes: Reuters, CNBC · [Leer la fuente](https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.

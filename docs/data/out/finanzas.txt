@@ -1,32 +1,34 @@
-Morning Brief · Dinero y economía personal · 13 OCTUBRE 2026
+Morning Brief · Dinero y economía personal · 14 OCTUBRE 2026
 
-1. 2 American economists win Nobel for work on managing economic shocks
-   Prices can get sticky. That helps explain why recessions hurt so much — and what policymakers can do about them.
-   [Confirmado] Fuentes: Associated Press, Financial Times, NPR
-   https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics
+1. EE. UU. impone una multa de 1.200 millones de dólares a Bank of America, alegando que violó leyes contra el lavado de dinero y sanciones
+   El banco marcó de manera inadecuada transacciones vinculadas a posibles redes chinas de lavado de dinero, dijo el Tesoro.
+   [Confirmado] Fuentes: Associated Press, Reuters, BBC News
+   https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss
 
-2. US inflation expectations are well anchored, Fed's Waller says
-   Rolling coverage of the latest economic and financial news UK government bonds are rallying this morning, after the IMF said it had increased its growth forecast for the country this year. Yields (which fall when bond prices rise) are…
-   [Probable] Fuentes: Reuters, Bloomberg, The Guardian
-   https://www.theguardian.com/business/live/2026/oct/13/imf-uk-economy-growth-boost-chancellor-john-healey-oil-prices-inflation-business-live-news
+2. Trump dice que los hutíes intentan aumentar los precios del petróleo antes de las elecciones de mitad de mandato en EE. UU.
+   Encuestas recientes muestran que los votantes estadounidenses de todo el espectro político están profundamente insatisfechos con la administración Trump, y las próximas elecciones de mitad de mandato les brindarán la oportunidad de…
+   [Probable] Fuentes: Reuters, Financial Times, The Guardian
+   https://www.theguardian.com/us-news/video/2026/oct/14/what-will-drive-american-voters-to-the-polls-in-the-midterm-elections-video-explainer
 
-3. Las ventas de viviendas en EE. UU. aumentaron en septiembre, pero se desaceleraron respecto al año anterior debido al aumento de las tasas hipotecarias y los precios
-   Las hipotecas de tasa ajustable con tasas de interés introductorias bajas se enfrentan a su primer ajuste en un momento en que las tasas son mucho más altas, según nuevos datos.
-   [Probable] Fuentes: Associated Press, Reuters, Bloomberg
-   https://www.cnbc.com/2026/10/13/arm-mortgage-borrowers-rate-adjustment.html
+3. Se espera que los altos precios de la gasolina impulsen la inflación al consumidor en EE. UU. en septiembre
+   Los economistas esperan que el índice de precios al consumidor de septiembre aumente un 0.6% mensual y un 3.6% interanual.
+   [En desarrollo] Fuentes: Reuters, CNBC
+   https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html
 
-4. Visa wins approval to prepare a bank card clearing business in China
-   The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.
-   [Confirmado] Fuentes: Associated Press, Reuters, Financial Times
-   https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html
+4. La CFPB anuncia una nueva iniciativa para abordar la exclusión bancaria no cubierta por la OCC por parte de los grandes bancos
+   Hoy, la Oficina para la Protección Financiera del Consumidor (CFPB) anunció el siguiente paso en su trabajo para promover la lucha del presidente Trump contra la exclusión bancaria de empresas e individuos sobre la base de sus derechos…
+   [Probable] Fuentes: Consumer Financial Protection Bureau
+   https://www.consumerfinance.gov/about-us/newsroom/cfpb-announces-new-initiative-to-address-occ-uncovered-debanking-by-large-banks/
 
-5. Indian police detain 'cockroach' movement leaders demanding election chief stand down
-   Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.
-   [Probable] Fuentes: Reuters, BBC News, CNBC
-   https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss
+5. Herramienta y objetivo: las fuerzas del orden de EE. UU. lidian con el terrorismo habilitado por IA y el extremismo antitecnológico
+   Desde el FBI hasta los departamentos de policía locales, las autoridades estadounidenses advierten cada vez más sobre aspirantes a terroristas que utilizan chatbots para planificar ataques y amenazas extremistas contra la IA. En mayo de…
+   [Probable] Fuentes: The Guardian, The Hill
+   https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism
 
-6. Hammack de la Fed: Espera enfriar la demanda, y la inflación, sin dolor en el mercado laboral
-   [En desarrollo] Fuentes: Reuters, Bloomberg
+6. Los fondos de cobertura son una gran atracción en Asia a medida que los inversores miran más allá de los bonos
+   Los TIPS parecen atractivos, pero no son la única forma de obtener protección contra la inflación.
+   [En desarrollo] Fuentes: Reuters, CNBC
+   https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html
 
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
 Edición completa: https://valentincatena0-droid.github.io/morning-brief-ai/#/niche/finanzas

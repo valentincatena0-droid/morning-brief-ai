@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 13 OCTUBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 14 OCTUBRE 2026
 
-## A 6.1 earthquake jolts southern Panama after Friday’s destructive tremors
-USGS recorded a magnitude 6.8 earthquake, central Mid-Atlantic Ridge. A tsunami warning was associated with this event.
+## Tren de pasajeros se descarrila en el centro de Pakistán, dejando al menos 5 muertos y 35 heridos
+El USGS registró un terremoto de magnitud 6.8 en la parte central de la Dorsal Mesoatlántica. Se emitió una alerta de tsunami asociada a este evento.
 
-**Confirmado** · Fuentes: USGS (earthquakes), Associated Press, Reuters · [Leer la fuente](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214)
+**Confirmado** · Fuentes: USGS (earthquakes), Associated Press, The New York Times · [Leer la fuente](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214)
 
-## 2 American economists win Nobel for work on managing economic shocks
-Prices can get sticky. That helps explain why recessions hurt so much — and what policymakers can do about them.
+## El miedo se apodera de Taiz mientras los rebeldes hutíes intensifican el asedio a la tercera ciudad más grande de Yemen
+La ciudad de Taiz, en el suroeste de Yemen, se enfrenta a una crisis humanitaria "devastadora", ya que la escalada de tensiones está provocando un aumento drástico de los precios de los alimentos y escasez de suministros, dijo el martes…
 
-**Confirmado** · Fuentes: Associated Press, Financial Times, NPR · [Leer la fuente](https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics)
+**Confirmado** · Fuentes: UN News, Associated Press, BBC News · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/10/1168589)
 
-## La región de huracanes del Pacífico establece un récord de tormentas grandes y duraderas gracias a El Niño
-El Niño ha seguido fortaleciéndose, con varias medidas clave ahora en territorio récord. Simon King explora cómo se compara con eventos anteriores.
+## Los departamentos de bomberos locales culpan al capital privado por el aumento de los costos de los equipos
+La hierba y los escombros pueden acumularse en las cortadoras de césped e incendiarse, lo que representa un riesgo de lesiones graves o muerte por incendios y quemaduras.
 
-**Confirmado** · Fuentes: Associated Press, BBC News, The Guardian · [Leer la fuente](https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, CBS News, CNN · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/DR-Power-Equipment-Recalls-Pilot-and-Premier-Trimmer-Mowers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards)
 
 ## Threat of AI share crash puts world financial stability at risk, says IMF
 The recalled bicycles’ front lock nut can loosen during use, causing the front wheel to dislodge or loosen over time, posing a crash hazard.
 
 **Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, The Guardian · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Decathlon-America-Recalls-Van-Rysel-GRVL-AF-Bicycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard)
 
-## Pennsylvania coroner reports measles death, toll rises to six
-Latest fatality is unvaccinated woman, 39, with ‘underlying conditions’ but CDC still lists only two deaths nationwide A sixth death has been announced in Pennsylvania ’s measles outbreak, as new figures show cases in the state have risen…
+## El número de muertos asciende a 6 mientras los remanentes de los huracanes Simon y Rachel provocan inundaciones en México
+Aunque permaneció en alta mar, la tormenta azotó las zonas costeras con fuertes vientos e inundaciones, y produjo notables patrones de ondulación en la atmósfera superior.
 
-**Confirmado** · Fuentes: Reuters, The Guardian, The Washington Post · [Leer la fuente](https://www.theguardian.com/us-news/2026/oct/13/pennsylvania-measles-sixth-death)
+**Confirmado** · Fuentes: NASA, Associated Press, BBC News · [Leer la fuente](https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/)
 
-## Storm Rachel batters Southern California, brings flooding to Las Vegas
-Large waves from the post-tropical cyclone battered homes in Long Beach, and brought flooding to parts of Las Vegas near the famed Strip.
+## Agrish vuelve a anunciar y amplía el retiro del mercado de barandillas portátiles para camas de adultos debido al riesgo de lesiones graves o muerte por atrapamiento y asfixia; violan la norma obligatoria para barandillas portátiles para camas de adultos; se añaden unidades adicionales
+Las barandillas de cama retiradas violan la norma obligatoria para barandillas portátiles para camas de adultos porque, cuando las barandillas están fijadas a una cama, los usuarios pueden quedar atrapados dentro de la barandilla o entre…
 
-**Confirmado** · Fuentes: BBC News, The Guardian, The Washington Post · [Leer la fuente](https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss)
+**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Agrish-Reannounces-and-Expands-Recall-of-Adult-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Additional-Units-Added)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
