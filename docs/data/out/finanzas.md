@@ -1,35 +1,30 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 15 OCTUBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 16 OCTUBRE 2026
 
-## La venta masiva de tecnología se acelera mientras los fabricantes de chips sufren un duro golpe
-Los fabricantes de chips y los inversores tecnológicos como Samsung y SoftBank se desploman a medida que las posibles subidas de los tipos de interés asustan a los mercados. Noticias de negocios: actualizaciones en directo. Larry Elliott:…
+## Average long-term US mortgage rate holds at 7.4%, remaining at highest level in nearly 3 years
+The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans.
 
-**Probable** · Fuentes: Reuters, The Guardian, CNBC · [Leer la fuente](https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt)
+**Probable** · Fuentes: Associated Press, The New York Times, CNN · [Leer la fuente](https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html)
 
-## Los abogados de Lisa Cook de la Reserva Federal dicen que la audiencia de la Casa Blanca organizada por Trump es 'sesgada'
-El presidente Trump recurrió a sus designados políticos para determinar si podía destituir a Lisa Cook, una gobernadora de la Fed a quien ya había intentado destituir.
+## G7 to launch exercises to guard against AI cyber attacks
 
-**Probable** · Fuentes: Associated Press, The New York Times, CNBC · [Leer la fuente](https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html)
 
-## Las acciones caen a medida que crecen las preocupaciones sobre la inflación y las inversiones en I.A.
-El S&P 500 cayó un 1.1 por ciento el miércoles, la caída más pronunciada en más de dos meses.
+**En desarrollo** · Fuentes: Reuters, Financial Times · [Leer la fuente](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZnI4RTM2MDNWV21Ha0tHZjV5c0tzRGNpbW9EMHY5VkxIcnZIR3FEQThVbVRQUEt2d3BQaFFJXzE4Z241RFRuY19WUGtMYWUtTTBRbDctRkNnSzBGMXNYTjh1Yk5sR2FMZXBXOEdPbVB5M1A5MmVvQXNWUXd2SzMtRWtuRWFicUVlUDNRM0o4akYzeGFNVXdWUklrUW1kSGp2djk4QlRydmE?oc=5)
 
-**Probable** · Fuentes: The New York Times, Bloomberg, CNBC · [Leer la fuente](https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html)
+## Banks expect to be hit with higher taxes in Budget
+Senior banking executives have told the BBC they expect to be "on the menu" in the chancellor's Budget tax later this month.
 
-## La creciente inflación complica el último esfuerzo de Trump para convencer a los votantes de una economía fuerte
-El informe final de inflación antes de las elecciones de 2026 —que muestra aumentos de precios y salarios estancados— supuso malas noticias políticas para la Casa Blanca.
+**Probable** · Fuentes: BBC News, Financial Times · [Leer la fuente](https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss)
 
-**En desarrollo** · Fuentes: The New York Times, Bloomberg · [Leer la fuente](https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html)
+## Diesel's surge is starting to push other prices around. Here's how
+Not only is Ambani's Reliance investing in a U.S. refinery and buying Venezuelan oil, but its strong ability to supply diesel has put Jamnagar on the map during Rubio's visit.
 
-## La inflación empeoró el mes pasado al 3.7% en señal de que los precios siguen elevados a medida que se acercan las elecciones de mitad de mandato
-Las empresas se vieron afectadas por la inflación el mes pasado a niveles no vistos desde finales de 2022.
+**En desarrollo** · Fuentes: Reuters, CNBC · [Leer la fuente](https://www.cnbc.com/2026/10/16/marco-rubio-reliance-jamnagar-refinery.html)
 
-**En desarrollo** · Fuentes: Associated Press, NBC News · [Leer la fuente](https://www.nbcnews.com/business/economy/ppi-business-inflation-trump-consumers-rcna603666)
+## Maduro pleads not guilty to new torture-related charges in New York
+"I reject this document entirely," Maduro said in court, responding to newly added torture-related charges.
 
-## Enzo Maresca insiste en que el Manchester City está «cerca» del PSG a pesar de la derrota en casa
-Luis Enrique admite que «la suerte estuvo de nuestro lado» en la victoria por 4-2. Maresca niega que los jugadores se vieran afectados por los veredictos de culpabilidad. Enzo Maresca consideró que el Manchester City demostró estar cerca…
-
-**En desarrollo** · Fuentes: The Guardian, CBS News · [Leer la fuente](https://www.theguardian.com/football/2026/oct/14/enzo-maresca-insists-manchester-city-are-close-to-psg-despite-home-defeat)
+**En desarrollo** · Fuentes: BBC News, Financial Times, The New York Times · [Leer la fuente](https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
