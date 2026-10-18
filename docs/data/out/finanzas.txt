@@ -1,34 +1,19 @@
-Morning Brief · Dinero y economía personal · 17 OCTUBRE 2026
+Morning Brief · Dinero y economía personal · 18 OCTUBRE 2026
 
-1. La junta del hospital de los N.I.H. reprende a Kennedy por la nueva clínica de lesiones por vacunas
-   El juguete retirado viola la prohibición de piezas pequeñas porque el producto es para niños menores de tres años y las perillas rojas pueden desprenderse, lo que representa un peligro de asfixia mortal.
-   [Confirmado] Fuentes: Federal Reserve, U.S. Consumer Product Safety Commission, The New York Times
-   https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm
+1. Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict
+   President Abdel Fattah el-Sisi had called on Egyptian lawmakers to authorize military assistance to the kingdom, saying any support would be defensive.
+   [Probable] Fuentes: Reuters, The New York Times, The Guardian
+   https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html
 
-2. Trump exime sanciones y aranceles clave relacionados con Rusia antes de que entren en vigor bajo la nueva ley
-   Las sanciones eran parte de una medida que llevaba el nombre del senador Lindsey Graham, el republicano de Carolina del Sur que falleció en julio.
-   [Confirmado] Fuentes: Reuters, Financial Times, The New York Times
-   https://www.nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html
-
-3. Los miembros del FMI piden más apoyo en medio de los choques de la guerra y los riesgos de la 'inteligencia avanzada'
-   Los países de bajos ingresos gastan hasta el 14 por ciento de sus ingresos en el pago de deudas, dice la jefa del FMI.
+2. El Banco de Canadá prevé una perspectiva de inflación mucho más alta a medida que el petróleo sube, dice Macklem
+   Francia y Bélgica condenan el ataque de colonos a diplomáticos, pero los críticos dicen que la UE necesita actuar más allá de las palabras de condena.
    [En desarrollo] Fuentes: Reuters, Al Jazeera
-   https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss
+   https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss
 
-4. Bancos de EE. UU. bloquean agentes de IA que intentan mover dinero de clientes
-   Hospitales en toda la ocupada Cisjordania se han visto afectados por una escasez de fondos.
-   [Probable] Fuentes: Bloomberg, Al Jazeera, The Hill
-   https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss
-
-5. Por qué las malas noticias en el mercado de bonos pueden ser buenas noticias para los inversores
-   En la lógica contraria de la inversión, el aumento de las tasas de interés ha hecho que los bonos sean mucho más atractivos, dice nuestro columnista.
-   [En desarrollo] Fuentes: The New York Times, Bloomberg
-   https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html
-
-6. El beneficio trimestral del Axis Bank de India aumenta un 37,6%, pero no alcanza las estimaciones debido a mayores costes
-   Altos ejecutivos bancarios han dicho a la BBC que esperan estar "en el menú" del impuesto presupuestario del canciller a finales de este mes.
-   [Probable] Fuentes: Reuters, BBC News, The New York Times
-   https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss
+3. Las reuniones del FMI/Banco Mundial dejan a los países en desarrollo con más preguntas que respuestas
+   El director de conocimiento del Banco dice que la tecnología podría acelerar el desarrollo económico de siglos a décadas. El Banco Mundial insta a los países en desarrollo a impulsar la creación de modelos de “IA pequeña”, que pueden…
+   [Probable] Fuentes: Reuters, The Guardian
+   https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies
 
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
 Edición completa: https://valentincatena0-droid.github.io/morning-brief-ai/#/niche/finanzas
