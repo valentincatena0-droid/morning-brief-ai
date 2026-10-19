@@ -1,20 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 18 OCTUBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 19 OCTUBRE 2026
 
-## Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict
-President Abdel Fattah el-Sisi had called on Egyptian lawmakers to authorize military assistance to the kingdom, saying any support would be defensive.
+## La primera ministra de Japón, Takaichi, niega estar impulsando la debilidad del yen y los tipos altos: JPY/USD
+La primera ministra negó que sus políticas fueran responsables de la debilidad del yen o del aumento de los rendimientos de los JGB.
 
-**Probable** · Fuentes: Reuters, The New York Times, The Guardian · [Leer la fuente](https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html)
+**En desarrollo** · Fuentes: Bloomberg, CNBC · [Leer la fuente](https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html)
 
-## El Banco de Canadá prevé una perspectiva de inflación mucho más alta a medida que el petróleo sube, dice Macklem
-Francia y Bélgica condenan el ataque de colonos a diplomáticos, pero los críticos dicen que la UE necesita actuar más allá de las palabras de condena.
+## Debemos gravar la riqueza de los multimillonarios, no solo los ingresos. California puede liderar el camino | Ro Khanna
+¿Estará California con la clase trabajadora o con los oligarcas en la votación de este noviembre? El Partido Demócrata tiene que tomar una decisión. ¿Vamos a ser demócratas del New Deal o demócratas corporativos? ¿Estamos con la clase…
 
-**En desarrollo** · Fuentes: Reuters, Al Jazeera · [Leer la fuente](https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss)
+**Probable** · Fuentes: The Guardian, CNBC · [Leer la fuente](https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california)
 
-## Las reuniones del FMI/Banco Mundial dejan a los países en desarrollo con más preguntas que respuestas
-El director de conocimiento del Banco dice que la tecnología podría acelerar el desarrollo económico de siglos a décadas. El Banco Mundial insta a los países en desarrollo a impulsar la creación de modelos de “IA pequeña”, que pueden…
+## Los demócratas ganan terreno entre los adultos AAPI a medida que la confianza en los republicanos disminuye, según una encuesta de AP-NORC/AAPI Data
 
-**Probable** · Fuentes: Reuters, The Guardian · [Leer la fuente](https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies)
+
+**En desarrollo** · Fuentes: Associated Press, Reuters · [Leer la fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemlCWEgwZHBDRUVrTzFXaWN5MHlqN0t4ZVJSeGZCaGFBcGVzZDBhQVRJN3AzeHR2YlNuUDVmejRuWXdKS0ctWF9fZ0ZYTjdvaHllQ0RpSjhTMHgtdzRvWmFxb0c0Y09FbmN4LUpsTHRyZFF4YlpVRUt2eXk0amJPM082ZF9LQXlYbnJlT3NpcHN5czBJaDU0YlpwWWVSOGZJZlowNHRhMktZdEJkRTJVOUZ6QmFfWmgzNEZ2cV9xS2lRZw?oc=5)
+
+## Las autoridades alemanas investigan un agujero cortado en una valla en el aeropuerto de Leipzig
+Las autoridades alemanas están investigando un gran agujero cortado en una valla en el aeropuerto de Leipzig
+
+**Probable** · Fuentes: Associated Press, Financial Times, ABC News · [Leer la fuente](https://abcnews.com/International/wireStory/german-authorities-investigate-hole-cut-fence-leipzig-airport-137360840)
+
+## El fabricante de chocolate Lindt destituye a su CEO tras los malos resultados en Europa y dos recortes de previsiones
+
+
+**Probable** · Fuentes: Reuters, Financial Times, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWGpYejZKcUtzOFQxWnB3X0JaX29iNTNNRWZuWmZXcHdpT1NDek16WUJlenlfZ2UxaTR4TldVa0p1UWFQR3VXVHJwQUtyZUVfbzlyajRaa0pMTTRBc01vZnd0eWc0a2RFUDBpT2ZKektTanlkbjhMXzdldENZQ0tQOGh4QVBydzdoak1xSENzM0l5Rjk3NXR0ZHNZRF81Tmc2bC1CVU1NYU40Vkd6M3I0?oc=5)
+
+## Los precios de las viviendas nuevas en China caen de nuevo mientras la recuperación sigue siendo esquiva
+
+
+**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndWUGt0d00tOWNGS2lsS3c3WmZTcWFaeVZwNUJVZC0tNkpaR295ZkJpc3FiWGgyeEVUYkgwUi1OUXpiUUo3WG5xeDN3WnpXNlIzc3hSdWxPdkpPcVd4QjI0eTNtR19KX25FcmNRYjlBX2h1R2twRzlPeW1wb0t5QnJ6Q091bnpSMVpLa3cycXAxS2JlTU13YWw5TGhqREx2NGJ3bG5GTi16d0dNVmpzSkVfR3RqclJFd0J0MzdB?oc=5)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
