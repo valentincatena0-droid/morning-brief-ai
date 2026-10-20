@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 19 OCTUBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 20 OCTUBRE 2026
 
-## El tifón Champi se fortalece a categoría 5 pero se aleja de tierra; Trudy se debilita
-Unas 11 personas estaban desaparecidas pero 16 fueron rescatadas, incluyendo tres que tenían heridas consistentes con mordeduras de tiburón, dijeron las autoridades.
+## El fiscal general de Mississippi dice que la fuerza del oficial fue justificada durante una llamada por robo en la que un niño murió
+La fiscal general Lynn Fitch emitió una declaración breve, meses después de que los oficiales, respondiendo a un reporte de pañales robados, rodearan un automóvil con las armas desenfundadas.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/18/us/capsized-boat-survivors-sharks.html)
+**Confirmado** · Fuentes: Associated Press, BBC News, The New York Times · [Leer la fuente](https://www.bbc.co.uk/news/articles/cwj0l72d5pygo?at_medium=RSS&at_campaign=rss)
 
-## Doce migrantes, incluido un bebé, se ahogan al volcar sus barcas frente a las islas griegas
-Los asientos de baño retirados del mercado infringen la norma obligatoria para asientos de baño para bebés porque son inestables y pueden volcarse durante su uso, lo que supone un riesgo de lesiones graves o muerte por ahogamiento.
+## Magnitude 6.3 earthquake strikes 197 km NW of Port-Olry, Vanuatu
+USGS recorded a magnitude 6.3 earthquake, 197 km NW of Port-Olry, Vanuatu. A tsunami warning was associated with this event.
 
-**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, Reuters · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/ONTHEWEI-Recalls-Baby-Bath-Seats-Due-to-Risk-of-Serious-Injury-or-Death-to-Children-from-Drowning-Violate-Mandatory-Standard-for-Infant-Bath-Seats)
+**Probable** · Fuentes: USGS (earthquakes) · [Leer la fuente](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3jl)
 
-## Giant Bicycle retira del mercado las llaves con luz LED incluidas en los juegos de candados para bicicleta SureLock debido al riesgo de lesiones graves o muerte por ingestión de baterías; viola la norma obligatoria para productos de consumo con baterías de botón
-La llave con luz LED que se incluyó con ciertos juegos de candados para bicicleta SureLock viola la norma de seguridad obligatoria para productos de consumo con baterías de botón y de moneda, ya que los niños pueden acceder fácilmente a…
+## El auge de las gafas inteligentes de EssilorLuxottica se enfrenta a un mayor escrutinio regulatorio
+La patilla izquierda de las gafas inteligentes retiradas puede sobrecalentarse durante un uso prolongado, lo que supone un riesgo de lesiones graves o muerte debido al peligro de quemaduras.
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Giant-Bicycle-Recalls-LED-Light-Keys-Included-with-SureLock-Bike-Lock-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries)
+**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, Reuters · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/INMO-International-Technology-Limited-Recalls-INMO-Air3-Smart-Glasses-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard)
 
-## HatsanUSA retira del mercado los rifles de aire comprimido Blitz debido al riesgo de lesiones graves o muerte por peligro de proyectiles
-Los rifles de aire comprimido retirados pueden dispararse inesperadamente al soltar el cerrojo antes de que el rifle esté completamente amartillado, lo que supone un riesgo de lesiones graves o muerte por peligro de proyectiles.
+## Agrish vuelve a anunciar y amplía el retiro del mercado de barandillas portátiles para camas de adultos debido al riesgo de lesiones graves o muerte por atrapamiento y asfixia; violan la norma obligatoria para barandillas portátiles para camas de adultos; se añaden unidades adicionales
+Las barandillas de cama retiradas violan la norma obligatoria para barandillas portátiles para camas de adultos porque, cuando las barandillas están fijadas a una cama, los usuarios pueden quedar atrapados dentro de la barandilla o entre…
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/HatsanUSA-Recalls-Blitz-Air-Rifles-Due-to-Risk-of-Serious-Injury-or-Death-from-Projectile-Hazard)
+**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Agrish-Reannounces-and-Expands-Recall-of-Adult-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Additional-Units-Added)
 
-## Esjay US retira del mercado juguetes Montessori tipo "Busy Board" para niños pequeños debido al riesgo de lesiones graves o muerte por asfixia; viola la prohibición de piezas pequeñas
-El juguete retirado viola la prohibición de piezas pequeñas porque el producto es para niños menores de tres años y las perillas rojas pueden desprenderse, lo que representa un peligro mortal de asfixia.
+## Los fallos del Gobierno permitieron que el Covid 'se propagara como la pólvora' en las residencias de ancianos, según concluye la investigación
+El sexto informe de la investigación sobre el Covid critica la falta de EPI y la forma en que los pacientes fueron dados de alta del hospital.
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/Esjay-US-Recalls-Toddler-Busy-Board-Montessori-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violates-Small-Parts-Ban)
+**Probable** · Fuentes: BBC News, Financial Times, The Guardian · [Leer la fuente](https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss)
 
-## Decathlon America retira las bicicletas Van Rysel GRVL AF debido al riesgo de lesiones graves o muerte por peligro de accidente
-La contratuerca delantera de las bicicletas retiradas puede aflojarse durante el uso, lo que provoca que la rueda delantera se desprenda o se afloje con el tiempo, lo que supone un peligro de accidente.
+## DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns
+The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Decathlon-America-Recalls-Van-Rysel-GRVL-AF-Bicycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard)
+**Confirmado** · Fuentes: NPR, The New York Times, Bloomberg · [Leer la fuente](https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.

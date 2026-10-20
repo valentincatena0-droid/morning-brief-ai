@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 19 OCTUBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 20 OCTUBRE 2026
 
-## La primera ministra de Japón, Takaichi, niega estar impulsando la debilidad del yen y los tipos altos: JPY/USD
-La primera ministra negó que sus políticas fueran responsables de la debilidad del yen o del aumento de los rendimientos de los JGB.
+## La interrupción de Google Cloud afecta a los bancos del Reino Unido
+Revolut fue uno de los más afectados, con servicios bancarios fuera de servicio para muchos clientes.
 
-**En desarrollo** · Fuentes: Bloomberg, CNBC · [Leer la fuente](https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html)
+**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss)
 
-## Debemos gravar la riqueza de los multimillonarios, no solo los ingresos. California puede liderar el camino | Ro Khanna
-¿Estará California con la clase trabajadora o con los oligarcas en la votación de este noviembre? El Partido Demócrata tiene que tomar una decisión. ¿Vamos a ser demócratas del New Deal o demócratas corporativos? ¿Estamos con la clase…
+## Las acciones estadounidenses suben después de que los precios del petróleo retrocedieran y las empresas presentaran sólidos beneficios
+Aquí están las cosas clave que los inversores necesitan saber para comenzar el día de negociación.
 
-**Probable** · Fuentes: The Guardian, CNBC · [Leer la fuente](https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california)
+**Probable** · Fuentes: Associated Press, Reuters, CNBC · [Leer la fuente](https://www.cnbc.com/2026/10/20/ai-rally-fades-elice-ipo-dives.html)
 
-## Los demócratas ganan terreno entre los adultos AAPI a medida que la confianza en los republicanos disminuye, según una encuesta de AP-NORC/AAPI Data
+## DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns
+The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.
 
+**Confirmado** · Fuentes: NPR, The New York Times, Bloomberg · [Leer la fuente](https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok)
 
-**En desarrollo** · Fuentes: Associated Press, Reuters · [Leer la fuente](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemlCWEgwZHBDRUVrTzFXaWN5MHlqN0t4ZVJSeGZCaGFBcGVzZDBhQVRJN3AzeHR2YlNuUDVmejRuWXdKS0ctWF9fZ0ZYTjdvaHllQ0RpSjhTMHgtdzRvWmFxb0c0Y09FbmN4LUpsTHRyZFF4YlpVRUt2eXk0amJPM082ZF9LQXlYbnJlT3NpcHN5czBJaDU0YlpwWWVSOGZJZlowNHRhMktZdEJkRTJVOUZ6QmFfWmgzNEZ2cV9xS2lRZw?oc=5)
+## La tormenta Austen traerá fuertes vendavales al Reino Unido tras la emisión de una alerta meteorológica
+La primera tormenta con nombre de la temporada, Austen, traerá vientos dañinos y fuertes lluvias a partes del Reino Unido el viernes.
 
-## Las autoridades alemanas investigan un agujero cortado en una valla en el aeropuerto de Leipzig
-Las autoridades alemanas están investigando un gran agujero cortado en una valla en el aeropuerto de Leipzig
+**Probable** · Fuentes: BBC News, Bloomberg, NBC News · [Leer la fuente](https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&at_campaign=rss)
 
-**Probable** · Fuentes: Associated Press, Financial Times, ABC News · [Leer la fuente](https://abcnews.com/International/wireStory/german-authorities-investigate-hole-cut-fence-leipzig-airport-137360840)
+## Los aranceles de Trump a Canadá provocan la última demanda sobre poderes comerciales
+Una vez más, la capacidad del presidente para librar una guerra comercial sin el Congreso llegará ante un tribunal que ha fallado repetidamente en su contra.
 
-## El fabricante de chocolate Lindt destituye a su CEO tras los malos resultados en Europa y dos recortes de previsiones
+**Probable** · Fuentes: The New York Times, CNBC · [Leer la fuente](https://www.nytimes.com/2026/10/20/business/trump-tariffs-canada-lawsuit.html)
 
+## Gran Bretaña busca romper el control de Apple sobre los pagos sin contacto
+Los cambios propuestos podrían dar lugar a nuevas carteras y llaves digitales, así como a aplicaciones de venta de entradas, afirma el regulador.
 
-**Probable** · Fuentes: Reuters, Financial Times, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWGpYejZKcUtzOFQxWnB3X0JaX29iNTNNRWZuWmZXcHdpT1NDek16WUJlenlfZ2UxaTR4TldVa0p1UWFQR3VXVHJwQUtyZUVfbzlyajRaa0pMTTRBc01vZnd0eWc0a2RFUDBpT2ZKektTanlkbjhMXzdldENZQ0tQOGh4QVBydzdoak1xSENzM0l5Rjk3NXR0ZHNZRF81Tmc2bC1CVU1NYU40Vkd6M3I0?oc=5)
-
-## Los precios de las viviendas nuevas en China caen de nuevo mientras la recuperación sigue siendo esquiva
-
-
-**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndWUGt0d00tOWNGS2lsS3c3WmZTcWFaeVZwNUJVZC0tNkpaR295ZkJpc3FiWGgyeEVUYkgwUi1OUXpiUUo3WG5xeDN3WnpXNlIzc3hSdWxPdkpPcVd4QjI0eTNtR19KX25FcmNRYjlBX2h1R2twRzlPeW1wb0t5QnJ6Q091bnpSMVpLa3cycXAxS2JlTU13YWw5TGhqREx2NGJ3bG5GTi16d0dNVmpzSkVfR3RqclJFd0J0MzdB?oc=5)
+**Probable** · Fuentes: Reuters, BBC News, Politico · [Leer la fuente](https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
