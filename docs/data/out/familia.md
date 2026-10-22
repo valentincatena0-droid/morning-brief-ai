@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 21 OCTUBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 22 OCTUBRE 2026
 
-## Nigeria confirms Ebola case in Abuja as woman who arrived from Uganda tests positive
-The World Health Organization (WHO) is assisting Nigeria following confirmation of the first case of Ebola Bundibugyo virus disease in the country.
+## El primer paciente con ébola de Nigeria estuvo de vacaciones en Uganda, dicen las autoridades
+La Organización Mundial de la Salud (OMS) está ayudando a Nigeria tras la confirmación del primer caso de la enfermedad por el virus del ébola Bundibugyo en el país.
 
-**Confirmado** · Fuentes: UN News, Associated Press, Reuters · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/10/1168637)
+**Confirmado** · Fuentes: UN News, BBC News, ABC News · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/10/1168637)
 
-## Russia frees American Stephen Hubbard after over 4 years in prison, during a visit by US envoy
-The 74-year-old former teacher has been released without any "swap" required, Trump says.
+## Putin and US envoy Witkoff meet in St. Petersburg
+The 74-year-old former teacher, who was captured in 2022, has been released without any "swap" required, Trump says.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: Associated Press, BBC News, The New York Times · [Leer la fuente](https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss)
 
-## Las gafas tradicionales de EssilorLuxottica compensan la desaceleración de las gafas inteligentes
-La patilla izquierda de las gafas inteligentes retiradas del mercado puede sobrecalentarse durante un uso prolongado, lo que supone un riesgo de lesiones graves o muerte debido al peligro de quemaduras.
+## Estudiantes marchan hacia Belgrado mientras el populista Vucic celebra un mitin en el sur de Serbia antes de la votación
+Trump está recorriendo la América conservadora esta semana para reforzar el apoyo a los candidatos republicanos en carreras inesperadamente competitivas.
 
-**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, Financial Times · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/INMO-International-Technology-Limited-Recalls-INMO-Air3-Smart-Glasses-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard)
+**Confirmado** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/21/us/politics/trump-rally-south-carolina-darline-graham.html)
 
-## Agrish Reannounces and Expands Recall of Adult Portable Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Additional Units Added
-The recalled bed rails violate the mandatory standard for adult portable bed rails because when the bed rails are attached to a bed, users can become entrapped within the bed rail or between the bed rail and the side of the mattress,…
+## Elon Musk's Starlink and Starshield, and what they mean to Ukraine
+Here's what to know about Starlink and Starshield, the technologies Ukraine is relying on in the war against Russia.
+
+**Probable** · Fuentes: CBS News, CNBC, Al Jazeera · [Leer la fuente](https://www.cbsnews.com/news/elon-musk-starlink-starshield-ukraine-russia/)
+
+## Agrish vuelve a anunciar y amplía el retiro del mercado de barandillas portátiles para camas de adultos debido al riesgo de lesiones graves o muerte por atrapamiento y asfixia; violan la norma obligatoria para barandillas portátiles para camas de adultos; se añaden unidades adicionales
+Las barandillas de cama retiradas violan la norma obligatoria para barandillas portátiles para camas de adultos porque, cuando las barandillas están fijadas a una cama, los usuarios pueden quedar atrapados dentro de la barandilla o entre…
 
 **Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Agrish-Reannounces-and-Expands-Recall-of-Adult-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Additional-Units-Added)
 
-## Evacuations and shelter-in-place orders issued in Toledo, Ohio, after chemical release
-A hazardous chemical leak in Toledo, Ohio, has prompted the evacuation of homes and businesses within a one-mile radius of a pipe factory. Anyone living within three miles of the plant is being asked to shelter in place. There are no…
+## Fuga en tanque químico en Ohio obliga a evacuaciones mientras la ciudad permite la ventilación de la nube
+A casi 1,000 personas en la ciudad de Ohio se les dijo que abandonaran el área y a miles más se les instó a permanecer adentro. El alcalde dijo que el derrame no representaba una amenaza a largo plazo.
 
-**Probable** · Fuentes: Associated Press, NBC News, CBS News · [Leer la fuente](https://www.today.com/video/ohio-chemical-leak-forces-home-and-business-evacuations-271956549521)
-
-## Giant Bicycle retira del mercado las llaves con luz LED incluidas en los juegos de candados para bicicleta SureLock debido al riesgo de lesiones graves o muerte por ingestión de baterías; viola la norma obligatoria para productos de consumo con baterías de botón
-La llave con luz LED que se incluyó con ciertos juegos de candados para bicicleta SureLock viola la norma de seguridad obligatoria para productos de consumo con baterías de botón y de moneda, ya que los niños pueden acceder fácilmente a…
-
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Giant-Bicycle-Recalls-LED-Light-Keys-Included-with-SureLock-Bike-Lock-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries)
+**Confirmado** · Fuentes: Associated Press, The New York Times, NBC News · [Leer la fuente](https://www.nytimes.com/2026/10/21/us/toledo-ohio-chemical-explosion.html)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.

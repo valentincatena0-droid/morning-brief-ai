@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 21 OCTUBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 22 OCTUBRE 2026
 
-## UK approves long-delayed Jackdaw gas field on energy security grounds
-BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment.
+## Websites taken offline over PHP risks
+The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.
 
-**Confirmado** · Fuentes: Reuters, BBC News, Financial Times · [Leer la fuente](https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: Reuters, BBC News, Financial Times · [Leer la fuente](https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss)
 
-## En China, el BCE defiende las líneas de liquidez en euros
+## Hungarian police arrest Orbán-era central bank governor on suspicion of fraud and other crimes
+Defensive end played for Chiefs for eight seasons Andy Reid says player’s death ‘makes you sick’ Patrick Mahomes and Andy Reid have spoken of their sadness after former Kansas City Chief Allen Bailey died at the age of 37. The defensive…
 
+**Probable** · Fuentes: Associated Press, Reuters, Financial Times · [Leer la fuente](https://www.theguardian.com/sport/2026/oct/21/he-was-a-great-kid-chiefs-mourn-death-of-former-player-allen-bailey-at-age-of-37)
 
-**Confirmado** · Fuentes: European Central Bank, Reuters, Bloomberg · [Leer la fuente](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html)
+## A Democratic Candidate for Governor Is Traversing Alaska to Flip the State
+Democrats are hoping that Jonathan Kreiss-Tomkins’s voter outreach could help them win an Alaska governor’s race for the first time since 1998.
 
-## Importador de alimentos presenta nueva demanda para bloquear los aranceles de Trump a Canadá
-La demanda argumenta que la Casa Blanca excedió su autoridad al imponer los últimos aranceles al país y causó "daño inmediato a las empresas estadounidenses".
+**Probable** · Fuentes: The New York Times, The Guardian · [Leer la fuente](https://www.nytimes.com/2026/10/21/us/democrat-alaska-governor-outreach.html)
 
-**Confirmado** · Fuentes: Reuters, BBC News, The New York Times · [Leer la fuente](https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss)
+## It's not just gas and groceries. Childcare costs weigh on some voters before the midterm elections
+U.S. families are struggling to afford childcare as costs rise faster than rent, with nearly 8% of households paying over $2,000 a month on daycare, nanny services and other programs. CBS News MoneyWatch reporter Megan Cerullo has the…
 
-## Google Cloud outage hits UK banks
-Revolut was one of the hardest hit, with banking services going down for many customers.
+**Probable** · Fuentes: Associated Press, CBS News, ABC News · [Leer la fuente](https://www.cbsnews.com/video/childcare-costs-rising-faster-than-rent-new-research-shows/)
 
-**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss)
+## La senadora Susan Collins pide la retirada de un anuncio de radio que ataca al demócrata Troy Jackson llamándolo 'creep'
+La carrera al Senado por Maine entre la titular republicana Susan Collins y el demócrata Troy Jackson presenta un laboratorio para el sentimiento público sobre los aranceles de Trump a Canadá.
 
-## Top Indian non-bank lenders flag early signs of stress in loans against gold
-The UN warned on Tuesday against a premature withdrawal of its peacekeepers as the war in Sudan spills over into the Central African Republic (CAR).
+**Probable** · Fuentes: Associated Press, CNBC, The Hill · [Leer la fuente](https://www.cnbc.com/2026/10/22/maine-senate-election-trump-tariffs.html)
 
-**Confirmado** · Fuentes: UN News, Reuters · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/10/1168630)
+## Florida Mayor Is Accused of Taking Covid Grant Funds She Helped Approve
+Mayor Jackie Espinosa of Kissimmee, Fla., and her family received money from a grant program she helped create during the pandemic, the state attorney general said. She was arrested on Wednesday.
 
-## Donald Trump pledges to spend $400mn on Republican Party midterm campaigns
-GOP lawmakers threaten to pull support for president’s agenda after Russia diesel deal and sanctions pause US politics live – latest updates A handful of Republicans have spoken out against Donald Trump ’s softening stance on Russia ,…
-
-**Probable** · Fuentes: Financial Times, The Guardian, Politico · [Leer la fuente](https://www.theguardian.com/us-news/2026/oct/20/republicans-push-back-trump-ukraine-russia)
+**Probable** · Fuentes: The New York Times, ABC News · [Leer la fuente](https://www.nytimes.com/2026/10/21/us/florida-mayor-kissimmee-arrested-fraud.html)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
