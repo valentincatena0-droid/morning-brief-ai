@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 22 OCTUBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 23 OCTUBRE 2026
 
-## Websites taken offline over PHP risks
-The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.
+## Asustada por Bolsonaro, la izquierda de Brasil recurre a las redes sociales y a las calles para impulsar la victoria de Lula
+Grandma Droniak, Nonna Gracie, Viv Truran y Barbara Costello han alcanzado la fama en las redes sociales en sus últimos años.
 
-**Confirmado** · Fuentes: Reuters, BBC News, Financial Times · [Leer la fuente](https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss)
 
-## Hungarian police arrest Orbán-era central bank governor on suspicion of fraud and other crimes
-Defensive end played for Chiefs for eight seasons Andy Reid says player’s death ‘makes you sick’ Patrick Mahomes and Andy Reid have spoken of their sadness after former Kansas City Chief Allen Bailey died at the age of 37. The defensive…
+## La inflación subyacente de Japón supera el objetivo del BOJ y consolida la posibilidad de una subida de tipos a corto plazo
+El aumento del coste de los alimentos y el alcohol impulsa un incremento en la tasa de inflación, según muestran las cifras.
 
-**Probable** · Fuentes: Associated Press, Reuters, Financial Times · [Leer la fuente](https://www.theguardian.com/sport/2026/oct/21/he-was-a-great-kid-chiefs-mourn-death-of-former-player-allen-bailey-at-age-of-37)
+**Probable** · Fuentes: Reuters, BBC News, Bloomberg · [Leer la fuente](https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss)
 
-## A Democratic Candidate for Governor Is Traversing Alaska to Flip the State
-Democrats are hoping that Jonathan Kreiss-Tomkins’s voter outreach could help them win an Alaska governor’s race for the first time since 1998.
+## El BCE dice que las expectativas de inflación de los consumidores aumentaron ligeramente en septiembre
 
-**Probable** · Fuentes: The New York Times, The Guardian · [Leer la fuente](https://www.nytimes.com/2026/10/21/us/democrat-alaska-governor-outreach.html)
 
-## It's not just gas and groceries. Childcare costs weigh on some voters before the midterm elections
-U.S. families are struggling to afford childcare as costs rise faster than rent, with nearly 8% of households paying over $2,000 a month on daycare, nanny services and other programs. CBS News MoneyWatch reporter Megan Cerullo has the…
+**Confirmado** · Fuentes: European Central Bank, Bloomberg · [Leer la fuente](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html)
 
-**Probable** · Fuentes: Associated Press, CBS News, ABC News · [Leer la fuente](https://www.cbsnews.com/video/childcare-costs-rising-faster-than-rent-new-research-shows/)
+## Israel dice que frustró un ‘ataque terrorista’, y otros acontecimientos en Oriente Medio
+El IRGC de Irán dice que alcanzó cuatro embarcaciones en el norte del Golfo y tres más chocaron con minas cerca del estrecho de Ormuz. Trabajadores navieros: ¿cómo les está afectando el conflicto en Oriente Medio? Los precios del petróleo…
 
-## La senadora Susan Collins pide la retirada de un anuncio de radio que ataca al demócrata Troy Jackson llamándolo 'creep'
-La carrera al Senado por Maine entre la titular republicana Susan Collins y el demócrata Troy Jackson presenta un laboratorio para el sentimiento público sobre los aranceles de Trump a Canadá.
+**Probable** · Fuentes: Associated Press, Reuters, The Guardian · [Leer la fuente](https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply)
 
-**Probable** · Fuentes: Associated Press, CNBC, The Hill · [Leer la fuente](https://www.cnbc.com/2026/10/22/maine-senate-election-trump-tariffs.html)
+## Ataque hutí a aeropuerto saudí mata a 2 mientras EE. UU. ordena a algunos diplomáticos salir
+El aeropuerto está en Dammam, que se encuentra cerca de la sede del gigante petrolero Saudi Aramco. Durante semanas, la milicia hutí de Yemen, respaldada por Irán, ha estado atacando los sectores de aviación y energía del reino.
 
-## Florida Mayor Is Accused of Taking Covid Grant Funds She Helped Approve
-Mayor Jackie Espinosa of Kissimmee, Fla., and her family received money from a grant program she helped create during the pandemic, the state attorney general said. She was arrested on Wednesday.
+**Probable** · Fuentes: The New York Times, Bloomberg, The Guardian · [Leer la fuente](https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html)
 
-**Probable** · Fuentes: The New York Times, ABC News · [Leer la fuente](https://www.nytimes.com/2026/10/21/us/florida-mayor-kissimmee-arrested-fraud.html)
+## Fuertes caídas de las acciones de IA abruman a los mercados de todo el mundo mientras los precios del petróleo suben
+Los costos de los centros de datos y los chips impulsaron una fuerte disminución en el sector de la IA, aunque las acciones que no pertenecen a la IA tuvieron un buen desempeño. El último estremecimiento de las acciones en la industria de…
+
+**Probable** · Fuentes: Associated Press, The Guardian · [Leer la fuente](https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
