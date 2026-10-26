@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 25 OCTUBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 26 OCTUBRE 2026
 
-## Israelis hold final rally against Netanyahu before election, and other Mideast news
-On Tuesday, Israel will hold its first parliamentary elections since the October 7, 2023 terror attacks. Essentially one man is on the ballot: Prime Minister Benjamin Netanyahu. Matt Gutman reports from Tel Aviv on the divide over…
+## Saudi Arabia to store oil in Singapore to bolster Asia supply security
+Oil prices fell as investors weighed the threat of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, Financial Times · [Leer la fuente](https://www.cbsnews.com/video/israeli-election-to-test-benjamin-netanyahus-ability-to-hold-power/)
+**Confirmado** · Fuentes: Reuters, Financial Times, Bloomberg · [Leer la fuente](https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html)
 
-## California election officials frustrated, rattled by DOJ demand to sequester 'noncitizen' ballots
-Charlotte Riley says more families are reaching out for help for a variety of reasons.
+## Audi to Build Factory in Georgia, Trump Says
+The Volkswagen division, which imports all its cars from Europe or Mexico, has been hit hard by U.S. tariffs.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: The New York Times, The Guardian, CNBC · [Leer la fuente](https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html)
 
-## The Bethlehem Project: Voters feel anxious and uncertain as US midterms near
-With the U.S. midterm elections looming, Americans are nearly as gloomy about the economy as they were when the nation was emerging from the pandemic.
-
-**En desarrollo** · Fuentes: Financial Times, CNBC · [Leer la fuente](https://www.cnbc.com/2026/10/23/america-by-the-numbers-how-voters-feel-about-the-economy-inflation-ai-and-trump.html)
-
-## Audi to build $4bn US plant as it grapples with tariffs
-VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs Audi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent…
-
-**Probable** · Fuentes: Financial Times, Bloomberg, The Guardian · [Leer la fuente](https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home)
-
-## ¿Dará la Fed alguna pista sobre las subidas de tipos?
+## Gold rises as lower oil prices ease inflation fears ahead of Fed meeting
 
 
-**En desarrollo** · Fuentes: Financial Times, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMihAFBVV95cUxNakZWTzB3NVNya0JlTHJlZlgwQjREeHRhWjFja0xROGtfdmxSZ2M1aE9fMkpUN0hJOFd2QktlYUw2LXpYQzZDZzNXLTI4ckJrbnhCNlZEY2pwZUl2d3U2LUxfUkxEMGh1bEotTlJNdWxQb3NjVFg4al8teTBaSUFid1hNQWE?oc=5)
+**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZml1aC0yS2NrLUloeEFPZnYyeExpazhPVExTT1BLcV9HZGxEZWFzcHFUMTJFbDhUTjgyaE5EbGRja1BRX0p2UzlDSmEzUUpzTG9ZT2xKZEZMczFvb1pzU2xrdXlNT0dDUXYtQnhoLUFpT09xQmF5Q25FQXdKNGpjOERVdTB1UTk4NkhSd2k3cUNBSTJRMVVsUlpSWQ?oc=5)
 
-## Four ways US foreign policy could change if Democrats win in November
-Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.
+## El partido de Netanyahu va a la zaga en las encuestas antes de las primeras elecciones desde el 7 de octubre de 2023
+El partido Likud de Benjamin Netanyahu va a la zaga en las encuestas antes de las primeras elecciones de Israel desde los ataques terroristas del 7 de octubre de 2023. Matt Gutman tiene más detalles antes del martes.
 
-**Probable** · Fuentes: Reuters, BBC News, Financial Times · [Leer la fuente](https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss)
+**En desarrollo** · Fuentes: CBS News, CNN · [Leer la fuente](https://www.cbsnews.com/video/netanyahus-party-lags-polls-ahead-first-election-since-oct-7-2023/)
+
+## La policía en Florida busca información y videos después de que un tiroteo dejara 12 heridos en un partido de fútbol americano
+La policía ha arrestado a un joven de 15 años en relación con el tiroteo masivo cerca del Bragg Memorial Stadium de la Florida A&M University. George Solis de NBC News informa sobre las últimas actualizaciones de la investigación y los…
+
+**Probable** · Fuentes: Associated Press, NBC News, CBS News · [Leer la fuente](https://www.nbcnews.com/now/video/police-arrest-suspect-in-shooting-near-florida-a-m-stadium-272217669952)
+
+## Why Wall Street banks want Democrats to back their capital relief
+While the police kept a lid on vandalism, the huge number of protesters and France’s fraught politics suggest unrest could grow.
+
+**Probable** · Fuentes: Reuters, The New York Times, CBS News · [Leer la fuente](https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.

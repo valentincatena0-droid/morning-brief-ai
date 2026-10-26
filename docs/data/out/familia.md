@@ -1,15 +1,15 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 25 OCTUBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 26 OCTUBRE 2026
 
-## A preliminary magnitude 6.9 earthquake hits off the coast of Vanuatu
-USGS recorded a magnitude 6.5 earthquake, Bonin Islands, Japan region. A tsunami warning was associated with this event.
-
-**Confirmado** · Fuentes: USGS (earthquakes), Associated Press, Reuters · [Leer la fuente](https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9)
-
-## Agrish Reannounces and Expands Recall of Adult Portable Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Additional Units Added
-The recalled bed rails violate the mandatory standard for adult portable bed rails because when the bed rails are attached to a bed, users can become entrapped within the bed rail or between the bed rail and the side of the mattress,…
+## Agrish vuelve a anunciar y amplía el retiro del mercado de barandillas portátiles para camas de adultos debido al riesgo de lesiones graves o muerte por atrapamiento y asfixia; violan la norma obligatoria para barandillas portátiles para camas de adultos; se añaden unidades adicionales
+Las barandillas de cama retiradas violan la norma obligatoria para barandillas portátiles para camas de adultos porque, cuando las barandillas están fijadas a una cama, los usuarios pueden quedar atrapados dentro de la barandilla o entre…
 
 **Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Agrish-Reannounces-and-Expands-Recall-of-Adult-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Additional-Units-Added)
+
+## Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?
+The seats, metal carabiners or quick links, or webbing straps of the recalled swing seats can break during use, posing a risk of serious injury due to fall hazard.
+
+**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, CNBC · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Pacearth-Direct-Recalls-PACEARTH-Swing-Seats-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard)
 
 ## Giant Bicycle Recalls LED-Light Keys Included with SureLock Bike Lock Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Button Cell Batteries
 The LED-light key that was included with certain SureLock Bicycle Lock sets violates the mandatory safety standard for consumer products with button cell and coin batteries because the button batteries can be accessed easily by children,…
@@ -26,10 +26,10 @@ The left temple of the recalled smart glasses can overheat during extended use, 
 
 **Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/INMO-International-Technology-Limited-Recalls-INMO-Air3-Smart-Glasses-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard)
 
-## Amgen drug combined with immunotherapy extends survival in lung cancer trial
-A drug from Amgen could give patients with an aggressive form of lung cancer significantly more time to live when added to an immunotherapy from AstraZeneca.
+## Nigeria's Ebola patient on medical evacuation flight to Switzerland, condition stable
+A Swiss woman being treated for Ebola in Nigeria has been medically evacuated to Switzerland with her husband
 
-**Probable** · Fuentes: Reuters, Financial Times, Bloomberg · [Leer la fuente](https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html)
+**En desarrollo** · Fuentes: Reuters, ABC News · [Leer la fuente](https://abcnews.com/International/wireStory/swiss-ebola-patient-nigeria-evacuated-switzerland-137570624)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
