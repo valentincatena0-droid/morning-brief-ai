@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 26 OCTUBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 27 OCTUBRE 2026
 
-## Agrish vuelve a anunciar y amplía el retiro del mercado de barandillas portátiles para camas de adultos debido al riesgo de lesiones graves o muerte por atrapamiento y asfixia; violan la norma obligatoria para barandillas portátiles para camas de adultos; se añaden unidades adicionales
-Las barandillas de cama retiradas violan la norma obligatoria para barandillas portátiles para camas de adultos porque, cuando las barandillas están fijadas a una cama, los usuarios pueden quedar atrapados dentro de la barandilla o entre…
+## Comienza la tregua en la ciudad de Ucrania donde los residentes comían hierbas para sobrevivir
+El alto el fuego en Oleshky, que según la Casa Blanca fue asegurado por la primera dama de EE. UU. Melania Trump, tiene como objetivo permitir la entrada de ayuda y la salida de civiles.
+
+**Confirmado** · Fuentes: BBC News, Financial Times, NPR · [Leer la fuente](https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss)
+
+## Illinois man charged with mailing white powder to members of Congress
+A man has been charged in Illinois with mailing four letters containing a white granular substance to members of Congress, all of which were sent in envelopes containing his name and home address.
+
+**Confirmado** · Fuentes: Associated Press, The Guardian, NBC News · [Leer la fuente](https://www.theguardian.com/us-news/2026/oct/27/man-sent-powder-congress-arrest)
+
+## India evacúa a decenas de miles mientras el ciclón Arnab se acerca a la costa este en el estado de Andhra Pradesh
+Se pronostica que la tormenta, Arnab, toque tierra el miércoles en la costa este del país y luego se desplace hacia el interior y se dirija al norte hacia Nepal.
+
+**Confirmado** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/27/world/asia/india-cyclone-arnab-evacuations-nepal.html)
+
+## Agrish vuelve a anunciar y amplía el retiro del mercado de barandillas de cama portátiles para adultos debido al riesgo de lesiones graves o muerte por atrapamiento y asfixia; violan la norma obligatoria para barandillas de cama portátiles para adultos; se añaden unidades adicionales
+Las barandillas de cama retiradas del mercado violan la norma obligatoria para barandillas de cama portátiles para adultos porque, cuando las barandillas están fijadas a una cama, los usuarios pueden quedar atrapados dentro de la…
 
 **Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Agrish-Reannounces-and-Expands-Recall-of-Adult-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Additional-Units-Added)
 
-## Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?
-The seats, metal carabiners or quick links, or webbing straps of the recalled swing seats can break during use, posing a risk of serious injury due to fall hazard.
+## Ébola: 20 contactos liberados de cuarentena en Kenia, en medio de la «esperanza» de una vacuna en la RD del Congo
+Veinte personas relacionadas con el primer caso de enfermedad por el virus del Ébola Bundibugyo en Kenia se han reunido con sus familias tras ser liberadas de la cuarentena después de completar un periodo de seguimiento obligatorio de 21…
 
-**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, CNBC · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Pacearth-Direct-Recalls-PACEARTH-Swing-Seats-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard)
+**Probable** · Fuentes: UN News · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/10/1168676)
 
-## Giant Bicycle Recalls LED-Light Keys Included with SureLock Bike Lock Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Button Cell Batteries
-The LED-light key that was included with certain SureLock Bicycle Lock sets violates the mandatory safety standard for consumer products with button cell and coin batteries because the button batteries can be accessed easily by children,…
+## Congo’s Ebola outbreak tops 10,000 cases as authorities race to slow the spread in African countries
+Nearly half of the people confirmed to have the virus have died in DRC's fastest-growing Ebola outbreak on record.
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Giant-Bicycle-Recalls-LED-Light-Keys-Included-with-SureLock-Bike-Lock-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries)
-
-## HatsanUSA Recalls Blitz Air Rifles Due to Risk of Serious Injury or Death from Projectile Hazard
-The recalled air rifles can fire unexpectedly when releasing the bolt before the air rifle is fully cocked, posing a risk of serious injury or death from projectile hazard.
-
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/HatsanUSA-Recalls-Blitz-Air-Rifles-Due-to-Risk-of-Serious-Injury-or-Death-from-Projectile-Hazard)
-
-## INMO International Technology Limited Recalls INMO Air3 Smart Glasses Due to Risk of Serious Injury or Death from Burn Hazard
-The left temple of the recalled smart glasses can overheat during extended use, posing a risk of serious injury or death due to burn hazard.
-
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2026/INMO-International-Technology-Limited-Recalls-INMO-Air3-Smart-Glasses-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard)
-
-## Nigeria's Ebola patient on medical evacuation flight to Switzerland, condition stable
-A Swiss woman being treated for Ebola in Nigeria has been medically evacuated to Switzerland with her husband
-
-**En desarrollo** · Fuentes: Reuters, ABC News · [Leer la fuente](https://abcnews.com/International/wireStory/swiss-ebola-patient-nigeria-evacuated-switzerland-137570624)
+**Probable** · Fuentes: Associated Press, Reuters, Al Jazeera · [Leer la fuente](https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak?traffic_source=rss)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
