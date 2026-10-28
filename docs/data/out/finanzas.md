@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 27 OCTUBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 28 OCTUBRE 2026
 
-## Cómo los multimillonarios están luchando contra la Prop 40, el impuesto a la riqueza de California
-El último club de multimillonarios de Silicon Valley es una máquina de publicidad política de 333 millones de dólares que está muy involucrada en las elecciones de la próxima semana.
+## El oro cae por los precios más altos del petróleo antes de la decisión de la Fed
+El banco central de EE. UU. aumentó las tasas el mes pasado por primera vez desde 2023, en una medida que enfureció a Donald Trump. Se espera que la Reserva Federal de EE. UU. deje las tasas de interés sin cambios el miércoles durante su…
 
-**Probable** · Fuentes: The New York Times, The Guardian, CNBC · [Leer la fuente](https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html)
+**Probable** · Fuentes: Reuters, Bloomberg, The Guardian · [Leer la fuente](https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms)
 
 ## Se espera que la Fed mantenga las tasas estables. Warsh tendrá que explicar por qué.
-La inflación se mueve en la dirección equivocada y el mercado laboral permanece estable, una combinación que refuerza el argumento a favor de tasas de interés más altas.
+La inflación se está moviendo en la dirección equivocada y el mercado laboral permanece estable, una combinación que refuerza el argumento a favor de tasas de interés más altas.
 
-**Probable** · Fuentes: The New York Times, CNBC, The Hill · [Leer la fuente](https://www.nytimes.com/2026/10/27/business/the-fed-is-expected-to-hold-rates-steady-warsh-will-have-to-explain-why.html)
+**Probable** · Fuentes: The New York Times, NBC News, CNBC · [Leer la fuente](https://www.nytimes.com/2026/10/27/business/fed-interest-rates-warsh.html)
 
-## Donald Trump ofrece una recompensa de $1mn por pistas que conduzcan a una condena por fraude electoral
-No estaba claro cómo pagaría el presidente la propuesta, que fusionó su promoción de incentivos financieros durante la campaña para ayudar a su partido a ganar y sus advertencias infundadas sobre el fraude electoral.
+## Un crucero estadounidense suspende un viaje global en Asia debido a los costos del combustible, dejando varados a 200 pasajeros
+El Villa Vie Odyssey suspendió su viaje y está trabajando con los pasajeros en "arreglos de vivienda temporal".
 
-**Confirmado** · Fuentes: Financial Times, The New York Times, NBC News · [Leer la fuente](https://www.nytimes.com/2026/10/26/us/trump-1-million-reward-voter-fraud-tips.html)
+**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss)
 
-## El salario mínimo aumentará, pero los jóvenes de 18 a 20 años no recibirán un incremento mayor
-El canciller John Healey revelará las nuevas tasas salariales en el presupuesto y también ha anunciado medidas para ayudar a los hogares con el costo de vida.
+## La Reserva Federal probablemente omitirá el aumento de tasas a pesar de la inflación elevada
+Se espera ampliamente que el banco central mantenga estables las tasas de interés el miércoles, pocos días antes de las elecciones de mitad de período.
 
-**Probable** · Fuentes: BBC News, Financial Times, The Guardian · [Leer la fuente](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
+**Probable** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html)
 
-## Euro zone mortgage demand falls as rates rise, ECB survey shows
-Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year.
+## Los inversores en bonos piensan menos en la Fed y más en la IA y los déficits
 
-**Confirmado** · Fuentes: European Central Bank, Reuters, BBC News · [Leer la fuente](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html)
 
-## High inflation to persist globally into next year, Reuters poll shows
-As the US midterm elections approach, we take a look at data to see a true picture of the US economy under Trump With the midterm elections fast approaching, many Americans have the economy on their minds. US voters are exhausted by years…
+**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZDTFViUjF0VS1rM2FQX1ZjYmpIQncyQi1pMldoZ1N2U2JXUjIydVFJUGN1dXV4STlvYlVEM3FPSEZaSEt3Rnkxc0R5c3JrOEg2b0g2d2pUemFMbXpKNjZ6M1NabkwxcmJrbE5sdWtnU2pDd3R0X3ZkakhTNTZraUU0ejJKdDVRR0NheWhzcXBLUnU2dGxGUXFURnJZaExIM1hTRW9LWE5KbkNJN2RZ?oc=5)
 
-**Probable** · Fuentes: Reuters, The Guardian · [Leer la fuente](https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts)
+## Cómo los multimillonarios están luchando contra el impuesto a la riqueza de la Prop 40 en California
+El último club de multimillonarios de Silicon Valley es una máquina de publicidad política de $333 millones que está fuertemente involucrada en las elecciones de la próxima semana.
+
+**Probable** · Fuentes: The New York Times, The Guardian · [Leer la fuente](https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
