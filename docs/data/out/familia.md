@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 28 OCTUBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 29 OCTUBRE 2026
 
-## Las elecciones de Israel están demasiado reñidas para declarar un ganador. Y, el brote de ébola alcanza un triste hito
-Los votantes israelíes acudieron a las urnas en números récord, y los resultados siguen estando demasiado reñidos para declarar un ganador. Y, más de 10,000 personas han sido infectadas con ébola desde que se declaró el brote por primera…
+## Christine Lagarde to step down as ECB president in February
+Her plan to depart in February, months before the end of an eight-year term, sets in motion a selection process among European leaders for a new central bank president.
 
-**Probable** · Fuentes: NPR, The New York Times, The Guardian · [Leer la fuente](https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak)
+**Confirmado** · Fuentes: European Central Bank, Financial Times, The New York Times · [Leer la fuente](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html)
 
-## Fotos muestran la lucha del Congo contra el ébola mientras los casos superan los 10,000
-Veinte personas relacionadas con el primer caso de enfermedad por el virus del Ébola Bundibugyo en Kenia se han reunido con sus familias tras ser dadas de alta de la cuarentena después de completar un período de seguimiento obligatorio de…
+## Un terremoto de magnitud 6.4 sacude el sureste de la Isla de Pascua
+El USGS registró un terremoto de magnitud 6.4 al sureste de la Isla de Pascua.
 
-**Confirmado** · Fuentes: UN News, Associated Press, The New York Times · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/10/1168676)
+**Probable** · Fuentes: USGS (earthquakes) · [Leer la fuente](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz)
 
-## Las familias se preparan para un cuarto invierno de viento, lluvia e inundaciones en los campamentos de Gaza
-Las familias en Gaza se preparan para un cuarto invierno en tiendas de campaña y refugios improvisados mientras las operaciones de ayuda de la ONU enfrentan obstáculos crecientes, con el transporte suspendido el martes debido al cierre…
+## Whatever Works retira parrillas de microondas debido al riesgo de lesiones graves o muerte por peligro de incendio
+Los consumidores deben dejar de usar las parrillas retiradas inmediatamente y contactar a Whatever Works para obtener un reembolso completo. Se les pedirá a los consumidores que escriban con marcador permanente “Recalled” en la parrilla y…
 
-**Confirmado** · Fuentes: UN News, Al Jazeera, The Hill · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/10/1168685)
+**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Whatever-Works-Recalls-Microwave-Grills-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard)
 
-## El auge de la inversión en IA impulsa el gasto empresarial en equipos en EE. UU. en septiembre
-La hierba y los escombros pueden acumularse en las cortadoras de césped e incendiarse, lo que supone un riesgo de lesiones graves o muerte por peligro de incendio y quemaduras.
+## El líder de Hong Kong se disculpa por el incendio mortal en Tai Po y promete reformas
+John Lee, el jefe ejecutivo de la ciudad, dijo que su secretario de vivienda renunciaría, pero defendió vehementemente al gobierno.
 
-**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, Reuters, Financial Times · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/DR-Power-Equipment-Recalls-Pilot-and-Premier-Trimmer-Mowers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards)
+**Probable** · Fuentes: Reuters, Financial Times, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html)
 
-## India evacúa a decenas de miles mientras el ciclón Arnab se acerca a la costa este en el estado de Andhra Pradesh
-Se pronostica que la tormenta, Arnab, toque tierra el miércoles en la costa este del país y luego se desplace hacia el interior y se dirija al norte hacia Nepal.
+## Utah acusa a Kalshi y a sus fundadores, intensificando una lucha sobre quién puede regular los mercados de predicción
+El mercado de predicción recaudó $1 mil millones en una nueva ronda de financiación y alcanzó un valor de mercado casi el doble que el de su rival Polymarket. Pero los desafíos legales a su negocio persisten.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/27/world/asia/india-cyclone-arnab-evacuations-nepal.html)
+**Confirmado** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/29/business/dealbook/kalshi-fundraising-ipo.html)
 
-## Agrish vuelve a anunciar y amplía el retiro del mercado de barandillas portátiles para camas de adultos debido al riesgo de lesiones graves o muerte por atrapamiento y asfixia; violan la norma obligatoria para barandillas portátiles para camas de adultos; se añaden unidades adicionales
-Las barandillas de cama retiradas violan la norma obligatoria para barandillas portátiles para camas de adultos porque, cuando las barandillas están fijadas a una cama, los usuarios pueden quedar atrapados dentro de la barandilla o entre…
+## Giant Bicycle retira del mercado las llaves con luz LED incluidas en los juegos de candados para bicicleta SureLock debido al riesgo de lesiones graves o muerte por ingestión de baterías; viola la norma obligatoria para productos de consumo con baterías de botón
+La llave con luz LED que se incluyó con ciertos juegos de candados para bicicleta SureLock viola la norma de seguridad obligatoria para productos de consumo con baterías de botón y de moneda, ya que los niños pueden acceder fácilmente a…
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Agrish-Reannounces-and-Expands-Recall-of-Adult-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Additional-Units-Added)
+**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Giant-Bicycle-Recalls-LED-Light-Keys-Included-with-SureLock-Bike-Lock-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.

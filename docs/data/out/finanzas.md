@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 28 OCTUBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 29 OCTUBRE 2026
 
-## El oro cae por los precios más altos del petróleo antes de la decisión de la Fed
-El banco central de EE. UU. aumentó las tasas el mes pasado por primera vez desde 2023, en una medida que enfureció a Donald Trump. Se espera que la Reserva Federal de EE. UU. deje las tasas de interés sin cambios el miércoles durante su…
+## El comité de política de la Fed evaluará los problemas del balance a principios del próximo año, dice Warsh
+Cook, una gobernadora de la Fed, se enfrentará a una audiencia privada poco ortodoxa por acusaciones de fraude hipotecario que ha negado sistemáticamente.
 
-**Probable** · Fuentes: Reuters, Bloomberg, The Guardian · [Leer la fuente](https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms)
+**Confirmado** · Fuentes: Federal Reserve, Reuters, The New York Times · [Leer la fuente](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)
 
-## Se espera que la Fed mantenga las tasas estables. Warsh tendrá que explicar por qué.
-La inflación se está moviendo en la dirección equivocada y el mercado laboral permanece estable, una combinación que refuerza el argumento a favor de tasas de interés más altas.
+## Christine Lagarde to step down as ECB president in February
+Her plan to depart in February, months before the end of an eight-year term, sets in motion a selection process among European leaders for a new central bank president.
 
-**Probable** · Fuentes: The New York Times, NBC News, CNBC · [Leer la fuente](https://www.nytimes.com/2026/10/27/business/fed-interest-rates-warsh.html)
+**Confirmado** · Fuentes: European Central Bank, Financial Times, The New York Times · [Leer la fuente](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html)
 
-## Un crucero estadounidense suspende un viaje global en Asia debido a los costos del combustible, dejando varados a 200 pasajeros
-El Villa Vie Odyssey suspendió su viaje y está trabajando con los pasajeros en "arreglos de vivienda temporal".
+## El PIB de EE. UU. aumentó un 3.4% en el tercer trimestre
+La economía creció un 3.4 por ciento en el tercer trimestre, el ritmo más rápido en un año. El fuerte gasto y el crecimiento contrastan con las malas calificaciones que muchos votantes le dan a la economía.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss)
+**Probable** · Fuentes: The New York Times, CNBC, The Hill · [Leer la fuente](https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html)
 
-## La Reserva Federal probablemente omitirá el aumento de tasas a pesar de la inflación elevada
-Se espera ampliamente que el banco central mantenga estables las tasas de interés el miércoles, pocos días antes de las elecciones de mitad de período.
+## Volkswagen registra una pérdida trimestral de $6.5 mil millones debido a la caída en China y la depreciación de Porsche que afectan sus resultados
+¿Qué tan fácil es construir un negocio después de cumplir una condena en prisión?
 
-**Probable** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html)
+**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/sounds/play/m0033g29?at_medium=RSS&at_campaign=rss)
 
-## Los inversores en bonos piensan menos en la Fed y más en la IA y los déficits
+## Cómo la decisión de tasas de interés de la Fed afecta a las tarjetas de crédito, préstamos y más
+La Reserva Federal dejó su tasa de referencia intacta, pero un aumento en diciembre podría hacer que los préstamos durante las fiestas sean más costosos.
 
+**En desarrollo** · Fuentes: The New York Times, CNN · [Leer la fuente](https://www.nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html)
 
-**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVZDTFViUjF0VS1rM2FQX1ZjYmpIQncyQi1pMldoZ1N2U2JXUjIydVFJUGN1dXV4STlvYlVEM3FPSEZaSEt3Rnkxc0R5c3JrOEg2b0g2d2pUemFMbXpKNjZ6M1NabkwxcmJrbE5sdWtnU2pDd3R0X3ZkakhTNTZraUU0ejJKdDVRR0NheWhzcXBLUnU2dGxGUXFURnJZaExIM1hTRW9LWE5KbkNJN2RZ?oc=5)
+## HMRC crea una lista de 200 multimillonarios en una ofensiva fiscal contra los más ricos del Reino Unido
+Más de 140 medidas electorales a nivel estatal se presentarán ante los votantes durante las elecciones de mitad de mandato. Estas son las contiendas que estamos observando.
 
-## Cómo los multimillonarios están luchando contra el impuesto a la riqueza de la Prop 40 en California
-El último club de multimillonarios de Silicon Valley es una máquina de publicidad política de $333 millones que está fuertemente involucrada en las elecciones de la próxima semana.
-
-**Probable** · Fuentes: The New York Times, The Guardian · [Leer la fuente](https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html)
+**Probable** · Fuentes: Financial Times, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/29/us/elections/ballot-questions-midterms-election.html)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
