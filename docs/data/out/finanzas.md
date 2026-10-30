@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 29 OCTUBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 30 OCTUBRE 2026
 
-## El comité de política de la Fed evaluará los problemas del balance a principios del próximo año, dice Warsh
-Cook, una gobernadora de la Fed, se enfrentará a una audiencia privada poco ortodoxa por acusaciones de fraude hipotecario que ha negado sistemáticamente.
+## La producción francesa se contrae y la inflación se acelera, dejando a la economía estancada, dice el ministro
+El índice de Gastos de Consumo Personal aumentó en septiembre, según datos publicados un día después de la decisión de la Reserva Federal de mantener estables las tasas de interés.
 
-**Confirmado** · Fuentes: Federal Reserve, Reuters, The New York Times · [Leer la fuente](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm)
+**Probable** · Fuentes: Reuters, Financial Times, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html)
 
-## Christine Lagarde to step down as ECB president in February
-Her plan to depart in February, months before the end of an eight-year term, sets in motion a selection process among European leaders for a new central bank president.
+## Aliado de Bolsonaro culpa a ChatGPT por la afirmación ahora eliminada de 'presidente electo de Brasil'
+El candidato presidencial derrotado dice que liderará la oposición desde EE. UU.
+
+**Probable** · Fuentes: Reuters, BBC News, Financial Times · [Leer la fuente](https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss)
+
+## El legado de Christine Lagarde
+Su plan de partir en febrero, meses antes del final de un mandato de ocho años, pone en marcha un proceso de selección entre los líderes europeos para un nuevo presidente del banco central.
 
 **Confirmado** · Fuentes: European Central Bank, Financial Times, The New York Times · [Leer la fuente](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html)
 
-## El PIB de EE. UU. aumentó un 3.4% en el tercer trimestre
-La economía creció un 3.4 por ciento en el tercer trimestre, el ritmo más rápido en un año. El fuerte gasto y el crecimiento contrastan con las malas calificaciones que muchos votantes le dan a la economía.
+## Decisiones adoptadas por el Consejo de Gobierno del BCE (además de las decisiones sobre los tipos de interés)
 
-**Probable** · Fuentes: The New York Times, CNBC, The Hill · [Leer la fuente](https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html)
 
-## Volkswagen registra una pérdida trimestral de $6.5 mil millones debido a la caída en China y la depreciación de Porsche que afectan sus resultados
-¿Qué tan fácil es construir un negocio después de cumplir una condena en prisión?
+**Probable** · Fuentes: European Central Bank · [Leer la fuente](https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html)
 
-**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/sounds/play/m0033g29?at_medium=RSS&at_campaign=rss)
+## El BOJ mantiene estables los tipos de interés y señala nuevas subidas
+Las decisiones sobre los tipos de interés de la Reserva Federal afectan a todo, desde hipotecas hasta préstamos para automóviles
 
-## Cómo la decisión de tasas de interés de la Fed afecta a las tarjetas de crédito, préstamos y más
-La Reserva Federal dejó su tasa de referencia intacta, pero un aumento en diciembre podría hacer que los préstamos durante las fiestas sean más costosos.
+**Probable** · Fuentes: Reuters, BBC News, Bloomberg · [Leer la fuente](https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss)
 
-**En desarrollo** · Fuentes: The New York Times, CNN · [Leer la fuente](https://www.nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html)
+## Peltola niega que supiera del esfuerzo para incluir a un candidato con el mismo nombre que el Sen. Sullivan en la boleta electoral de Alaska
+Con el fondo fiduciario principal del Seguro Social en camino a agotarse en 2032, el Congreso enfrentará una presión creciente para encontrar soluciones y evitar recortes en los beneficios.
 
-## HMRC crea una lista de 200 multimillonarios en una ofensiva fiscal contra los más ricos del Reino Unido
-Más de 140 medidas electorales a nivel estatal se presentarán ante los votantes durante las elecciones de mitad de mandato. Estas son las contiendas que estamos observando.
-
-**Probable** · Fuentes: Financial Times, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/29/us/elections/ballot-questions-midterms-election.html)
+**En desarrollo** · Fuentes: Associated Press, The Guardian, CBS News · [Leer la fuente](https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.

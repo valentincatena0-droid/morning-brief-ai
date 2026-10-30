@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 29 OCTUBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 30 OCTUBRE 2026
 
-## Christine Lagarde to step down as ECB president in February
-Her plan to depart in February, months before the end of an eight-year term, sets in motion a selection process among European leaders for a new central bank president.
+## Breve tregua acordada por Rusia y Ucrania permite operación de ayuda y evacuaciones en Oleshky
+Un raro alto el fuego localizado anunciado por la primera dama ofreció un breve respiro para Jersón, Ucrania, donde los drones y la artillería rusa han aterrorizado durante mucho tiempo a los civiles.
 
-**Confirmado** · Fuentes: European Central Bank, Financial Times, The New York Times · [Leer la fuente](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html)
+**Confirmado** · Fuentes: Associated Press, The New York Times, NBC News · [Leer la fuente](https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html)
 
-## Un terremoto de magnitud 6.4 sacude el sureste de la Isla de Pascua
-El USGS registró un terremoto de magnitud 6.4 al sureste de la Isla de Pascua.
+## La grave contaminación por parte de la industria del agua sigue siendo alta a pesar de una inversión de £5bn
+Los juegos de figuras magnéticas de palo violan la norma obligatoria para juguetes porque pueden liberar imanes potentes sueltos que representan un peligro de ingestión para los niños. Cuando se tragan imanes potentes, los imanes…
 
-**Probable** · Fuentes: USGS (earthquakes) · [Leer la fuente](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ttxz)
+**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, BBC News · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/GBYMIUY-Recalls-Magnetic-Stick-Figure-Toy-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys)
+
+## Los organismos de control dan la voz de alarma por un incendio en un emplazamiento de South Carolina donde EE. UU. planea construir un componente nuclear
+John Lee, el jefe ejecutivo de la ciudad, dijo que su secretario de vivienda dimitiría, pero defendió vehementemente al gobierno.
+
+**Confirmado** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html)
 
 ## Whatever Works retira parrillas de microondas debido al riesgo de lesiones graves o muerte por peligro de incendio
-Los consumidores deben dejar de usar las parrillas retiradas inmediatamente y contactar a Whatever Works para obtener un reembolso completo. Se les pedirá a los consumidores que escriban con marcador permanente “Recalled” en la parrilla y…
+Los consumidores deben dejar de usar las parrillas retiradas inmediatamente y comunicarse con Whatever Works para obtener un reembolso completo. Se les pedirá a los consumidores que escriban con marcador permanente “Recalled” en la…
 
 **Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Whatever-Works-Recalls-Microwave-Grills-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard)
 
-## El líder de Hong Kong se disculpa por el incendio mortal en Tai Po y promete reformas
-John Lee, el jefe ejecutivo de la ciudad, dijo que su secretario de vivienda renunciaría, pero defendió vehementemente al gobierno.
+## usOpal retira del mercado las barandillas de cama portátiles Xalirium debido al riesgo de lesiones graves o muerte por atrapamiento y asfixia; violan la norma obligatoria para barandillas de cama portátiles para adultos
+Las barandillas de cama retiradas del mercado violan la norma obligatoria para barandillas de cama portátiles para adultos porque, cuando se colocan en una cama, los usuarios pueden quedar atrapados dentro de la barandilla o entre la…
 
-**Probable** · Fuentes: Reuters, Financial Times, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/29/world/asia/hong-kong-fire-john-lee-apology.html)
+**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/usOpal-Recalls-Xalirium-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails)
 
-## Utah acusa a Kalshi y a sus fundadores, intensificando una lucha sobre quién puede regular los mercados de predicción
-El mercado de predicción recaudó $1 mil millones en una nueva ronda de financiación y alcanzó un valor de mercado casi el doble que el de su rival Polymarket. Pero los desafíos legales a su negocio persisten.
+## Decathlon America retira las bicicletas Van Rysel GRVL AF debido al riesgo de lesiones graves o muerte por peligro de accidente
+La contratuerca delantera de las bicicletas retiradas puede aflojarse durante el uso, lo que provoca que la rueda delantera se desprenda o se afloje con el tiempo, lo que supone un peligro de accidente.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/10/29/business/dealbook/kalshi-fundraising-ipo.html)
-
-## Giant Bicycle retira del mercado las llaves con luz LED incluidas en los juegos de candados para bicicleta SureLock debido al riesgo de lesiones graves o muerte por ingestión de baterías; viola la norma obligatoria para productos de consumo con baterías de botón
-La llave con luz LED que se incluyó con ciertos juegos de candados para bicicleta SureLock viola la norma de seguridad obligatoria para productos de consumo con baterías de botón y de moneda, ya que los niños pueden acceder fácilmente a…
-
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Giant-Bicycle-Recalls-LED-Light-Keys-Included-with-SureLock-Bike-Lock-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries)
+**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Decathlon-America-Recalls-Van-Rysel-GRVL-AF-Bicycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
