@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 31 OCTUBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 1 NOVIEMBRE 2026
 
-## Wall St Week Ahead: Las elecciones de mitad de mandato en EE. UU., los resultados empresariales y los datos de empleo se ciernen sobre un mercado bursátil cauteloso ante la IA
-Los inversores esperan los resultados de Apple, AMD y otras grandes empresas, así como las elecciones de mitad de mandato y el informe mensual de empleo.
+## Vietnam reduce el precio minorista de la electricidad, elimina el impuesto a la gasolina a partir del 1 de noviembre
+APOD Science APOD APOD: 2026 November 1 –... Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our…
 
-**Probable** · Fuentes: Reuters, Financial Times, CNBC · [Leer la fuente](https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html)
+**Confirmado** · Fuentes: NASA, Reuters · [Leer la fuente](https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/)
 
-## La Fed necesita al menos dos subidas de tipos más, dice Logan
-Los comentarios de los presidentes de la Reserva Federal, Alberto Musalem y Lorie Logan, ofrecen los primeros indicios sobre lo que los líderes de la Fed prevén que sucederá a continuación.
+## Una asediada Karen Bass lucha con uñas y dientes para mantener su alcaldía en LA. Podría ser demasiado tarde
+Con la asequibilidad como un tema electoral importante, la titular intenta defenderse de su retador socialista democrático. A finales de 2022, las cuatro ciudades más grandes de EE. UU. – Nueva York, Los Ángeles, Chicago y Houston –…
 
-**Probable** · Fuentes: Reuters, Bloomberg, CNBC · [Leer la fuente](https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html)
+**Probable** · Fuentes: The Guardian, CNBC · [Leer la fuente](https://www.theguardian.com/us-news/2026/nov/01/karen-bass-los-angeles-mayoral-race)
 
-## Decisiones adoptadas por el Consejo de Gobierno del BCE (además de las decisiones sobre los tipos de interés)
+## En la boleta electoral de California: Las perspectivas de un impuesto nacional a la riqueza
+El resultado de la iniciativa electoral del estado para un impuesto a los multimillonarios podría marcar la pauta para el debate demócrata más amplio sobre cómo recaudar más ingresos.
+
+**Probable** · Fuentes: The New York Times, The Guardian · [Leer la fuente](https://www.nytimes.com/2026/11/01/us/on-the-ballot-in-california-the-prospects-for-a-national-wealth-tax.html)
+
+## Healey del Reino Unido insinúa un retraso en la igualación del salario mínimo para los jóvenes
+La promesa del manifiesto de igualar las tasas antes de las próximas elecciones es ahora 'una cuestión de cuándo', dice John Healey a la BBC. Parece menos probable que el Partido Laborista cumpla su promesa electoral de igualar el salario…
+
+**En desarrollo** · Fuentes: Bloomberg, The Guardian · [Leer la fuente](https://www.theguardian.com/society/2026/nov/01/chancellor-fails-to-guarantee-minimum-wage-pledge-younger-workers-kuenssberg)
+
+## Bangladesh forma una junta salarial mientras las protestas textiles se tornan violentas
+Se llevaron a cabo manifestaciones en ciudades industriales mientras los trabajadores exigen un aumento salarial ante el incremento del costo de vida.
+
+**En desarrollo** · Fuentes: Reuters, Al Jazeera · [Leer la fuente](https://www.aljazeera.com/news/2026/11/1/bangladesh-forms-wage-board-amid-garment-worker-protests?traffic_source=rss)
+
+## Las altas tasas de tarjetas de crédito surgen como un raro tema bipartidista en las elecciones de mitad de período
 
 
-**Probable** · Fuentes: European Central Bank · [Leer la fuente](https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html)
-
-## El Departamento del Tesoro anuncia una nueva tasa de bonos Serie I del 5.51% para los próximos seis meses
-El Departamento del Tesoro ha anunciado nuevas tasas para los bonos Serie I hasta abril de 2027.
-
-**En desarrollo** · Fuentes: CNBC, The Hill · [Leer la fuente](https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html)
-
-## Los votantes evalúan las enmiendas sobre la ciudadanía mientras Trump aviva los temores sobre el fraude electoral de no ciudadanos
-Grupos de derechos civiles advierten que millones de estadounidenses podrían quedar marginados.
-
-**En desarrollo** · Fuentes: ABC News, The Hill · [Leer la fuente](https://abcnews.com/Politics/voters-weigh-citizenship-amendments-trump-fans-fears-noncitizen/story?id=137709864)
-
-## Residentes de una ciudad ucraniana bajo control ruso llegan a Bielorrusia
-Una fábrica de papel centenaria en Témiscaming, Quebec, ha cerrado indefinidamente después de que EE. UU. impusiera aranceles del 50% a sus productos, dejando a cientos de personas sin trabajo.
-
-**Probable** · Fuentes: Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss)
+**En desarrollo** · Fuentes: Bloomberg, CNN · [Leer la fuente](https://www.fool.com/the-ascent/credit-cards/landing/citi-simplicity-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-citisimp2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
