@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 1 NOVIEMBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 3 NOVIEMBRE 2026
 
-## Vietnam reduce el precio minorista de la electricidad, elimina el impuesto a la gasolina a partir del 1 de noviembre
-APOD Science APOD APOD: 2026 November 1 –... Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our…
+## La guerra de Trump con Irán, los altos precios de la gasolina y los problemas de asequibilidad están afectando a los votantes de mitad de período
+La bandeja de condensado dentro de la caldera puede agrietarse durante un encendido retardado, permitiendo que el gas no quemado se acumule dentro del gabinete sellado. Si el gas se enciende, la cubierta frontal puede desprenderse…
 
-**Confirmado** · Fuentes: NASA, Reuters · [Leer la fuente](https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/)
+**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, CBS News · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/NTI-and-HTP-Brand-Gas-Boilers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Carbon-Monoxide-CO-Poisoning-and-Impact-Hazards-Manufactured-by-Ariston-formerly-NTI-Boilers)
 
-## Una asediada Karen Bass lucha con uñas y dientes para mantener su alcaldía en LA. Podría ser demasiado tarde
-Con la asequibilidad como un tema electoral importante, la titular intenta defenderse de su retador socialista democrático. A finales de 2022, las cuatro ciudades más grandes de EE. UU. – Nueva York, Los Ángeles, Chicago y Houston –…
+## US job openings increase sharply in September
+The BLS reported job openings at 7.52 million, up 333,000 from August and well above the Dow Jones consensus outlook for 7.15 million
 
-**Probable** · Fuentes: The Guardian, CNBC · [Leer la fuente](https://www.theguardian.com/us-news/2026/nov/01/karen-bass-los-angeles-mayoral-race)
+**Probable** · Fuentes: Reuters, Bloomberg, CNBC · [Leer la fuente](https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html)
 
-## En la boleta electoral de California: Las perspectivas de un impuesto nacional a la riqueza
-El resultado de la iniciativa electoral del estado para un impuesto a los multimillonarios podría marcar la pauta para el debate demócrata más amplio sobre cómo recaudar más ingresos.
+## Detentions, resignations, probes shake Serbia after students toppled strongman Vucic in election
+Detentions, resignations, switching of sides, attempts to destroy evidence of wrongdoing
 
-**Probable** · Fuentes: The New York Times, The Guardian · [Leer la fuente](https://www.nytimes.com/2026/11/01/us/on-the-ballot-in-california-the-prospects-for-a-national-wealth-tax.html)
+**Probable** · Fuentes: Associated Press, Financial Times, ABC News · [Leer la fuente](https://abcnews.com/International/wireStory/detentions-resignations-probes-shake-serbia-after-students-toppled-137800721)
 
-## Healey del Reino Unido insinúa un retraso en la igualación del salario mínimo para los jóvenes
-La promesa del manifiesto de igualar las tasas antes de las próximas elecciones es ahora 'una cuestión de cuándo', dice John Healey a la BBC. Parece menos probable que el Partido Laborista cumpla su promesa electoral de igualar el salario…
+## Ex-Chicago FBI chief says he was ousted over a failed protesters case, sues Justice Department
+Latest arrests come after DoJ unsuccessfully fought to force state election officials to set aside about 20,000 ballots US midterms – live updates The US Department of Justice (DoJ) in California has charged six more people with alleged…
 
-**En desarrollo** · Fuentes: Bloomberg, The Guardian · [Leer la fuente](https://www.theguardian.com/society/2026/nov/01/chancellor-fails-to-guarantee-minimum-wage-pledge-younger-workers-kuenssberg)
+**Probable** · Fuentes: Associated Press, The New York Times, The Guardian · [Leer la fuente](https://www.nytimes.com/live/2026/11/02/us/midterms-elections-trump/voter-fraud-charges-california-doj)
 
-## Bangladesh forma una junta salarial mientras las protestas textiles se tornan violentas
-Se llevaron a cabo manifestaciones en ciudades industriales mientras los trabajadores exigen un aumento salarial ante el incremento del costo de vida.
+## From grains to chicken and milk, India faces prolonged food inflation
+Renewed strikes on Black Sea shipping imperil grain exports, drive up food prices and deepen global food insecurity.
 
-**En desarrollo** · Fuentes: Reuters, Al Jazeera · [Leer la fuente](https://www.aljazeera.com/news/2026/11/1/bangladesh-forms-wage-board-amid-garment-worker-protests?traffic_source=rss)
+**En desarrollo** · Fuentes: Reuters, Al Jazeera · [Leer la fuente](https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices?traffic_source=rss)
 
-## Las altas tasas de tarjetas de crédito surgen como un raro tema bipartidista en las elecciones de mitad de período
+## What's happening to UK interest rates and what does it mean for mortgages?
+The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.
 
-
-**En desarrollo** · Fuentes: Bloomberg, CNN · [Leer la fuente](https://www.fool.com/the-ascent/credit-cards/landing/citi-simplicity-review/?utm_site=theascent&utm_campaign=ta-cc-co-cnn-citisimp2-ron-5-hp-sfpb&utm_medium=cpc&utm_source=cnn)
+**Probable** · Fuentes: BBC News, Financial Times · [Leer la fuente](https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.

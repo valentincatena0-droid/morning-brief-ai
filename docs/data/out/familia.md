@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 1 NOVIEMBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 3 NOVIEMBRE 2026
 
-## Whatever Works retira parrillas de microondas debido al riesgo de lesiones graves o muerte por peligro de incendio
-Los consumidores deben dejar de usar las parrillas retiradas inmediatamente y contactar a Whatever Works para obtener un reembolso completo. Se les pedirá a los consumidores que escriban con marcador permanente “Recalled” en la parrilla y…
+## 'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack
+Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Whatever-Works-Recalls-Microwave-Grills-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard)
+**Confirmado** · Fuentes: BBC News, Financial Times, NPR · [Leer la fuente](https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss)
 
-## Giant Bicycle retira del mercado las llaves con luz LED incluidas en los juegos de candados para bicicleta SureLock debido al riesgo de lesiones graves o muerte por ingestión de baterías; viola la norma obligatoria para productos de consumo con baterías de botón
-La llave con luz LED que se incluyó con ciertos juegos de candados para bicicleta SureLock viola la norma de seguridad obligatoria para productos de consumo con baterías de botón y de moneda, ya que los niños pueden acceder fácilmente a…
+## La guerra de Trump con Irán, los altos precios de la gasolina y los problemas de asequibilidad están afectando a los votantes de mitad de período
+La bandeja de condensado dentro de la caldera puede agrietarse durante un encendido retardado, permitiendo que el gas no quemado se acumule dentro del gabinete sellado. Si el gas se enciende, la cubierta frontal puede desprenderse…
+
+**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, CBS News · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/NTI-and-HTP-Brand-Gas-Boilers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Carbon-Monoxide-CO-Poisoning-and-Impact-Hazards-Manufactured-by-Ariston-formerly-NTI-Boilers)
+
+## Giant Bicycle Recalls LED-Light Keys Included with SureLock Bike Lock Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Button Cell Batteries
+The LED-light key that was included with certain SureLock Bicycle Lock sets violates the mandatory safety standard for consumer products with button cell and coin batteries because the button batteries can be accessed easily by children,…
 
 **Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Giant-Bicycle-Recalls-LED-Light-Keys-Included-with-SureLock-Bike-Lock-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries)
 
-## usOpal retira del mercado las barandillas de cama portátiles Xalirium debido al riesgo de lesiones graves o muerte por atrapamiento y asfixia; violan la norma obligatoria para barandillas de cama portátiles para adultos
-Las barandillas de cama retiradas del mercado violan la norma obligatoria para barandillas de cama portátiles para adultos porque, cuando se colocan en una cama, los usuarios pueden quedar atrapados dentro de la barandilla o entre la…
+## usOpal Recalls Xalirium Portable Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails
+The recalled bed rails violate the mandatory standard for adult portable bed rails because when the bed rails are attached to a bed, users can become entrapped within the bed rail or between the bed rail and the side of the mattress,…
 
 **Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/usOpal-Recalls-Xalirium-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails)
 
-## Papablic, de EE. UU. retira del mercado cunas colecho convertibles debido al riesgo de lesiones graves o muerte por atrapamiento, asfixia y peligros de caída; violan la norma obligatoria para corrales de juego
-Las cunas colecho con extensiones de corral de juego violan la norma de seguridad obligatoria para corrales de juego porque el colchón puede desplazarse, provocando que un bebé quede atrapado entre la almohadilla para dormir y la parte…
+## Papablic, of USA Recalls Convertible Bedside Sleepers Due to Risk of Serious Injury or Death from Entrapment, Suffocation and Fall Hazards; Violate Mandatory Standard for Play Yards
+The bedside sleepers with play yard extensions violate the mandatory safety standard for play yards because the mattress can become displaced causing a baby to become entrapped between the sleeping pad and bottom posing a deadly…
 
 **Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Papablic-of-USA-Recalls-Convertible-Bedside-Sleepers-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-Suffocation-and-Fall-Hazards-Violate-Mandatory-Standard-for-Play-Yards)
 
-## ¿Van las elecciones de mitad de mandato de EE. UU. a ver una ola azul de demócratas ganando escaños, o una inundación azul?
-Donald Trump pronunció cinco palabras este verano que podrían sellar el destino del partido Republicano: ‘Pretend I’m on the ticket’ Habló con admiración del trasero de un senador. Acusó sin fundamento a un candidato musulmán de ser un…
+## CVR Energy to buy two Marathon refineries, marketing business for $4.2 billion
+Taco Bell's same-store sales declined as a Cyclospora outbreak tied to lettuce served at its restaurants weighed on traffic.
 
-**Probable** · Fuentes: The Guardian, ABC News, The Hill · [Leer la fuente](https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/us-midterms-trump-blue-wave)
-
-## 'Volvimos del infierno', dicen ucranianos tras años en una ciudad de primera línea ocupada por Rusia
-Una pareja evacuada dice que cruzó campos de minas en Oleshky en busca de comida.
-
-**Probable** · Fuentes: BBC News, CBS News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss)
+**Probable** · Fuentes: Reuters, Bloomberg, CNBC · [Leer la fuente](https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
