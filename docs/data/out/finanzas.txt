@@ -1,34 +1,34 @@
-Morning Brief · Dinero y economía personal · 5 NOVIEMBRE 2026
+Morning Brief · Dinero y economía personal · 6 NOVIEMBRE 2026
 
-1. Ciberataque afecta al sitio del banco de sangre francés, pero no se comprometen productos sanguíneos
-   El Establecimiento Francés de Sangre (EFS) dijo que las cámaras frigoríficas que almacenan sangre fueron afectadas por piratas informáticos.
+1. Juez federal ordena un retraso de 14 días en cualquier trabajo que comience en el arco monumental de Trump
+   La administración Trump esperaba que la construcción del arco de 250 pies pudiera comenzar tan pronto como esta semana.
    [Confirmado] Fuentes: Associated Press, Reuters, BBC News
-   https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss
+   https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss
 
-2. El BoE sube los tipos por primera vez en 3 años; la caída de los precios del petróleo podría permitir más opciones en el futuro
-   El Banco de Inglaterra está subiendo los tipos de interés por primera vez en más de tres años en un esfuerzo por hacer frente a un choque inflacionario avivado por la guerra de Irán
-   [Probable] Fuentes: Associated Press, Bloomberg, ABC News
-   https://abcnews.com/International/wireStory/bank-england-set-hike-interest-rates-tackle-higher-137867519
+2. El presidente de Paraguay, Peña, bajo investigación, enfrenta la destitución de su cargo por el colapso de un banco
+   La medida se produce tras el colapso de un banco y después de que la cámara baja del congreso votara a favor de iniciar un juicio político en su contra.
+   [Confirmado] Fuentes: Associated Press, Reuters, BBC News
+   https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss
 
-3. Las tasas de interés subieron al 4% en el primer aumento en más de tres años
-   La mayoría de los analistas esperaban el aumento del 3.75% al 4%.
-   [Probable] Fuentes: BBC News, The New York Times, CNBC
-   https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss
+3. Las ventas de Ikea caen mientras el grupo de muebles reduce precios para reactivar el crecimiento
+   Toyota está sacando provecho del auge de los híbridos en EE. UU. a medida que la demanda de vehículos eléctricos se desacelera, pero los cambios en las mareas políticas en Washington podrían poner en peligro su ventaja.
+   [Probable] Fuentes: Financial Times, The New York Times, Bloomberg
+   https://www.nytimes.com/2026/11/05/business/toyota-profits-hybrids.html
 
-4. El alto endeudamiento y el auge de las entidades no bancarias amenazan con atar las manos del BCE, dice Schnabel
-   El coste del servicio de la deuda externa impide a los países en desarrollo invertir para el futuro. La deuda contraída por los países en desarrollo aumentó a una cifra récord de 9,4 billones de dólares (7 billones de libras) el año…
-   [Probable] Fuentes: Reuters, The Guardian
-   https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data
+4. Aumenta la contratación: La economía añadió 165,000 empleos el mes pasado
+   El mercado laboral de EE. UU. mejoró el mes pasado, según un informe del Departamento de Trabajo el viernes. Los empleadores añadieron más empleos de lo que los pronosticadores esperaban y la tasa de desempleo bajó al 4.1%.
+   [Probable] Fuentes: NPR, ABC News
+   https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation
 
-5. Las ganancias de Sony aumentan gracias a 'Spider-Man: Brand New Day'; las de Nintendo caen
-   La compañía japonesa de electrónica y entretenimiento Sony ha reportado un aumento del 44% en sus ganancias de julio a septiembre, en gran parte debido al éxito en taquilla de su película, “Spider-Man: Brand New Day”.
-   [Confirmado] Fuentes: Reuters, Financial Times, Bloomberg
-   https://abcnews.com/International/wireStory/japans-sony-reports-hefty-profit-back-blockbuster-spider-137869766
+5. El crecimiento del empleo en EE. UU. aumenta en octubre; la tasa de desempleo cae al 4.1%
+   Se esperaba que las nóminas no agrícolas aumentaran en 59,000 en octubre, mientras que se esperaba que la tasa de desempleo se mantuviera estable en el 4.2%.
+   [En desarrollo] Fuentes: Reuters, CNBC
+   https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html
 
-6. Los partidos árabes tienden la mano para intentar derrocar a Netanyahu, pero los desafíos persisten
-   El líder israelí y sus aliados alegan que los votantes árabes robaron las elecciones el mes pasado. Los funcionarios electorales dicen que, si bien se estaba investigando un juego sucio, este no podría haber afectado el resultado.
-   [En desarrollo] Fuentes: Associated Press, The New York Times, The Guardian
-   https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html
+6. ¿Qué significa el aumento de las tasas de interés?
+   El corresponsal de costo de vida de la BBC, Kevin Peachey, explica lo que el cambio podría significar para aquellos que ahorran para unas vacaciones o para comprar una casa.
+   [Probable] Fuentes: BBC News, The New York Times
+   https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno?at_medium=RSS&at_campaign=rss
 
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
 Edición completa: https://valentincatena0-droid.github.io/morning-brief-ai/#/niche/finanzas
