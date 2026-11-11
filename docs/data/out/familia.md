@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 8 NOVIEMBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 11 NOVIEMBRE 2026
 
-## Un pistolero polaco que mató a 6 personas en Cracovia tiene opiniones ‘ultranacionalistas’, dicen las autoridades
-Un pistolero atacó a personas al azar mientras conducía hacia la Plaza del Mercado de Cracovia, un importante lugar turístico. La policía disparó e hirió al pistolero durante un tiroteo.
+## El ébola supera los 11,000 casos en el brote más mortífero del Congo
+Setenta y un casos confirmados de ébola han sido detectados a lo largo de las rutas de tránsito en la República Democrática del Congo (RDC) desde que comenzó el brote hace casi seis meses, dijo el martes la Organización Internacional para…
 
-**Confirmado** · Fuentes: Associated Press, NPR, Bloomberg · [Leer la fuente](https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15)
+**Confirmado** · Fuentes: UN News, Associated Press, NPR · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/11/1168781)
 
-## El presidente de Israel elige al candidato opositor Eisenkot para formar gobierno, en un revés para Netanyahu
-Gadi Eisenkot se postuló como el principal rival del primer ministro Benjamin Netanyahu, pero ninguno obtuvo suficiente apoyo para alcanzar una mayoría. Los principales partidos de Israel han recomendado que Eisenkot forme un nuevo…
+## Unas 300 escuelas italianas evacuadas debido a amenazas de bomba
+Correos electrónicos que contenían las falsas advertencias fueron enviados a escuelas en Roma, Nápoles, Vicenza, Florencia, Pisa, Trieste y otras ciudades italianas, dicen las autoridades.
 
-**Confirmado** · Fuentes: Associated Press, NPR, The New York Times · [Leer la fuente](https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog)
+**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss)
 
-## Whatever Works retira parrillas de microondas debido al riesgo de lesiones graves o muerte por peligro de incendio
-Los consumidores deben dejar de usar las parrillas retiradas inmediatamente y contactar a Whatever Works para obtener un reembolso completo. Se les pedirá a los consumidores que escriban con marcador permanente “Recalled” en la parrilla y…
+## Siemens Energy sees higher margins as data centres boost power equipment demand
+Grass and debris can accumulate in the trimmer mowers and ignite, posing a risk of serious injury or death from fire and burn hazards.
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Whatever-Works-Recalls-Microwave-Grills-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard)
+**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, Reuters · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/DR-Power-Equipment-Recalls-Pilot-and-Premier-Trimmer-Mowers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards)
 
-## Un fuerte terremoto sacude el centro de Japón, rompiendo escaparates y dejando al menos 22 heridos
-Un fuerte terremoto con una magnitud preliminar de 5.7 ha sacudido el centro de Japón
+## La Fuerza Aérea de EE. UU. traslada aviones de una base en Inglaterra debido a una amenaza, dice un funcionario estadounidense
+Al menos una docena de aviones de reabastecimiento de combustible de EE. UU. y otras aeronaves partieron el lunes de una base británica que es un centro importante para EE. UU. Las razones detrás del movimiento siguen sin estar claras.
 
-**Probable** · Fuentes: Associated Press, ABC News, Al Jazeera · [Leer la fuente](https://abcnews.com/International/wireStory/strong-earthquake-preliminary-magnitude-57-strikes-japan-meteorological-137946690)
+**Confirmado** · Fuentes: Associated Press, Reuters, The Washington Post · [Leer la fuente](https://www.washingtonpost.com/world/2026/11/10/us-aircraft-abruptly-depart-second-uk-base/)
 
-## Giant Bicycle retira del mercado las llaves con luz LED incluidas en los juegos de candados para bicicleta SureLock debido al riesgo de lesiones graves o muerte por ingestión de baterías; viola la norma obligatoria para productos de consumo con baterías de botón
-La llave con luz LED que se incluyó con ciertos juegos de candados para bicicleta SureLock viola la norma de seguridad obligatoria para productos de consumo con baterías de botón y de moneda, ya que los niños pueden acceder fácilmente a…
+## Retirada de calderas de gas de las marcas NTI y HTP debido al riesgo de lesiones graves o muerte por incendio, intoxicación por monóxido de carbono (CO) y peligros de impacto; fabricadas por Ariston, anteriormente NTI Boilers
+La bandeja de condensados dentro de la caldera puede agrietarse durante un encendido retardado, permitiendo que el gas no quemado se acumule dentro del gabinete sellado. Si el gas se enciende, la cubierta frontal puede desprenderse…
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Giant-Bicycle-Recalls-LED-Light-Keys-Included-with-SureLock-Bike-Lock-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries)
+**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/NTI-and-HTP-Brand-Gas-Boilers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Carbon-Monoxide-CO-Poisoning-and-Impact-Hazards-Manufactured-by-Ariston-formerly-NTI-Boilers)
 
-## usOpal retira del mercado las barandillas de cama portátiles Xalirium debido al riesgo de lesiones graves o muerte por atrapamiento y asfixia; violan la norma obligatoria para barandillas de cama portátiles para adultos
-Las barandillas de cama retiradas del mercado violan la norma obligatoria para barandillas de cama portátiles para adultos porque, cuando se colocan en una cama, los usuarios pueden quedar atrapados dentro de la barandilla o entre la…
+## UNICEF dice que Israel bloquea las reparaciones de la cuenca de Gaza y advierte sobre el riesgo de inundaciones
+Al menos cuatro personas de una misma familia murieron y miles perdieron sus refugios cuando una tormenta azotó los campamentos de tiendas de campaña superpoblados. Israel dice que Gaza no será reconstruida hasta que Hamás se desarme.
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/usOpal-Recalls-Xalirium-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails)
+**Probable** · Fuentes: Reuters, The New York Times, Al Jazeera · [Leer la fuente](https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
