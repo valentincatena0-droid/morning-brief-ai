@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 11 NOVIEMBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 13 NOVIEMBRE 2026
 
-## El ébola supera los 11,000 casos en el brote más mortífero del Congo
-Setenta y un casos confirmados de ébola han sido detectados a lo largo de las rutas de tránsito en la República Democrática del Congo (RDC) desde que comenzó el brote hace casi seis meses, dijo el martes la Organización Internacional para…
+## Grupos de ayuda piden a Israel que permita refugios en Gaza en medio de una emergencia humanitaria
+Los suministros de invierno deben entrar en la Franja de Gaza donde “hay vidas en juego”, dijeron la ONU y sus socios en un llamamiento urgente el viernes, tras las lluvias mortales del pasado fin de semana.
 
-**Confirmado** · Fuentes: UN News, Associated Press, NPR · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/11/1168781)
+**Confirmado** · Fuentes: UN News, NPR, The Washington Post · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/11/1168799)
 
-## Unas 300 escuelas italianas evacuadas debido a amenazas de bomba
-Correos electrónicos que contenían las falsas advertencias fueron enviados a escuelas en Roma, Nápoles, Vicenza, Florencia, Pisa, Trieste y otras ciudades italianas, dicen las autoridades.
+## Ataque israelí a hospital de Gaza mata a 6 personas, incluyendo un médico y un niño, dice el Ministerio de Salud
+Un ataque aéreo israelí contra el Hospital Nasser de Gaza el miércoles por la noche mató a seis personas, hirió a otras 27 y causó daños extensos.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: UN News, Associated Press, NPR · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/11/1168796)
 
-## Siemens Energy sees higher margins as data centres boost power equipment demand
-Grass and debris can accumulate in the trimmer mowers and ignite, posing a risk of serious injury or death from fire and burn hazards.
+## Trump dice que el ex CEO de Apple, Cook, es 'una leyenda' y debería reemplazar a Huang en Nvidia
+El presidente Trump sugirió a Tim Cook, ex C.E.O. de Apple, para reemplazar a Jensen Huang en Nvidia. Aquí hay otros con experiencia en chips o I.A.
 
-**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, Reuters · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/DR-Power-Equipment-Recalls-Pilot-and-Premier-Trimmer-Mowers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards)
+**Confirmado** · Fuentes: Reuters, The New York Times, NBC News · [Leer la fuente](https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html)
 
-## La Fuerza Aérea de EE. UU. traslada aviones de una base en Inglaterra debido a una amenaza, dice un funcionario estadounidense
-Al menos una docena de aviones de reabastecimiento de combustible de EE. UU. y otras aeronaves partieron el lunes de una base británica que es un centro importante para EE. UU. Las razones detrás del movimiento siguen sin estar claras.
+## Hegseth condecora al soldado que le reprendió a él y a sus ayudantes en la Tumba del Soldado Desconocido
+El especialista Thomas Iglesias le había gritado al grupo de Hegseth que guardaran silencio después de que se les escuchara hablar y reír en la Tumba del Soldado Desconocido.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, The Washington Post · [Leer la fuente](https://www.washingtonpost.com/world/2026/11/10/us-aircraft-abruptly-depart-second-uk-base/)
+**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss)
 
-## Retirada de calderas de gas de las marcas NTI y HTP debido al riesgo de lesiones graves o muerte por incendio, intoxicación por monóxido de carbono (CO) y peligros de impacto; fabricadas por Ariston, anteriormente NTI Boilers
-La bandeja de condensados dentro de la caldera puede agrietarse durante un encendido retardado, permitiendo que el gas no quemado se acumule dentro del gabinete sellado. Si el gas se enciende, la cubierta frontal puede desprenderse…
+## Barrick suspende temporalmente a algunos empleados en una mina del Congo como medida de precaución contra el ébola, según un memorando
+El brote de ébola en la República Democrática del Congo (RDC) continúa propagándose en medio de repetidos y constantes ataques mortales contra civiles y trabajadores sanitarios de primera línea por parte de grupos armados que están…
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/NTI-and-HTP-Brand-Gas-Boilers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Carbon-Monoxide-CO-Poisoning-and-Impact-Hazards-Manufactured-by-Ariston-formerly-NTI-Boilers)
+**Confirmado** · Fuentes: UN News, Reuters · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/11/1168797)
 
-## UNICEF dice que Israel bloquea las reparaciones de la cuenca de Gaza y advierte sobre el riesgo de inundaciones
-Al menos cuatro personas de una misma familia murieron y miles perdieron sus refugios cuando una tormenta azotó los campamentos de tiendas de campaña superpoblados. Israel dice que Gaza no será reconstruida hasta que Hamás se desarme.
+## Quantum Systems dice que los drones militares alemanes inmovilizados vuelven a volar tras un ciberataque
+Volodymyr Zelenskyy dice que las restricciones de velocidad en el sistema Starshield dificultaron que Ucrania derribara drones. Europa en directo: últimas actualizaciones. Rusia ha atacado un hospital en el centro de Kyiv, cerca de varias…
 
-**Probable** · Fuentes: Reuters, The New York Times, Al Jazeera · [Leer la fuente](https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html)
+**Probable** · Fuentes: Reuters, Financial Times, The Guardian · [Leer la fuente](https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
