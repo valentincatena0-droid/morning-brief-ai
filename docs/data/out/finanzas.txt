@@ -1,33 +1,32 @@
-Morning Brief · Dinero y economía personal · 13 NOVIEMBRE 2026
+Morning Brief · Dinero y economía personal · 14 NOVIEMBRE 2026
 
-1. Las ventas de viviendas en EE. UU. cayeron en octubre al ritmo más lento en más de 16 años debido al aumento de las tasas hipotecarias
-   Las ventas de viviendas existentes en octubre disminuyeron un 8.8% respecto al año anterior, según la National Association of Realtors.
-   [Confirmado] Fuentes: Associated Press, Financial Times, NPR
-   https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years
+1. Es probable que la Fed necesite subir las tasas ante el empeoramiento de la inflación: Daly
+   «Tenemos que avanzar más», dice Huw Pill tras el aumento al 4% este mes mientras el Banco busca combatir la creciente inflación. Es probable que el Banco de Inglaterra necesite subir las tasas de interés el próximo mes y de nuevo a…
+   [Confirmado] Fuentes: Reuters, Financial Times, Bloomberg
+   https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist
 
-2. Trump dice que el ex CEO de Apple, Cook, es 'una leyenda' y debería reemplazar a Huang en Nvidia
-   El presidente Trump sugirió a Tim Cook, ex C.E.O. de Apple, para reemplazar a Jensen Huang en Nvidia. Aquí hay otros con experiencia en chips o I.A.
-   [Confirmado] Fuentes: Reuters, The New York Times, NBC News
-   https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html
+2. Mortgage Rates Remain High as Affordability Challenges Persist
+   The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.
+   [Probable] Fuentes: The New York Times, The Guardian, The Hill
+   https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html
 
-3. Williams de la Fed dice que el banco central tiene 'trabajo por hacer' para que la inflación vuelva al objetivo
-   Mientras el planeta se enfrenta a un calentamiento global sin precedentes causado por el ser humano, los jefes de gobierno se reúnen en Turquía durante las próximas dos semanas para la última ronda de conversaciones sobre el clima.…
-   [Probable] Fuentes: Reuters, Bloomberg, The Guardian
-   https://www.theguardian.com/science/video/2026/nov/12/cop31-how-far-off-target-are-we-video
+3. EXCLUSIVA: Ex-CEO de Nvidia engañó a abogado principal sobre aventura con empresaria china, dicen fuentes
+   La destitución de Jensen Huang del fabricante de chips que ayudó a fundar está resonando en todo Silicon Valley, Washington y más allá.
+   [Probable] Fuentes: Reuters, The New York Times, Bloomberg
+   https://www.nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html
 
-4. Bonos, inflación y la Fed. Además, Nvidia en crisis
-   Jensen Huang, director ejecutivo de Nvidia, renunció el jueves tras admitir una aventura con una mujer que, según la inteligencia de EE. UU., espiaba para China.
-   [Probable] Fuentes: Financial Times, The New York Times, CNBC
-   https://www.nytimes.com/article/nvidia-investigation-jensen-huang.html
+4. China y EE. UU. discuten aranceles y comercio agrícola antes de la reunión entre Xi y Trump
+   Pekín ha instado repetidamente a Washington a implementar el acuerdo de reducción de aranceles de 60.000 millones de dólares, calificándolo como un requisito previo para aumentar las compras de productos agrícolas estadounidenses.
+   [Probable] Fuentes: Reuters, Bloomberg, CNBC
+   https://www.cnbc.com/2026/11/14/china-us-tariffs-xi-trump-meeting.html
 
-5. El mercado laboral de EE. UU. es resiliente; las ventas de viviendas existentes alcanzaron su nivel más bajo en más de 16 años en octubre
-   El cambio a una reunión de estrategia el próximo octubre es solo el primer paso en un plan más amplio de Kevin M. Warsh, el presidente de la Reserva Federal, para cambiar la forma en que opera el banco central.
-   [Probable] Fuentes: Reuters, The New York Times, The Guardian
-   https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html
+5. US producer prices rise moderately in October, but inflation broadens out
+   [En desarrollo] Fuentes: Reuters, Bloomberg
 
-6. EXCLUSIVA: El ex CEO de Nvidia, Huang, tuvo una relación con una segunda empleada, dicen las fuentes
-   [Confirmado] Fuentes: Federal Reserve, Reuters
-   https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm
+6. Sheinbaum de México dice que la caravana migrante no se dirige a EE. UU. ahora mientras Trump amenaza con aranceles
+   Una caravana migrante de más de mil personas se dirige hacia la frontera de EE. UU. desde el sur de México.
+   [En desarrollo] Fuentes: Reuters, Al Jazeera
+   https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss
 
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
 Edición completa: https://valentincatena0-droid.github.io/morning-brief-ai/#/niche/finanzas

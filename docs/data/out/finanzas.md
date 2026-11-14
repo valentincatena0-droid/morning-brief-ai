@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 13 NOVIEMBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 14 NOVIEMBRE 2026
 
-## Las ventas de viviendas en EE. UU. cayeron en octubre al ritmo más lento en más de 16 años debido al aumento de las tasas hipotecarias
-Las ventas de viviendas existentes en octubre disminuyeron un 8.8% respecto al año anterior, según la National Association of Realtors.
+## Es probable que la Fed necesite subir las tasas ante el empeoramiento de la inflación: Daly
+«Tenemos que avanzar más», dice Huw Pill tras el aumento al 4% este mes mientras el Banco busca combatir la creciente inflación. Es probable que el Banco de Inglaterra necesite subir las tasas de interés el próximo mes y de nuevo a…
 
-**Confirmado** · Fuentes: Associated Press, Financial Times, NPR · [Leer la fuente](https://www.npr.org/2026/11/12/nx-s1-6038940/punch-in-the-gut-homes-sales-fall-to-their-lowest-in-16-years)
+**Confirmado** · Fuentes: Reuters, Financial Times, Bloomberg · [Leer la fuente](https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist)
 
-## Trump dice que el ex CEO de Apple, Cook, es 'una leyenda' y debería reemplazar a Huang en Nvidia
-El presidente Trump sugirió a Tim Cook, ex C.E.O. de Apple, para reemplazar a Jensen Huang en Nvidia. Aquí hay otros con experiencia en chips o I.A.
+## Mortgage Rates Remain High as Affordability Challenges Persist
+The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.
 
-**Confirmado** · Fuentes: Reuters, The New York Times, NBC News · [Leer la fuente](https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html)
+**Probable** · Fuentes: The New York Times, The Guardian, The Hill · [Leer la fuente](https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html)
 
-## Williams de la Fed dice que el banco central tiene 'trabajo por hacer' para que la inflación vuelva al objetivo
-Mientras el planeta se enfrenta a un calentamiento global sin precedentes causado por el ser humano, los jefes de gobierno se reúnen en Turquía durante las próximas dos semanas para la última ronda de conversaciones sobre el clima.…
+## EXCLUSIVA: Ex-CEO de Nvidia engañó a abogado principal sobre aventura con empresaria china, dicen fuentes
+La destitución de Jensen Huang del fabricante de chips que ayudó a fundar está resonando en todo Silicon Valley, Washington y más allá.
 
-**Probable** · Fuentes: Reuters, Bloomberg, The Guardian · [Leer la fuente](https://www.theguardian.com/science/video/2026/nov/12/cop31-how-far-off-target-are-we-video)
+**Probable** · Fuentes: Reuters, The New York Times, Bloomberg · [Leer la fuente](https://www.nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html)
 
-## Bonos, inflación y la Fed. Además, Nvidia en crisis
-Jensen Huang, director ejecutivo de Nvidia, renunció el jueves tras admitir una aventura con una mujer que, según la inteligencia de EE. UU., espiaba para China.
+## China y EE. UU. discuten aranceles y comercio agrícola antes de la reunión entre Xi y Trump
+Pekín ha instado repetidamente a Washington a implementar el acuerdo de reducción de aranceles de 60.000 millones de dólares, calificándolo como un requisito previo para aumentar las compras de productos agrícolas estadounidenses.
 
-**Probable** · Fuentes: Financial Times, The New York Times, CNBC · [Leer la fuente](https://www.nytimes.com/article/nvidia-investigation-jensen-huang.html)
+**Probable** · Fuentes: Reuters, Bloomberg, CNBC · [Leer la fuente](https://www.cnbc.com/2026/11/14/china-us-tariffs-xi-trump-meeting.html)
 
-## El mercado laboral de EE. UU. es resiliente; las ventas de viviendas existentes alcanzaron su nivel más bajo en más de 16 años en octubre
-El cambio a una reunión de estrategia el próximo octubre es solo el primer paso en un plan más amplio de Kevin M. Warsh, el presidente de la Reserva Federal, para cambiar la forma en que opera el banco central.
-
-**Probable** · Fuentes: Reuters, The New York Times, The Guardian · [Leer la fuente](https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html)
-
-## EXCLUSIVA: El ex CEO de Nvidia, Huang, tuvo una relación con una segunda empleada, dicen las fuentes
+## US producer prices rise moderately in October, but inflation broadens out
 
 
-**Confirmado** · Fuentes: Federal Reserve, Reuters · [Leer la fuente](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm)
+**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNDTVIxbVNEWDkyN3QzVk9YR2stVjFURXFqcDNXeGZ2S3FUcmhJNzJqcEp5R3JMY0dDdnl3MDEyRXVKRnB1ZGhMVHpQeTRYNnZwZDQ3UlpnTG5mR1o0akdxWDRhWDU1dm1CY2M3bFZQNHhNRHZyaUZFU1VPODZIdFJrbXBaM2UzTnRXOA?oc=5)
+
+## Sheinbaum de México dice que la caravana migrante no se dirige a EE. UU. ahora mientras Trump amenaza con aranceles
+Una caravana migrante de más de mil personas se dirige hacia la frontera de EE. UU. desde el sur de México.
+
+**En desarrollo** · Fuentes: Reuters, Al Jazeera · [Leer la fuente](https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.

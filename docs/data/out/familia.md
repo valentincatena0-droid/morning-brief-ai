@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 13 NOVIEMBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 14 NOVIEMBRE 2026
 
-## Grupos de ayuda piden a Israel que permita refugios en Gaza en medio de una emergencia humanitaria
-Los suministros de invierno deben entrar en la Franja de Gaza donde “hay vidas en juego”, dijeron la ONU y sus socios en un llamamiento urgente el viernes, tras las lluvias mortales del pasado fin de semana.
+## Los sobrevivientes del mortal derrumbe de un edificio en Brooklyn recuerdan el impacto, el terror y el dolor
+Las hidrolavadoras retiradas del mercado carecen de un cable de alimentación de longitud adecuada, lo que puede fomentar el uso de un cable de extensión, lo que representa un grave riesgo de lesiones o muerte por peligros de descarga y…
 
-**Confirmado** · Fuentes: UN News, NPR, The Washington Post · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/11/1168799)
+**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, Associated Press, The Washington Post · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/QIOMALA-Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards)
 
-## Ataque israelí a hospital de Gaza mata a 6 personas, incluyendo un médico y un niño, dice el Ministerio de Salud
-Un ataque aéreo israelí contra el Hospital Nasser de Gaza el miércoles por la noche mató a seis personas, hirió a otras 27 y causó daños extensos.
+## Todos los pasajeros y la tripulación del crucero de New Orleans sobreviven al choque con un buque cisterna en el río Mississippi
+La colisión deja a 32 personas en el hospital con heridas no críticas, pero no hay nadie desaparecido.
 
-**Confirmado** · Fuentes: UN News, Associated Press, NPR · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/11/1168796)
+**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss)
 
-## Trump dice que el ex CEO de Apple, Cook, es 'una leyenda' y debería reemplazar a Huang en Nvidia
-El presidente Trump sugirió a Tim Cook, ex C.E.O. de Apple, para reemplazar a Jensen Huang en Nvidia. Aquí hay otros con experiencia en chips o I.A.
+## ¿Quién es Chris Van Hollen, el senador que desafía a Chuck Schumer para ser líder de la mayoría?
+Es el miembro de mayor rango del Subcomité de Relaciones Exteriores del Senado que supervisa la ayuda sanitaria y acaba de anunciar que se postula para líder de la mayoría. Habló con NPR sobre su visión de la ayuda exterior.
 
-**Confirmado** · Fuentes: Reuters, The New York Times, NBC News · [Leer la fuente](https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html)
+**Confirmado** · Fuentes: Associated Press, NPR, Bloomberg · [Leer la fuente](https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid)
 
-## Hegseth condecora al soldado que le reprendió a él y a sus ayudantes en la Tumba del Soldado Desconocido
-El especialista Thomas Iglesias le había gritado al grupo de Hegseth que guardaran silencio después de que se les escuchara hablar y reír en la Tumba del Soldado Desconocido.
+## Bomb found near ethanol plant in central Illinois forces evacuations as authorities investigate
+Residents in a one-mile radius of the plant were advised to evacuate after the device was located at an industrial site along the Illinois River.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: Associated Press, The New York Times, The Guardian · [Leer la fuente](https://www.nytimes.com/2026/11/14/us/bomb-ethanol-plant-peoria-illinois.html)
 
-## Barrick suspende temporalmente a algunos empleados en una mina del Congo como medida de precaución contra el ébola, según un memorando
-El brote de ébola en la República Democrática del Congo (RDC) continúa propagándose en medio de repetidos y constantes ataques mortales contra civiles y trabajadores sanitarios de primera línea por parte de grupos armados que están…
+## El Papa dice que es una 'alegría' estar en casa mientras Chiclayo, Perú, da la bienvenida a su antiguo pastor
+El Papa León XIV está en Perú como parte de su gira por América Latina, pocas semanas después de someterse a una cirugía por cáncer de pulmón.
 
-**Confirmado** · Fuentes: UN News, Reuters · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/11/1168797)
+**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss)
 
-## Quantum Systems dice que los drones militares alemanes inmovilizados vuelven a volar tras un ciberataque
-Volodymyr Zelenskyy dice que las restricciones de velocidad en el sistema Starshield dificultaron que Ucrania derribara drones. Europa en directo: últimas actualizaciones. Rusia ha atacado un hospital en el centro de Kyiv, cerca de varias…
+## Whatever Works retira parrillas de microondas debido al riesgo de lesiones graves o muerte por peligro de incendio
+Los consumidores deben dejar de usar las parrillas retiradas inmediatamente y contactar a Whatever Works para obtener un reembolso completo. Se les pedirá a los consumidores que escriban con marcador permanente “Recalled” en la parrilla y…
 
-**Probable** · Fuentes: Reuters, Financial Times, The Guardian · [Leer la fuente](https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails)
+**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Whatever-Works-Recalls-Microwave-Grills-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
